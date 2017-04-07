@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<DocumentJournal uuid="55eeb479-41ee-4939-967c-2babcfe4ea28">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentJournalSelection.СчетаФактурыПолученные" category="Selection">
+				<xr:TypeId>134d3ed9-6862-49fa-b0b0-bb25a5d613ac</xr:TypeId>
+				<xr:ValueId>08fde580-07ca-41d6-b182-542e6f2fe498</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentJournalList.СчетаФактурыПолученные" category="List">
+				<xr:TypeId>66d4a2a4-1e6c-4f3f-8acc-4c5fb1819c56</xr:TypeId>
+				<xr:ValueId>1ce5bc59-952b-4f0d-981b-6df3baaee358</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentJournalManager.СчетаФактурыПолученные" category="Manager">
+				<xr:TypeId>523f2e4c-396c-4a89-9324-4d7ee1abf306</xr:TypeId>
+				<xr:ValueId>bd1f0a4a-67da-4219-acb6-a197d984639e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СчетаФактурыПолученные</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Счета-фактуры полученные</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<DefaultForm>DocumentJournal.СчетаФактурыПолученные.Form.ФормаСписка</DefaultForm>
+			<AuxiliaryForm/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<RegisteredDocuments>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировочныйСчетФактураПолученный</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ИсправлениеСчетаФактурыПолученного</xr:Item>
+			</RegisteredDocuments>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Column uuid="568a2bb9-d09d-4aec-9efc-3b3e80e8c575">
+				<Properties>
+					<Name>Контрагент</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.Контрагент</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.Контрагент</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="290f193a-da07-423a-95a3-2617ff39fbcc">
+				<Properties>
+					<Name>НомерДокВходящий</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Номер вход. документа</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.НомерДокВходящий</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="78ac356a-434e-4872-90e8-e9a784f9677b">
+				<Properties>
+					<Name>ДатаДокВходящий</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Дата вход. документа</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.ДатаДокВходящий</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="10fedb44-d48a-4efd-9e9f-5f60baf84e19">
+				<Properties>
+					<Name>Автор</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.Автор</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.Автор</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировочныйСчетФактураПолученный.Attribute.Автор</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ИсправлениеСчетаФактурыПолученного.Attribute.Автор</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="0862b472-9992-4b61-b13f-152e80491216">
+				<Properties>
+					<Name>Проект</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.Проект</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.Проект</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировочныйСчетФактураПолученный.Attribute.Проект</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ИсправлениеСчетаФактурыПолученного.Attribute.Проект</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="fdbd79e9-a1af-4396-82a4-06a7e850a7e2">
+				<Properties>
+					<Name>Фирма</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.Фирма</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.Фирма</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировочныйСчетФактураПолученный.Attribute.Фирма</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ИсправлениеСчетаФактурыПолученного.Attribute.Фирма</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="2844dfd6-1c3d-4770-9cf8-3bc2f921d40b">
+				<Properties>
+					<Name>ЮрЛицо</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Собственное юр. лицо</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.ЮрЛицо</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.ЮрЛицо</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировочныйСчетФактураПолученный.Attribute.ЮрЛицо</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ИсправлениеСчетаФактурыПолученного.Attribute.ЮрЛицо</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="6e080d67-2074-49c6-81b7-e6840c708adb">
+				<Properties>
+					<Name>СуммаДокумента</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сумма </v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Сумма, налоги включены согласно флагам</Comment>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.СуммаДокумента</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.СуммаДокумента</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировочныйСчетФактураПолученный.Attribute.СуммаДокумента</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ИсправлениеСчетаФактурыПолученного.Attribute.СуммаДокумента</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="78b62a53-dde9-4c4d-beb5-f1e0522382e6">
+				<Properties>
+					<Name>Комментарий</Name>
+					<Synonym/>
+					<Comment>Дополнительная информация</Comment>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.Комментарий</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.Комментарий</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировочныйСчетФактураПолученный.Attribute.Комментарий</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ИсправлениеСчетаФактурыПолученного.Attribute.Комментарий</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Form>ФормаСписка</Form>
+		</ChildObjects>
+	</DocumentJournal>
+</MetaDataObject>

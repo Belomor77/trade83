@@ -1,0 +1,2375 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<languageSettings>
+		<currentLanguage>ru</currentLanguage>
+		<defaultLanguage/>
+		<languageInfo>
+			<id>#</id>
+			<code>Язык по умолчанию</code>
+			<description>Язык по умолчанию</description>
+		</languageInfo>
+		<languageInfo>
+			<id>ru</id>
+			<code>Русский</code>
+			<description>Русский</description>
+		</languageInfo>
+	</languageSettings>
+	<columns>
+		<size>58</size>
+		<columnsItem>
+			<index>0</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>1</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>2</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>3</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>4</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>5</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>6</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>7</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>8</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>9</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>10</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>11</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>12</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>13</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>14</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>15</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>16</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>17</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>18</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>19</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>20</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>21</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>22</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>23</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>24</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>25</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>26</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>27</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>28</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>29</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>30</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>31</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>32</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>33</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>34</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>35</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>36</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>37</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>38</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>39</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>40</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>41</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>42</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>43</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>44</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>45</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>46</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>47</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>48</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>49</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>50</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>51</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>52</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>53</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>54</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>55</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>56</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>57</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+	</columns>
+	<rowsItem>
+		<index>0</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>1</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>1С:Предприятие 8</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>36</i>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>2</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>36</i>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>3</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>36</i>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>4</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>36</i>
+				<c>
+					<f>4</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>5</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>6</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>5</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Система программ "1С:Предприятие 8"</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>18</i>
+				<c>
+					<f>6</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content> - единая технологическая платформа и прикладные  </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>7</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>8</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>7</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>решения на ее основе.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>9</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>9</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Система программ "1С:Предприятие 8" </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>18</i>
+				<c>
+					<f>6</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>предназначена для решения широкого спектра </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>10</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>11</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>7</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>задач автоматизации управления и учета на современном предприятии. </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>12</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>9</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>На платформе "1С:Предприятие 8" разработаны:</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>13</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>14</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>комплексные интегрированные системы для автоматизации управления и учета предприятий разного масштаба: "1С:Управление производственным предприятием 8", "1С:Управление торговлей 8", отраслевые и специализированные решения для промышленности, торговли, энергетики, строительства, транспорта, связи, страховых организаций, некоммерческих организаций</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>15</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>16</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>17</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>18</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>19</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>20</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>универсальные массовые решения для автоматизации учета на предприятиях, различных по размеру и направлениям деятельности "1С:Бухгалтерия 8", "1С:Зарплата и Управление Персоналом 8"</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>21</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>22</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>23</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>41</i>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>8</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>24</index>
+		<row>
+			<formatIndex>12</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>13</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Что дает "1С:Предприятие 8"?</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>13</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>25</index>
+		<row>
+			<formatIndex>12</formatIndex>
+			<c>
+				<i>38</i>
+				<c>
+					<f>13</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>26</index>
+		<row>
+			<formatIndex>12</formatIndex>
+			<c>
+				<i>38</i>
+				<c>
+					<f>13</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>27</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Директору</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>28</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Реальная польза от автоматизации не через три года, а через несколько месяцев.
+Рука на пульсе бизнеса - в офисе, в командировке, на отдыхе. 
+Возможность принимать обоснованные управленческие решения на основе удобных форм отчетности с детальной расшифровкой любых показателей и интерактивных средств анализа.
+Повышение эффективности бизнеса за счет автоматизации рутинных операций, ведения учета в реальном масштабе времени.
+Возможность перенастройки системы при изменении масштабов бизнеса, подходов к управлению, развитии территориальной структуры - без крупных затрат времени и денег
+</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>29</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>16</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Руководителям и специалистам подразделений</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>30</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Высокая эффективность ежедневной работы при подготовке рабочих документов и отчетов.
+Развитые средства планирования, анализа и контроля деятельности.
+Единое информационное пространство способствует организации четкого взаимодействия подразделений и сотрудников.
+</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>31</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>16</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Работникам учетных служб</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>32</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Лучшие учетные методики и опыт тысяч пользователей отражен в системе "1С:Предприятие 8" - индустриальном стандарте учетных решений.
+Меньше рутинной работы.
+Учет ближе к потребностям реального бизнеса.
+Полное соответствие действующему законодательству обеспечивает регулярная информационно-методическая поддержка "1С".
+</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>33</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>16</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ИТ-специалистам предприятий</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>34</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Современный комплекс инструментальных средств и технологий для разработки, модификации, администрирования и сопровождения.
+Легкость адаптации, широкие возможности масштабирования и интеграции, простота и удобство администрирования и поддержки позволяют тратить минимум усилий на решение "низкоуровневых" технологических вопросов и сконцентрироваться на содержательных, творческих задачах автоматизации бизнес-процессов предприятия.
+</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>36</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>7</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Подробнее об "1С:Предприятии 8" на сайте </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>18</i>
+				<c>
+					<f>17</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>http://www.v8.1c.ru/ </v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"http://v8.1c.ru/cnt.jsp/:TiSr7:/http://www.v8.1c.ru/"</detailParameter>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>37</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>38</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>39</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>15</id>
+		<formatIndex>18</formatIndex>
+		<beginRow>1</beginRow>
+		<beginRowOffset>8</beginRowOffset>
+		<endRow>4</endRow>
+		<endRowOffset>40</endRowOffset>
+		<beginColumn>35</beginColumn>
+		<beginColumnOffset>8</beginColumnOffset>
+		<endColumn>39</endColumn>
+		<endColumnOffset>48</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<leftHeader>
+		<f>8</f>
+	</leftHeader>
+	<leftFooter>
+		<f>8</f>
+	</leftFooter>
+	<defaultFormatIndex>19</defaultFormatIndex>
+	<height>96</height>
+	<vgRows>96</vgRows>
+	<merge>
+		<r>1</r>
+		<c>1</c>
+		<h>3</h>
+		<w>34</w>
+	</merge>
+	<merge>
+		<r>4</r>
+		<c>36</c>
+		<w>3</w>
+	</merge>
+	<merge>
+		<r>6</r>
+		<c>2</c>
+		<h>1</h>
+		<w>15</w>
+	</merge>
+	<merge>
+		<r>6</r>
+		<c>18</c>
+		<h>1</h>
+		<w>19</w>
+	</merge>
+	<merge>
+		<r>8</r>
+		<c>2</c>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>9</r>
+		<c>2</c>
+		<h>1</h>
+		<w>15</w>
+	</merge>
+	<merge>
+		<r>9</r>
+		<c>18</c>
+		<h>1</h>
+		<w>19</w>
+	</merge>
+	<merge>
+		<r>11</r>
+		<c>2</c>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>12</r>
+		<c>2</c>
+		<h>1</h>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>14</r>
+		<c>2</c>
+		<h>5</h>
+	</merge>
+	<merge>
+		<r>14</r>
+		<c>3</c>
+		<h>5</h>
+		<w>34</w>
+	</merge>
+	<merge>
+		<r>20</r>
+		<c>2</c>
+		<h>3</h>
+	</merge>
+	<merge>
+		<r>20</r>
+		<c>3</c>
+		<h>3</h>
+		<w>34</w>
+	</merge>
+	<merge>
+		<r>24</r>
+		<c>2</c>
+		<h>2</h>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>27</r>
+		<c>2</c>
+		<w>9</w>
+	</merge>
+	<merge>
+		<r>28</r>
+		<c>2</c>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>29</r>
+		<c>2</c>
+		<w>22</w>
+	</merge>
+	<merge>
+		<r>30</r>
+		<c>2</c>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>31</r>
+		<c>2</c>
+		<w>22</w>
+	</merge>
+	<merge>
+		<r>32</r>
+		<c>2</c>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>33</r>
+		<c>2</c>
+		<w>22</w>
+	</merge>
+	<merge>
+		<r>34</r>
+		<c>2</c>
+		<w>35</w>
+	</merge>
+	<merge>
+		<r>36</r>
+		<c>2</c>
+		<w>15</w>
+	</merge>
+	<merge>
+		<r>36</r>
+		<c>18</c>
+		<w>9</w>
+	</merge>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Страница</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>0</beginRow>
+			<endRow>95</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentDrawingLineType">None</v8ui:style>
+	</line>
+	<font faceName="Arial Black" height="27.8" bold="false" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="11.3" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="11.3" bold="false" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Webdings" height="12" bold="true" italic="true" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="18" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="12" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="11.3" bold="true" italic="false" underline="true" strikeout="false" kind="Absolute"/>
+	<format>
+		<width>22</width>
+	</format>
+	<format>
+		<height>45</height>
+	</format>
+	<format>
+		<font>0</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#800000</textColor>
+		<backColor>#FFFF00</backColor>
+	</format>
+	<format>
+		<backColor>#FFFF00</backColor>
+	</format>
+	<format>
+		<font>1</font>
+		<verticalAlignment>Bottom</verticalAlignment>
+		<textColor>#800000</textColor>
+	</format>
+	<format>
+		<font>2</font>
+		<horizontalAlignment>Justify</horizontalAlignment>
+		<verticalAlignment>Bottom</verticalAlignment>
+	</format>
+	<format>
+		<font>2</font>
+	</format>
+	<format/>
+	<format>
+		<font>1</font>
+		<horizontalAlignment>Justify</horizontalAlignment>
+		<verticalAlignment>Bottom</verticalAlignment>
+		<textColor>#800000</textColor>
+	</format>
+	<format>
+		<font>3</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Top</verticalAlignment>
+		<textColor>#000080</textColor>
+	</format>
+	<format>
+		<font>2</font>
+		<horizontalAlignment>Justify</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+	</format>
+	<format>
+		<height>44</height>
+	</format>
+	<format>
+		<font>4</font>
+		<horizontalAlignment>Left</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#000080</textColor>
+	</format>
+	<format>
+		<height>75</height>
+	</format>
+	<format>
+		<font>5</font>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#800000</textColor>
+	</format>
+	<format>
+		<font>5</font>
+		<textColor>#800000</textColor>
+	</format>
+	<format>
+		<font>6</font>
+		<textColor>#800000</textColor>
+	</format>
+	<format>
+		<drawingBorder>0</drawingBorder>
+		<fillType>Text</fillType>
+	</format>
+	<format>
+		<width>72</width>
+	</format>
+	<picture>
+		<index>0</index>
+		<picture t="false">Qk22OwAAAAAAADYAAAAoAAAAWgAAADgAAAABABgAAAAAAIA7AAAAAAAAAAAAAAAA
+AAAAAAAAzv//Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///
+Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///
+Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///
+Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///
+Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///
+Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///Y///zv//AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8Azv8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wCc/zExzjExzgCc/wD//wD//wD//wDO/zExzjEx
+zgBjzgD//wBj/zExzjExzgD//wBjzjExzjExzgDO/wD//wD//wD//wBjzjExzjEx
+zgD//wAxzjExzgBj/wDO/zExzjExzgBjzjExzjExzgBj/wD//wDO/zExzjExzgCc
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wBjzjExzgBj/wD//wD/
+/wD//wBj/zExzjExzjExzgCc/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AJz/
+ADHOMTHOMTHOMTHOMTHOMTHOAGP/AP//AM7/MTHOMTHOMTHOAM7/AGP/MTHOMTHO
+AP//AGPOMTHOMTHOAM7/AP//AP//AP//AGP/MTHOMTHOAM7/MTHOMTHOADHOAM7/
+MTHOMTHOAJz/ADHOMTHOMTHOMTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AGPOMTHOAGP/AP//AP//AGP/MTHOMTHOMTHOMTHO
+AJz/AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8AnP8xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4AnP8Azv8xMc4xMc4xMc4AMc4AY84xMc4xMc4A//8AY84xMc4xMc4AMc4A
+Y84AnP8A//8AnP8xMc4xMc4AY/8xMc4xMc4xMc4AY/8xMc4xMc4Azv8AnP8xMc4x
+Mc4AY84xMc4xMc4AMc4A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8AY84xMc4AY/8A//8Azv8xMc4xMc4AY84Azv8Azv8Azv8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wBj/zExzjExzgDO/zExzjExzgDO/wAxzjExzgBjzgDO/zExzjEx
+zjExzjExzjExzjExzjExzgD//wBjzjExzjExzjExzjExzjExzgCc/wDO/zExzjEx
+zjExzjExzgBjzjExzjExzjExzjExzgD//wDO/zExzjExzgCc/zExzjExzgCc/wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wBjzjExzgBj/wD//wDO
+/zExzjExzgCc/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AJz/MTHO
+MTHOAJz/MTHOMTHOAJz/MTHOMTHOAGPOAM7/MTHOMTHOAJz/ADHOMTHOMTHOMTHO
+AP//AGPOMTHOMTHOAM7/MTHOMTHOAGPOAM7/MTHOMTHOMTHOMTHOAM7/MTHOMTHO
+MTHOMTHOAP//AP//AGPOMTHOMTHOMTHOMTHOAM7/AP//AP//AP//AJz/ADHOAGP/
+AJz/ADHOAJz/AP//AP//AP//AGPOMTHOAGP/AP//AP//MTHOMTHOADHOAM7/AM7/
+AJz/AGP/AGPOAP//AGPOAGPOAP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8Azv8xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4Azv8Azv8xMc4xMc4AnP8Azv8xMc4xMc4xMc4A//8AY84xMc4xMc4xMc4x
+Mc4xMc4AnP8A//8xMc4xMc4xMc4AY84A//8xMc4xMc4xMc4AY84A//8A//8AnP8x
+Mc4xMc4xMc4AY84A//8A//8A//8A//8A//8xMc4xMc4Azv8xMc4AY84A//8A//8A
+Mc4xMc4xMc4AY/8A//8A//8AY/8xMc4xMc4xMc4xMc4AnP8AnP8xMc4AnP8AY/8x
+Mc4Azv8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wDO/wCc/wBjzjExzjExzgBjzgCc/wDO/wD//wDO/zExzjEx
+zgCc/wD//wBjzjExzjExzgD//wBj/zExzjExzjExzgAxzgCc/wD//wD//wBjzjEx
+zjExzgCc/wD//wBj/zExzjExzgBj/wD//wD//wD//wAxzjExzjExzgCc/wD//wD/
+/wD//wD//wD//wCc/zExzgDO/wBj/zExzgDO/wD//wBjzjExzjExzgCc/wD//wD/
+/wD//wCc/zExzjExzjExzgCc/wDO/zExzjExzgCc/zExzgAxzgD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AM7/AJz/AJz/AM7/AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AM7/
+AM7/AP//AM7/AM7/AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AM7/AP//
+AP//AP//AM7/AM7/AM7/AM7/AM7/AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8AnP8AnP8AnP8AnP8Azv8A//8Azv8A
+nP8AnP8AnP8AnP8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wDO/wCc
+/wBjzgAxzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzgD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AM7/AJz/ADHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOAP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+nP8xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wDO/wAxzjExzjExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzgD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//AP//
+AP//AP//AM7/MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOAGPOAGP/AJz/AJz/
+AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/
+AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/AJz/
+AJz/AJz/AJz/AJz/AJz/AJz/AJz/AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8A//8A//8Azv8xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4AY/8Azv8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wD//wD//wDO/zExzjExzjExzjExzjExzjExzgBjzgDO/wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//AP//
+AGPOMTHOMTHOMTHOMTHOMTHOAJz/AP//AP//AP//AM7/AJz/AGPOADHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOAP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8AnP8xMc4xMc4xMc4xMc4xMc4A
+nP8A//8A//8A//8AnP8xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wD//wAxzjExzjExzjExzjExzgCc/wD//wD//wDO/wAxzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzgD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AJz/MTHO
+MTHOMTHOMTHOADHOAP//AP//AP//ADHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOAP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8AY/8xMc4xMc4xMc4xMc4Azv8A//8A
+//8AY/8xMc4xMc4xMc4xMc4xMc4xMc4AY84AY/8AnP8AnP8AnP8AnP8AnP8AnP8A
+nP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8A
+nP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8A
+nP8AnP8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//zExzjExzjExzjExzgAxzgD//wD//wDO/zExzjExzjExzjExzjEx
+zgCc/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AM7/MTHOMTHO
+MTHOMTHOAJz/AP//AP//AGP/MTHOMTHOMTHOMTHOAJz/AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8Azv8xMc4xMc4xMc4xMc4AnP8A//8A//8x
+Mc4xMc4xMc4xMc4AY84A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wCc/zExzjExzjExzjExzgDO/wD//wDO/zExzjExzjExzjExzgCc/wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AJz/MTHOMTHO
+MTHOMTHOAM7/AP//AM7/MTHOMTHOMTHOMTHOAJz/AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AM7/MTHOMTHOMTHOMTHOAJz/AP//AP//MTHOMTHOMTHOMTHOAJz/
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8Azv8xMc4xMc4xMc4xMc4Azv8A//8Azv8x
+Mc4xMc4xMc4xMc4AnP8A//8A//8A//8A//8A//8A//8A//8A//8A//8AnP8xMc4x
+Mc4xMc4xMc4Azv8A//8Azv8xMc4xMc4xMc4xMc4AnP8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wDO/zExzjExzjExzjExzgCc/wD//wD//zExzjExzjExzjExzgBjzgD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wBj/zExzjExzjExzjExzgDO/wD//wDO
+/zExzjExzjExzjExzgCc/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOAGP/AP//AP//AGPOMTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//
+AP//AP//AM7/MTHOMTHOMTHOMTHOAGPOAP//AP//AJz/MTHOMTHOMTHOMTHOAM7/
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8AY84xMc4xMc4xMc4xMc4A//8A//8A
+nP8xMc4xMc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8Azv8AMc4xMc4xMc4x
+Mc4xMc4AnP8A//8A//8AY84xMc4xMc4xMc4xMc4A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wDO
+/wDO/wDO/wDO/zExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wCc/zExzjExzjExzjExzgCc/wD//wD//wAxzjExzjExzjExzjEx
+zjExzgBj/wDO/wDO/wDO/wCc/zExzjExzjExzjExzjExzgAxzgD//wD//wDO/zEx
+zjExzjExzjExzgBjzgD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AGP/MTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AM7/MTHO
+MTHOMTHOMTHOADHOAP//AP//AM7/MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOAM7/AP//AP//AGP/MTHOMTHOMTHOMTHOAJz/AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8AY/8xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4AnP8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8AY84xMc4xMc4xMc4xMc4AnP8A
+//8A//8AnP8xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4A
+zv8A//8A//8Azv8xMc4xMc4xMc4xMc4xMc4A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wBj/zEx
+zjExzjExzjExzjExzjExzjExzjExzgCc/wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wD//wDO/zExzjExzjExzjExzjExzgDO/wD//wD//wDO/wAxzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzgAxzgDO/wD//wD//wDO/wAxzjExzjEx
+zjExzjExzgCc/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AGP/MTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOAJz/AP//AJz/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//AP//
+AGP/MTHOMTHOMTHOMTHOMTHOAM7/AP//AP//AP//AJz/ADHOMTHOMTHOMTHOMTHO
+MTHOADHOAJz/AP//AP//AP//AM7/AGPOMTHOMTHOMTHOMTHOADHOAP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8Azv8AnP8AnP8AnP8AnP8AnP8AnP8AnP8AnP8Azv8A//8AnP8x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8A//8A//8AMc4xMc4xMc4xMc4x
+Mc4xMc4AnP8A//8A//8A//8A//8Azv8Azv8Azv8Azv8Azv8A//8A//8A//8A//8A
+zv8AMc4xMc4xMc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8Azv8AnP8AnP8AnP8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wCc/zExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wD//wD//wD//wDO/zExzjExzjExzjExzjExzjExzgBjzgDO/wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wDO/wBj/zExzjExzjExzjExzjExzjEx
+zgCc/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wDO/wCc/wDO/wD//wDO
+/wBj/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AM7/AM7/
+AM7/AM7/AM7/AM7/AGP/MTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//AP//
+AP//AP//AM7/MTHOMTHOMTHOMTHOMTHOMTHOMTHOADHOAJz/AJz/AM7/AM7/AM7/
+AM7/AJz/AGPOMTHOMTHOMTHOMTHOMTHOMTHOMTHOAJz/AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AGP/AP//AGP/AM7/AJz/AJz/AM7/AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8A//8A//8A//8A//8Azv8AMc4x
+Mc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4AnP8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8AY/8A//8AY/8AnP8AnP8Azv8Azv8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//zExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzgDO/wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wDO/wBj/zExzjExzjExzjExzjEx
+zjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzjExzgAxzgDO/wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wDO/wCc/wCc/wCc/wDO
+/wBj/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//MTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHOAM7/AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AM7/AGPOMTHOMTHOMTHOMTHOMTHOMTHOMTHOMTHO
+MTHOMTHOMTHOMTHOMTHOMTHOAJz/AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AJz/AJz/AJz/AJz/AM7/AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8xMc4xMc4xMc4xMc4xMc4xMc4xMc4x
+Mc4xMc4xMc4xMc4Azv8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8Azv8AnP8AMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4xMc4AY/8AnP8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wCc/wCc/wCc/wCc/wCc/wCc/wCc/wCc/wCc/wCc/wCc/wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wDO/wDO/wCc/wDO/wDO/wDO/wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AABj//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A//8A
+//8A//8A//8A//8A//8A//9j//8AAGP//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD//wD/
+/2P//wAAY///AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//
+AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AP//Y///AADO//9j//9j//9j
+//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j
+//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j
+//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j
+//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j
+//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j//9j
+//9j//9j//9j//9j//9j///O//8AAA==</picture>
+	</picture>
+</document>

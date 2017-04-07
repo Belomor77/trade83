@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="7463de23-a90d-441e-96d5-fcfa7b6b5f1f">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыТМЦ" category="Ref">
+				<xr:TypeId>489889a5-0651-4299-b1d2-4170930c3a32</xr:TypeId>
+				<xr:ValueId>03e43c40-7f81-478a-97e6-2b61fabaea69</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыТМЦ" category="Manager">
+				<xr:TypeId>e6f16793-f61f-4025-abe3-435c7ee789aa</xr:TypeId>
+				<xr:ValueId>dc7234c6-3941-498c-8aea-320a15cf341e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыТМЦ" category="List">
+				<xr:TypeId>67090c92-f62a-4837-b4f4-8ec851929eb2</xr:TypeId>
+				<xr:ValueId>3d97bfa3-fec8-4b49-a587-62bf1b6b4ef3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыТМЦ</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Виды ТМЦ</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="d70d336f-14ff-4ee7-9d48-a458f980dec6">
+				<Properties>
+					<Name>Товар</Name>
+					<Synonym/>
+					<Comment>1</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2d4130e8-9389-40f3-90a0-4cf6c417da48">
+				<Properties>
+					<Name>Материал</Name>
+					<Synonym/>
+					<Comment>2</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="469ad97c-3ef7-49d0-95c7-5371a8cea454">
+				<Properties>
+					<Name>Продукция</Name>
+					<Synonym/>
+					<Comment>3</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d7dbc9b0-0399-4d91-97fb-6bdc570af3fc">
+				<Properties>
+					<Name>Полуфабрикат</Name>
+					<Synonym/>
+					<Comment>4</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="a3198c05-8256-4dea-90fd-5402106e3a96">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.РежимыККМ" category="Ref">
+				<xr:TypeId>c38df754-0357-42ed-b611-3e0c183bd05c</xr:TypeId>
+				<xr:ValueId>c6d6f557-9a0f-4aa8-8f53-55fb33356a32</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.РежимыККМ" category="Manager">
+				<xr:TypeId>f1d9af4f-5225-4ec7-bab5-67350dd57131</xr:TypeId>
+				<xr:ValueId>97384ef7-99b1-4137-8921-24eb5de251cb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.РежимыККМ" category="List">
+				<xr:TypeId>b7d238db-31dc-48a0-b30c-cc0aec7868f0</xr:TypeId>
+				<xr:ValueId>320eeb02-fe4e-4141-a91f-65ca25e2e9bc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>РежимыККМ</Name>
+			<Synonym/>
+			<Comment>Режимы работы ККМ</Comment>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="afe7bae1-61ab-4364-93dc-0419d204fdd5">
+				<Properties>
+					<Name>ФР</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ФР</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Фискальный регистратор</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fa4b722b-9a9b-4f84-ab4d-5e23d9685c73">
+				<Properties>
+					<Name>OffLine</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>OffLine</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>режим OffLine</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1d74b252-e99a-48b6-9f26-b4ec8e4d74f6">
+				<Properties>
+					<Name>OnLine</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>OnLine</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>режим OnLine</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

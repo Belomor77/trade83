@@ -1,0 +1,2281 @@
+﻿{3,
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,196,0,85,
+{6,dcf0e9ea-51d5-4e15-b274-d05ade4473a7,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,8a9615ca-838b-4701-a5ed-031561d43dff,203562fd-7bf3-46fb-8604-c3cc5a1bd885,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Обработка.ИнформационныйБлок: Открыть обработку",
+{1,1,
+{"ru","ИнформационныйБлок"}
+},
+{1,1,
+{"ru","ИнформационныйБлок"}
+},
+{1,1,
+{"ru","Открыть обработку ИнформационныйБлок"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Открыть информационный блок"}
+},
+{0,0,0}
+},
+{6,573199d6-a0ec-4d6d-9ff5-fc7c7ae1cc11,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,7c94ad0b-d718-4f82-ba37-52ef313941ca,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ЖурналУчетаПолученныхИВыставленныхСчетовФактур1137: Открыть отчет",
+{1,1,
+{"ru","Журнал счетов-фактур по Постановлению № 1137"}
+},
+{1,1,
+{"ru","Журнал счетов-фактур по Постановлению № 1137"}
+},
+{1,1,
+{"ru","Открыть отчет Журнал счетов-фактур по Постановлению № 1137"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Отчеты.ЖурналУчетаПолученныхИВыставленныхСчетовФактур1137.Открыть"}
+},
+{0,0,0}
+},
+{6,abdb0c08-d609-4f6c-8a7d-73937399d95b,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,9343cba6-3bdb-4334-bedd-76a3097c6822,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Номенклатура: Открыть справочник",
+{1,1,
+{"ru","Номенклатура"}
+},
+{1,1,
+{"ru","Номенклатура"}
+},
+{1,1,
+{"ru","Открыть справочник Номенклатура"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Номенклатура"}
+},
+{1,1,
+{"ru","Номенклатура"}
+},
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AMbDxsbDxsbDxgAAAP///8bDxv///8bDxv///8bDxv///8bDxv///8bDxv///wAA
+AAAAAMbDxsbDxgAAAMbDxv///8bDxoSChISChISChMbDxv///8bDxv///8bDxgAA
+AAAAAAAAAMbDxgAAAP///8bDxv///wAAAAAAAISChP///8bDxv///8bDxv///wAA
+AAAAAAAAAAAAAAAAAMbDxv///8bDxv///8bDxv///8bDxv///8bDxv///8bDxgAA
+AAAAAAAAAAAAAAAAAP///8bDxv///8bDxv///8bDxv///8bDxv///8bDxv///wAA
+AAAAAAAAAAAAAAAAAMbDxv///8bDxv///8bDxv///8bDxv///8bDxv///8bDxgAA
+AAAAAAAAAAAAAAAAAAAAAISChISChISChISChISChISChISChISChISChISChAAA
+AAAAAAAAAAAAAMbDxgAAAISChISChISChISChISChISChISChISChISChISChISC
+hAAAAAAAAAAAAMbDxgAAAMbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbD
+xgAAAAAAAAAAAMbDxgAAAMbDxsbDxsbDxsbDxoSChISChISChMbDxsbDxsbDxsbD
+xgAAAAAAAAAAAMbDxgAAAMbDxsbDxsbDxsbDxgAAAAAAAISChMbDxsbDxsbDxsbD
+xgAAAAAAAAAAAMbDxgAAAMbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbD
+xgAAAAAAAAAAAMbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAMbDxsbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==}
+},0},
+{0,0,0}
+},
+{6,c0b406d8-8779-4546-ba11-5546f18182ee,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,c7b5604c-f2ae-44f9-bf81-e6560b6d705d,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Кассы: Открыть справочник",
+{1,1,
+{"ru","Кассы"}
+},
+{1,1,
+{"ru","Кассы"}
+},
+{1,1,
+{"ru","Открыть справочник Кассы"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Кассы"}
+},
+{0,0,0}
+},
+{6,b15dab9f-7aa9-40e2-8b46-16da6962b6bc,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,933db93f-df3e-4e15-8365-a48c4a49deb2,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.Реализация: Ввести документ",
+{1,1,
+{"ru","Ввести документ Реализация "}
+},
+{1,1,
+{"ru","Ввести документ Реализация "}
+},
+{1,1,
+{"ru","Ввести документ Реализация "}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Реализация (купля-продажа)"}
+},
+{1,1,
+{"ru","Реализация (купля-продажа)"}
+},
+{3,3,
+{0},"",6,7,1,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAP//////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+/////////////////8bDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxv///////8bDxsbD
+xsbDxv///////////////////////4SChIQAAP8AAP//////////////////////
+/////////////////8bDxsbDxoQAAISChMbDxoSChIQAAMbDxv///////8bDxsbD
+xsbDxv///////////////////4SChMbDxv///////4SChP//////////////////
+/////////////////8bDxsbDxoQAAMbDxsbDxsbDxoQAAMbDxv///////8bDxsbD
+xsbDxv////////////////////////8AAISChIQAAP//////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+/////////////wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAA
+AP///wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAA
+AP///wAAAP///wAAAAAAAAAAAP///wAAAAAAAAAAAP///wAAAAAAAP///////wAA
+AP///wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAAAP//////
+/wAAAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==}
+},0},
+{0,0,0}
+},
+{6,4db9695e-fc4d-4c25-8fc3-86d11ff85fe4,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,f54bd00e-e84e-47bc-afca-0f3af86ccea5,1784fe30-ca08-11d5-b9a5-0050bae0a95d,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"ЖурналДокументов.ДокументыПоПокупателям: Открыть журнал документов",
+{1,1,
+{"ru","Документы по покупателям"}
+},
+{1,1,
+{"ru","Документы по покупателям"}
+},
+{1,1,
+{"ru","Открыть журнал документов Документы по покупателям"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Документы по покупателям"}
+},
+{1,1,
+{"ru","Документы по покупателям"}
+},
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAMbDxsbDxsbDxsbDxsbDxsbDxoSChISChISChISChISChISChISC
+hISChISChISChMbDxsbDxsbDxsbDxsbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAISChMbDxsbDxsbDxsbDxv//////////////////////////////////
+/////wAAAISChMbDxsbDxsbDxsbDxv///8bDxsbDxv//////////////////////
+/////wAAAISChMbDxsbDxsbDxsbDxgAAhISChMbDxsbDxsbDxsbDxsbDxsbDxv//
+/////wAAAISChMbDxsbDxsbDxgAAhAAAhISChISChISChISChISChISChMbDxv//
+/////wAAAISChMbDxsbDxgAAhAAAhAAAhAAAhAAAhAAAhAAAhAAAhISChMbDxv//
+/////wAAAISChMbDxgAAhAAAhAAAhAAAhAAAhAAAhAAAhAAAhAAAhISChMbDxv//
+/////wAAAISChAAAhAAA/wAAhAAAhAAAhAAAhAAAhAAAhAAAhAAAhISChMbDxv//
+/////wAAAISChMbDxgAAhAAA/wAAhAAAhAAA/wAA/wAA/wAA/wAA/4SChP//////
+/////wAAAISChMbDxsbDxgAAhAAA/wAAhAAAhAAAhAAAhAAAhAAAhP///wAAAAAA
+AAAAAAAAAISChMbDxsbDxsbDxgAAhAAA/////////////////////////////8bD
+xoSChAAAAMbDxsbDxsbDxsbDxsbDxgAAhP///////////////////////8bDxoSC
+hAAAAMbDxsbDxsbDxsbDxsbDxsbDxv///////////////////////////4SChAAA
+AMbDxsbDxsbDxsbDxsbDxsbDxsbDxv///////////////////////////wAAAMbD
+xsbDxsbDxsbDxg==}
+},0},
+{0,0,0}
+},
+{6,38703f06-db67-47b3-9e1e-4b3199463383,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,134},0},
+{6,a8659f4d-358d-432a-90ce-e57089bb10e4,1,c93a51ed-b2d1-47f1-948d-38373f8710af,
+{4,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,53,
+{1,19,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,1,0},0,0},0},
+{6,9e372225-1faf-4f83-8e78-1015bc05064f,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,57b7286d-b178-4300-8601-e33a03d218a1,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.ФизЛица: Открыть справочник",
+{1,1,
+{"ru","Физические лица"}
+},
+{1,1,
+{"ru","Физические лица"}
+},
+{1,1,
+{"ru","Открыть справочник Физические лица"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Физические лица"}
+},
+{0,0,0}
+},
+{6,212d09e2-b686-4b91-82f5-9d49d2e02aac,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,f63237a6-57f5-45e2-8b88-9af50b8cb77f,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Склады: Открыть справочник",
+{1,1,
+{"ru","Склады"}
+},
+{1,1,
+{"ru","Склады"}
+},
+{1,1,
+{"ru","Открыть справочник Склады"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Склады"}
+},
+{0,0,0}
+},
+{6,73f49b79-3a18-4fa7-9c6f-41c182d6266a,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,470d766d-bdbc-49fb-9768-cd2acaa60e10,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.ЮрЛица: Открыть справочник",
+{1,1,
+{"ru","Сторонние юридические лица"}
+},
+{1,1,
+{"ru","Сторонние юридические лица"}
+},
+{1,1,
+{"ru","Открыть справочник Сторонние юридические лица"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Юридические лица"}
+},
+{0,0,0}
+},
+{6,e5bf6e42-4b56-4600-9b60-eeee51d4741e,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,35208368-1050-473c-b7da-154116d44fb1,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.РезервыТМЦ: Открыть отчет",
+{1,1,
+{"ru","Резервы ТМЦ"}
+},
+{1,1,
+{"ru","Резервы ТМЦ"}
+},
+{1,1,
+{"ru","Открыть отчет Резервы ТМЦ"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Резервы ТМЦ"}
+},
+{0,0,0}
+},
+{6,c1b14d76-752a-4bf1-b53f-94e915800c27,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,46ae1e7c-93e0-46be-8864-a7d4d8186259,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.ПолномочияПользователей: Открыть справочник",
+{1,1,
+{"ru","Полномочия пользователей"}
+},
+{1,1,
+{"ru","Полномочия пользователей"}
+},
+{1,1,
+{"ru","Открыть справочник Полномочия пользователей"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Полномочия пользователей"}
+},
+{0,0,0}
+},
+{6,1dc56e8e-ae52-459d-8947-4ab2a1f22ba0,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,1b44ddf6-49d1-4c40-b604-a4fb22a4f274,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.ЗаявкаПокупателя: Ввести документ",
+{1,1,
+{"ru","Ввести документ Заявка покупателя"}
+},
+{1,1,
+{"ru","Ввести документ Заявка покупателя"}
+},
+{1,1,
+{"ru","Ввести документ Заявка покупателя"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Заявка покупателя"}
+},
+{1,1,
+{"ru","Заявка от покупателя"}
+},
+{3,3,
+{0},"",5,9,1,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAP//////////////////////////////////////////////////
+/////////////////////////4SChIQAAP8AAP//////////////////////////
+/////////////////8bDxoQAAISChMbDxoSChIQAAMbDxsbDxsbDxsbDxv//////
+/4SChP///////////////4SChP///////////4SChP//////////////////////
+/////////////////8bDxoQAAMbDxsbDxsbDxoQAAMbDxsbDxsbDxsbDxv//////
+/4SChP////////////////////8AAISChIQAAP//////////////////////////
+/////////////////8bDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxv//////
+/4SChP//////////////////////////////////////////////////////////
+/////////////////8bDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbD
+xsbDxv//////////////////////////////////////////////////////////
+/////////////wAAAAAAAAAAAP///////////wAAAP///wAAAAAAAAAAAP//////
+/wAAAP///////wAAAP///wAAAP///////////wAAAP///wAAAP//////////////
+/wAAAP///////wAAAP///////////wAAAAAAAAAAAP///wAAAAAAAAAAAP//////
+/wAAAP///////wAAAP///wAAAP///wAAAP///wAAAP///wAAAP//////////////
+/wAAAP///////wAAAAAAAAAAAP///wAAAP///wAAAP///wAAAAAAAAAAAP///wAA
+AAAAAAAAAP///w==}
+},0},
+{0,0,0}
+},
+{6,47168b13-eb5b-4d6e-936d-aefb6ce61ce3,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,2db6914e-6a50-44ca-8c82-85d1c1077259,203562fd-7bf3-46fb-8604-c3cc5a1bd885,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Обработка.ПомощникНачалаРаботы: Открыть обработку",
+{1,1,
+{"ru","Помощник начала работы"}
+},
+{1,1,
+{"ru","Помощник начала работы"}
+},
+{1,1,
+{"ru","Открыть обработку Помощник начала работы"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Помощник начала работы"}
+},
+{0,0,0}
+},
+{6,d8512122-5235-4591-b6af-90adf5d265b9,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,238d7a07-4c0e-40fc-9103-01ce6a865a3c,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.РеализацияПрочее: Ввести документ",
+{1,1,
+{"ru","Ввести документ Реализация (ОС, НМА и пр.)"}
+},
+{1,1,
+{"ru","Ввести документ Реализация (ОС, НМА и пр.)"}
+},
+{1,1,
+{"ru","Ввести документ Реализация (ОС, НМА и пр.)"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Реализация (ОС, НМА и пр.)"}
+},
+{0,0,0}
+},
+{6,ba821f4e-827d-4b83-bd90-d57729ae87af,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,163},0},
+{6,9ac38428-32f7-4a1c-bc0b-74ff733ca75f,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,8631012b-db99-40ea-852f-ecc1022bc06e,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ОтчетПоКлиентам: Открыть отчет",
+{1,1,
+{"ru","Отчет по клиентам"}
+},
+{1,1,
+{"ru","Отчет по клиентам"}
+},
+{1,1,
+{"ru","Открыть отчет Отчет по клиентам"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Отчет по клиентам"}
+},
+{0,0,0}
+},
+{6,f23ce8d9-7066-4426-b1be-e05c67d563b8,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,80},0},
+{6,78eecd8e-820a-43dc-b55d-347a9feb759c,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"Обработка_Задача_Выполнить_N_21",
+{1,"Обработка_Задача_Выполнить_N_21",
+{1,1,
+{"ru","Обработка задача выполнить n 21"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 21"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 21"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Продажа собственной фирме"}
+},
+{0,0,0}
+},
+{6,4c3fb7f7-1c91-448b-bea7-44355d89e4b9,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,66},0},
+{6,16f74b98-c5d3-4f43-a73e-154ff9ccb394,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,8cb9f7aa-7c46-4049-8098-2095f30fb329,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Аналоги: Открыть справочник",
+{1,1,
+{"ru","Аналоги номенклатуры"}
+},
+{1,1,
+{"ru","Аналоги номенклатуры"}
+},
+{1,1,
+{"ru","Открыть справочник Аналоги номенклатуры"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Аналоги номенклатуры"}
+},
+{0,0,0}
+},
+{6,8e5c00fa-e0ab-4802-99f1-9103b0044791,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,188},0},
+{6,507834af-6057-4f03-adf3-9ca07001554f,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,107},0},
+{6,ce44e071-123e-44e6-89c4-94643939d533,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,6701d921-4045-4db3-a196-aee00ab3221c,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Скидки: Открыть справочник",
+{1,1,
+{"ru","Скидки"}
+},
+{1,1,
+{"ru","Скидки"}
+},
+{1,1,
+{"ru","Открыть справочник Скидки"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Скидки и наценки"}
+},
+{0,0,0}
+},
+{6,f4238d10-ebf7-409b-96d8-3047512eb217,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,407ebc0e-149a-4510-95cf-3a9306a4b1be,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ЖурналУчетаПродажАлкогольнойПродукции: Открыть отчет",
+{1,1,
+{"ru","Журнал учета розничной продажи алкогольной продукции"}
+},
+{1,1,
+{"ru","Журнал учета розничной продажи алкогольной продукции"}
+},
+{1,1,
+{"ru","Открыть отчет Журнал учета розничной продажи алкогольной продукции"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Отчеты.ЖурналУчетаПродажАлкогольнойПродукции.Открыть"}
+},
+{0,0,0}
+},
+{6,9d9e56b9-e609-4f62-b6d3-2e0a95769b5a,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"Обработка_Задача_Выполнить_N_20",
+{1,"Обработка_Задача_Выполнить_N_20",
+{1,1,
+{"ru","Обработка задача выполнить n 20"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 20"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 20"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Возврат от покупателя (комиссия)"}
+},
+{0,0,0}
+},
+{6,725e5447-7b0a-4a93-a469-aeec42c9a196,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,069443f7-393c-49ac-9dcb-e9373856a341,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.ТипыЦен: Открыть справочник",
+{1,1,
+{"ru","Типы цен"}
+},
+{1,1,
+{"ru","Типы цен"}
+},
+{1,1,
+{"ru","Открыть справочник Типы цен"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Типы цен"}
+},
+{0,0,0}
+},
+{6,7f3bb651-afce-48af-a645-67ca934b6235,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,15908cb5-90bf-4b7d-8150-542cee1232c6,1784fe30-ca08-11d5-b9a5-0050bae0a95d,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"ЖурналДокументов.СчетаФактурыВыданные: Открыть журнал документов",
+{1,1,
+{"ru","Счета-фактуры выданные"}
+},
+{1,1,
+{"ru","Счета-фактуры выданные"}
+},
+{1,1,
+{"ru","Открыть журнал документов Счета-фактуры выданные"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Журнал выданных счетов-фактур"}
+},
+{0,0,0}
+},
+{6,65c5d67e-bec7-4269-9549-445ba4d5b056,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,84dc7807-3e27-41c4-832d-59d4d253f04c,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ОстаткиТМЦ: Открыть отчет",
+{1,1,
+{"ru","Остатки ТМЦ"}
+},
+{1,1,
+{"ru","Остатки ТМЦ"}
+},
+{1,1,
+{"ru","Открыть отчет Остатки ТМЦ"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Остатки ТМЦ"}
+},
+{1,1,
+{"ru","Остатки ТМЦ"}
+},
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAMbDxsbDxsbDxsbDxsbDxsbDxgD//wCChAAAAISChMbDxsbDxsbD
+xsbDxsbDxsbDxsbDxsbDxsbDxsbDxgD//wD//wD//wCChACChAAAAISChMbDxsbD
+xsbDxsbDxsbDxsbDxsbDxgD//wD//wD//wD//wD//wCChACChACChAAAAISChMbD
+xsbDxsbDxsbDxgD//wD//wD//8bDxgAAhAD//wD//wCChACChACChACChAAAAISC
+hMbDxsbDxsbDxgD//wD//wAAhAAAhAAA/wD//wD//wCChACChACChACChACChAAA
+AISChMbDxsbDxgD//wD//wAA/8bDxgD//wCChACChMbDxgCChACChACChACChACC
+hAAAAISChMbDxgD//wD//wD//wCChACChMbDxv///////8bDxgCChACChACChACC
+hACChAAAAISChAD//wCChACChMbDxv///////////////4SChMbDxgCChACChACC
+hACChAAAAISChACChAAAAP///////////////4SChP///4SChISChMbDxgCChACC
+hACChAAAAISChMbDxgCChP///////4SChP///////4SChP///4SChISChMbDxgCC
+hACChAAAAISChMbDxsbDxgCChP///////4SChP///////4SChP///4SChISChMbD
+xgCChAAAAMbDxsbDxsbDxsbDxgCChP///////4SChP///////4SChP///4SChISC
+hMbDxoSChMbDxsbDxsbDxsbDxsbDxgCChP///////4SChP///////4SChP///4SC
+hMbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxgCChP///////4SChP///8bDxsbDxsbD
+xsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxv///8bDxsbDxsbDxsbDxsbD
+xsbDxsbDxsbDxg==}
+},0},
+{0,0,0}
+},
+{6,a8014bf0-a3f4-4569-8039-b7dc2755643c,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,a404c1b1-7c7d-44dd-bbfc-3361b5f0fbb1,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.РКО: Ввести документ",
+{1,1,
+{"ru","Ввести документ Расходный кассовый ордер"}
+},
+{1,1,
+{"ru","Ввести документ Расходный кассовый ордер"}
+},
+{1,1,
+{"ru","Ввести документ Расходный кассовый ордер"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Расходный кассовый ордер"}
+},
+{0,0,0}
+},
+{6,49c0b689-b5f8-4f81-b99f-7da1d4d98b37,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,88},0},
+{6,cda91e08-5a85-471c-a672-780b80668856,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,2b60190d-0bc7-4f01-9ffe-48f9179e99b2,1784fe30-ca08-11d5-b9a5-0050bae0a95d,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"ЖурналДокументов.ДокументыПоКассе: Открыть журнал документов",
+{1,1,
+{"ru","Документы по кассе"}
+},
+{1,1,
+{"ru","Документы по кассе"}
+},
+{1,1,
+{"ru","Открыть журнал документов Документы по кассе"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Журнал кассовых документов"}
+},
+{0,0,0}
+},
+{6,29c233b8-2471-4c99-9805-0c9fdc75f62c,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,158},0},
+{6,4738952a-9c76-445e-aae6-6386db22998b,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,eef3731b-35a4-4390-8a49-963328f7d2b3,203562fd-7bf3-46fb-8604-c3cc5a1bd885,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Обработка.ПакетныйВводДокументов: Открыть обработку",
+{1,1,
+{"ru","Пакетный ввод документов"}
+},
+{1,1,
+{"ru","Пакетный ввод документов"}
+},
+{1,1,
+{"ru","Открыть обработку Пакетный ввод документов"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Пакетный ввод документов"}
+},
+{0,0,0}
+},
+{6,ced12b1b-fe0a-4f52-97b6-e758b419b123,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,323010d4-27cf-4ccb-a09c-e7cf1dc84b85,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.ПКО: Ввести документ",
+{1,1,
+{"ru","Ввести документ Приходный кассовый ордер"}
+},
+{1,1,
+{"ru","Ввести документ Приходный кассовый ордер"}
+},
+{1,1,
+{"ru","Ввести документ Приходный кассовый ордер"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Приходный кассовый ордер"}
+},
+{1,1,
+{"ru","Приходный кассовый ордер"}
+},
+{3,3,
+{0},"",14,9,1,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAP//////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////4SC
+hIQAAP8AAP///8bDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxv///4SChIQAAISC
+hMbDxoSChIQAAP///////////////////////////////////////4SChISChP//
+/////////4SChISChISChISChISChISChISChISChISChISChP///4SChIQAAMbD
+xsbDxsbDxoQAAISChP///////////////////////////4SChP///4SChP////8A
+AISChIQAAP///4SChISChISChISChISChISChISChISChISChP///4SChP///8bD
+xv///8bDxsbDxv///////////4SChP///////////4SChP///////4SChP//////
+/////////////////////////4SChISChISChISChISChP///////4SChP///8bD
+xsbDxv//////////////////////////////////////////////////////////
+/////////////////////wAAAP///wAAAP///wAAAP///wAAAP///wAAAAAAAAAA
+AP///////////////////wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAA
+AP///////////////////wAAAP///wAAAP///wAAAAAAAP///////wAAAP///wAA
+AP///////////////////wAAAP///wAAAP///wAAAP///wAAAP///wAAAP///wAA
+AP///////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==}
+},0},
+{0,0,0}
+},
+{6,89ff5a96-6a5f-42bf-8356-abc405e623a3,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,286f511d-3f20-48b2-8ccf-00a07d35008a,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Банки: Открыть справочник",
+{1,1,
+{"ru","Банки (классификатор БИК)"}
+},
+{1,1,
+{"ru","Банки (классификатор БИК)"}
+},
+{1,1,
+{"ru","Открыть справочник Банки (классификатор БИК)"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Банки"}
+},
+{0,0,0}
+},
+{6,1cc0a5df-543f-4782-bb20-8f6d32b1f273,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,e91f46b2-34b8-473b-8976-e556c849b898,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Валюты: Открыть справочник",
+{1,1,
+{"ru","Валюты"}
+},
+{1,1,
+{"ru","Валюты"}
+},
+{1,1,
+{"ru","Открыть справочник Валюты"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Валюты"}
+},
+{1,1,
+{"ru","Валюты"}
+},
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAMbDxsbDxoSChISChISChISChISChISChISChISChISChISChISC
+hISChISChMbDxsbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAISChISChAAAAACChMbDxgCChISChACChACCAAD/AAAAAISChACChISChACC
+hISChAAAAISChAAAAMbDxgCChMbDxgCChAD/AACCAACCAAD/AAAAAISChACChISC
+hACChAAAAMbDxgAAAACChMbDxgCChMbDxgCChAAAAAD/AACCAAAAAACChISChACC
+hAAAAISChMbDxsbDxgAAAACChAD//wCChAAAAAD/AACCAAAAAACChISChACChISC
+hAAAAISChMbDxsbDxgAAAMbDxgCChAD//wCCAACCAACCAAD/AAAAAACChISChACC
+hAAAAMbDxsbDxsbDxgAAAACChAD//wCChAAAAACCAAD/AACCAACChISChACChAAA
+AISChMbDxsbDxsbDxsbDxgAAAACChAD//wCChAAAAACCAAAAAISChACChISChAAA
+AMbDxsbDxsbDxsbDxsbDxsbDxgAAAACChAD//wCChISChACChACChACChAAAAMbD
+xsbDxsbDxsbDxsbDxsbDxsbDxsbDxgAAAACChMbDxgCChISChAAAAAAAAMbDxsbD
+xsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxgAAAAAAAACChAAAAISChISChMbDxsbD
+xsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxgAAAAAAAACChAAAAISChISChMbD
+xsbDxsbDxsbDxsbDxsbDxsbDxsbDxgCChAAAAISChACChACChAAAAAAAAMbDxsbD
+xsbDxsbDxsbDxsbDxsbDxsbDxsbDxsbDxgD//wCChAAAAAAAAMbDxsbDxsbDxsbD
+xsbDxsbDxsbDxg==}
+},0},
+{0,0,0}
+},
+{6,2cada591-169a-4251-9cbd-bda755336414,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,1fe41e21-eedd-47a3-a3cb-f896f96f929a,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.СтавкиНП: Открыть справочник",
+{1,1,
+{"ru","Ставки налога с продаж"}
+},
+{1,1,
+{"ru","Ставки налога с продаж"}
+},
+{1,1,
+{"ru","Открыть справочник Ставки налога с продаж"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Ставки налога с продаж"}
+},
+{0,0,0}
+},
+{6,4ba9764f-f1b9-43aa-8c79-878230fbedcc,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,127},0},
+{6,727b0c33-e255-40d8-a37a-f649eb18f3d4,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,146},0},
+{6,7248a3e5-2849-40d9-bd75-a8b5c5037db4,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,172},0},
+{6,c40ac7eb-4ec7-4d13-99bb-f5b03c10ef02,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,140},0},
+{6,463c030b-93a4-4280-af50-be2f36e39dec,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,18b76488-d10e-4fb7-b68b-2160d9a49db3,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.СнятиеРезерва: Ввести документ",
+{1,1,
+{"ru","Ввести документ Снятие резерва"}
+},
+{1,1,
+{"ru","Ввести документ Снятие резерва"}
+},
+{1,1,
+{"ru","Ввести документ Снятие резерва"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Снятие резерва"}
+},
+{0,0,0}
+},
+{6,ab3dd248-c802-4758-8e56-e440c75307c0,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
+{6,8bd0098b-4c4c-4955-a8e2-1d2b51f02dcf,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,24d85c52-e45a-49de-97e6-de658ecb41bc,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Фирмы: Открыть справочник",
+{1,1,
+{"ru","Фирмы"}
+},
+{1,1,
+{"ru","Фирмы"}
+},
+{1,1,
+{"ru","Открыть справочник Фирмы"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Фирмы"}
+},
+{0,0,0}
+},
+{6,2c1237a3-acc6-46be-8b82-3afa482fab80,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,8a95b2ca-29d1-447e-affe-4cb9d0151112,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ЗаявкиПокупателей: Открыть отчет",
+{1,1,
+{"ru","Заявки покупателей"}
+},
+{1,1,
+{"ru","Заявки покупателей"}
+},
+{1,1,
+{"ru","Открыть отчет Заявки покупателей"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Заявки покупателей"}
+},
+{0,0,0}
+},
+{6,977a6bb9-5838-44e1-a357-df9933bd9e80,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,b90eb55e-8596-4d7c-b7bc-f9b9308496e7,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.БыстраяПродажа: Ввести документ",
+{1,1,
+{"ru","Ввести документ Быстрая продажа"}
+},
+{1,1,
+{"ru","Ввести документ Быстрая продажа"}
+},
+{1,1,
+{"ru","Ввести документ Быстрая продажа"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Быстрая продажа"}
+},
+{0,0,0}
+},
+{6,7e712f5b-a40d-4151-8ccb-7cd9dad55796,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,98},0},
+{6,8b516fa6-14ec-4543-a65b-29d7f57e74a5,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,190},0},
+{6,143dad62-6080-4db6-bf9b-57c83b4a6294,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,87},0},
+{6,f8129258-6db0-454d-947a-8911429c3eaa,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,fc0213d7-1ffc-4ccc-841f-36d0be63dcd7,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.ВозвратОтПокупателя: Ввести документ",
+{1,1,
+{"ru","Ввести документ Возврат от покупателя"}
+},
+{1,1,
+{"ru","Ввести документ Возврат от покупателя"}
+},
+{1,1,
+{"ru","Ввести документ Возврат от покупателя"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Возврат от покупателя (купля-продажа)"}
+},
+{0,0,0}
+},
+{6,0dc86532-39f8-4edc-ab72-acb52dbef7f4,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,dfd415f0-d2cc-4435-834e-ea4ea0372501,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ОплатаЗаявок: Открыть отчет",
+{1,1,
+{"ru","Оплата заявок"}
+},
+{1,1,
+{"ru","Оплата заявок"}
+},
+{1,1,
+{"ru","Открыть отчет Оплата заявок"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Оплата заявок"}
+},
+{0,0,0}
+},
+{6,84b9fa5b-eb47-4df2-ace5-e31dc93bbb77,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,3a12bc3d-a2d7-4f33-883a-15e2da2e28e6,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.КарточкаКоличественноСуммовогоУчета: Открыть отчет",
+{1,1,
+{"ru","Карточка количественно-суммового учета"}
+},
+{1,1,
+{"ru","Карточка количественно-суммового учета"}
+},
+{1,1,
+{"ru","Открыть отчет Карточка количественно-суммового учета"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Карточка количественно-суммового учета"}
+},
+{0,0,0}
+},
+{6,fcdeca29-163e-4c67-9b6d-2ad4c1bd4111,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,631fec70-4941-47c3-a4a1-3db1a0ac95e0,203562fd-7bf3-46fb-8604-c3cc5a1bd885,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Обработка.ПечатьПрайса: Открыть обработку",
+{1,1,
+{"ru","Печать прайс-листа"}
+},
+{1,1,
+{"ru","Печать прайс-листа"}
+},
+{1,1,
+{"ru","Открыть обработку Печать прайс-листа"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Печать прайса"}
+},
+{1,1,
+{"ru","Печать прайса"}
+},
+{3,3,
+{0},"",6,2,1,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAMbDxsbDxsbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAISChMbDxsbDxv//////////////////////////////////////////
+/////wAAAISChMbDxsbDxv//////AP//AP//AP//AP//AP//AP//AMbDxsbDxv//
+AP///wAAAISChMbDxsbDxv//////AP///wAA/8bDxsbDxsbDxsbDxoSChIQAAMbD
+xv///wAAAISChMbDxsbDxv//////AISChMbDxv///////////////8bDxoSChP//
+AP///wAAAISChMbDxsbDxv//////AP///wAA/8bDxsbDxsbDxsbDxsbDxsbDxv//
+AP///wAAAISChMbDxsbDxv//////AISChMbDxv///////////////////8bDxv//
+AP///wAAAISChMbDxsbDxv//////AP///4QAAMbDxsbDxsbDxsbDxsbDxsbDxv//
+AP///wAAAISChMbDxsbDxv//////AISChMbDxv///////////////////8bDxv//
+AP///wAAAISChMbDxsbDxv//////AP///4QAAMbDxsbDxsbDxsbDxsbDxsbDxv//
+AP///wAAAISChMbDxsbDxv//////AISChMbDxv///////////////////wAAAAAA
+AAAAAAAAAISChMbDxsbDxv//////AP///4QAAMbDxsbDxsbDxsbDxsbDxv///8bD
+xoSChAAAAMbDxsbDxsbDxv//////AP//AP//AIQAAIQAAIQAAIQAAP//AMbDxoSC
+hAAAAMbDxsbDxsbDxsbDxv//////AP//AP//AP//AP//AP//AP//AP//AISChAAA
+AMbDxsbDxsbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==}
+},0},
+{0,0,0}
+},
+{6,5547a96a-bd1e-4a71-9924-b741a3a9faff,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,75},0},
+{6,d0138e5e-c2fd-4365-9a78-4c8417fa55cb,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"Обработка_Задача_Выполнить_N_22",
+{1,"Обработка_Задача_Выполнить_N_22",
+{1,1,
+{"ru","Обработка задача выполнить n 22"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 22"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 22"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Поступление в розницу (комиссия)"}
+},
+{0,0,0}
+},
+{6,374abebb-49d8-4804-bf8a-6901a3268dac,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,60},0},
+{6,1aa92308-342a-40d4-a2e1-c3766224dbcc,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,ec01111e-114f-4938-961d-679ec8b1380a,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.РеализацияРозница: Ввести документ",
+{1,1,
+{"ru","Ввести документ Реализация (розница)"}
+},
+{1,1,
+{"ru","Ввести документ Реализация (розница)"}
+},
+{1,1,
+{"ru","Ввести документ Реализация (розница)"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Реализация (розница)"}
+},
+{0,0,0}
+},
+{6,0bed0320-8a45-4742-9455-b455b51de00e,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"Обработка_Задача_Выполнить_N_19",
+{1,"Обработка_Задача_Выполнить_N_19",
+{1,1,
+{"ru","Обработка задача выполнить n 19"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 19"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 19"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Реализация (комиссия)"}
+},
+{0,0,0}
+},
+{6,e46a3b38-e4fb-4741-a607-8af332e078a1,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,e0e98844-dfa1-4a7b-aeb0-89055914cc27,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.ПоступлениеТМЦРозница: Ввести документ",
+{1,1,
+{"ru","Ввести документ Поступление ТМЦ (розница)"}
+},
+{1,1,
+{"ru","Ввести документ Поступление ТМЦ (розница)"}
+},
+{1,1,
+{"ru","Ввести документ Поступление ТМЦ (розница)"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Поступление в розницу (купля-продажа)"}
+},
+{0,0,0}
+},
+{6,ecd0a381-60ee-4fb6-a7fc-17454e0a10ac,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,e0d8c7f7-689b-4dc7-bdd8-fceca1011dbc,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.АвансовыйОтчет: Ввести документ",
+{1,1,
+{"ru","Ввести документ Авансовый отчет"}
+},
+{1,1,
+{"ru","Ввести документ Авансовый отчет"}
+},
+{1,1,
+{"ru","Ввести документ Авансовый отчет"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Авансовый отчет"}
+},
+{0,0,0}
+},
+{6,e0bd8dbc-3e22-42c6-a504-b69984a06352,1,c93a51ed-b2d1-47f1-948d-38373f8710af,
+{4,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,54,
+{1,2e1,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,1,0},0,0},0},
+{6,4a32facf-58f1-4c5a-a34c-451dc36af035,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,4c617d9e-713d-460c-a03f-0ef3380c7f16,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Проекты: Открыть справочник",
+{1,1,
+{"ru","Проекты"}
+},
+{1,1,
+{"ru","Проекты"}
+},
+{1,1,
+{"ru","Открыть справочник Проекты"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Проекты"}
+},
+{0,0,0}
+},
+{6,819d1299-9091-47fe-9b94-24c3586d56de,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,4d27afe3-e138-496c-82ce-763bb595c1fd,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Контрагенты: Открыть справочник",
+{1,1,
+{"ru","Контрагенты"}
+},
+{1,1,
+{"ru","Контрагенты"}
+},
+{1,1,
+{"ru","Открыть справочник Контрагенты"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Контрагенты"}
+},
+{1,1,
+{"ru","Контрагенты "}
+},
+{3,3,
+{0},"",5,3,1,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAMbDxgAAAAAAAAAAAISChISChMbDxsbDxsbDxgAAAAAAAAAAAISC
+hISChMbDxsbDxsbDxoSCAIQAAAAAAAAAAISChISChMbDxgAAAP8AAIQAAAAAAISC
+hISChISChMbDxsbDxoSCAIQAAAAAAAAAAISChISChMbDxv8AAP8AAIQAAAAAAISC
+hISChISChMbDxsbDxoSCAIQAAAAAAAAAAISChISChISChP8AAP8AAIQAAAAAAISC
+hISChISChISChMbDxoSCAIQAAAAAAISChMbDxv///4SChIQAAP8AAIQAAAAAAMbD
+xsbDxoSChISChAD//wCChIQAAISChMbDxv///////////4QAAIQAAAD//wCChAAA
+AMbDxsbDxsbDxoSCAIQAAAAAAAAAAISChMbDxv////////////8AAP8AAIQAAAAA
+AMbDxsbDxsbDxoSCAIQAAAAAAAAAAAAAAISChP///wD///8AAP8AAP8AAIQAAAAA
+AMbDxsbDxsbDxoSCAIQAAAAAAAAAAAAAAAAAAMbDxv8AAP8AAP8AAP8AAIQAAAAA
+AMbDxsbDxsbDxoSCAIQAAAAAAIQAAAAAAAAAAMbDxv8AAP8AAP8AAISChIQAAAAA
+AMbDxsbDxsbDxoSCAISCAIQAAIQAAIQAAAAAAMbDxv8AAISChIQAAIQAAIQAAAAA
+AMbDxsbDxsbDxsbDxoSChISChACChISCAIQAAMbDxv8AAIQAAACChISChAAAhMbD
+xsbDxsbDxsbDxsbDxoSChAD//wCChAAAhMbDxsbDxsbDxgCChAD//wCChISChMbD
+xsbDxsbDxsbDxsbDxoSChP///wD//4SChMbDxsbDxsbDxoSChP///wD//4SChMbD
+xsbDxsbDxsbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==}
+},0},
+{0,0,0}
+},
+{6,5e91e7ad-3cb0-46c6-bbc1-dffc71656aed,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,146df63b-1e83-49ea-9213-02999e7f4904,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ВедомостьПоКонтрагентам: Открыть отчет",
+{1,1,
+{"ru","Ведомость по контрагентам"}
+},
+{1,1,
+{"ru","Ведомость по контрагентам"}
+},
+{1,1,
+{"ru","Открыть отчет Ведомость по контрагентам"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Ведомость по контрагентам"}
+},
+{1,1,
+{"ru","Ведомость по контрагентам"}
+},
+{3,3,
+{0},"",10,8,1,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAMbDxgD//8bDxgD//8bDxgCChISChMbDxgCChAAAAAAAAAAAAAAA
+AAAAAAAAAISChMbDxoSChAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAISChMbDxv//
+/////wAAAISChMbDxgD//////wD//8bDxgCChISChMbDxgCChAAAAIQAAP//AP//
+/////wAAAISChMbDxoSChAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAISChMbDxv//
+/////wAAAISChMbDxgD//////wD//8bDxgCChISChMbDxgCChAAAAIQAAP//AP//
+/////wAAAISChMbDxoSChAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAISChP//////
+/////wAAAISChMbDxgD//////wD//8bDxgCChISChMbDxgCChAAAAIQAAP//AP//
+/////wAAAISChMbDxsbDxv//////////////////////////////////////////
+/////wAAAISChMbDxsbDxv////////8AAP//AP8AAP//AP8AAP//AP8AAP//AP//
+/////wAAAISChMbDxsbDxv//////////////////////////////////////////
+/////wAAAISChMbDxsbDxv////////8AAP//AP8AAP//AP8AAP//AP8AAAAAAAAA
+AAAAAAAAAISChMbDxsbDxv///////////////////////////////////////8bD
+xoSChAAAAMbDxsbDxsbDxv////////8AAP//AP8AAP//AP8AAP//AP8AAMbDxoSC
+hAAAAMbDxsbDxsbDxsbDxv///////////////////////////////////4SChAAA
+AMbDxsbDxsbDxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==}
+},0},
+{0,0,0}
+},
+{6,d686384f-fcb9-4021-939e-54b85b3e1138,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,6a911a69-8cc5-4c16-80fd-e55d9c5f47c6,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.Сторно: Ввести документ",
+{1,1,
+{"ru","Ввести документ Сторнирование документа - основания"}
+},
+{1,1,
+{"ru","Ввести документ Сторнирование документа - основания"}
+},
+{1,1,
+{"ru","Ввести документ Сторнирование документа - основания"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Сторнирование документа"}
+},
+{0,0,0}
+},
+{6,0c015dd4-612e-4ece-916f-1c6146864e00,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,6477ea2b-d913-4071-9048-6dd551a78f1c,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.ОтменаЗаявок: Ввести документ",
+{1,1,
+{"ru","Ввести документ Отмена заявок покупателей"}
+},
+{1,1,
+{"ru","Ввести документ Отмена заявок покупателей"}
+},
+{1,1,
+{"ru","Ввести документ Отмена заявок покупателей"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Отмена заявок покупателей"}
+},
+{0,0,0}
+},
+{6,19ded4b8-9d3f-4330-be8d-193195fb5d0d,1,c93a51ed-b2d1-47f1-948d-38373f8710af,
+{4,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,52,
+{1,18,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,1,0},0,0},0},
+{6,a4602b6e-f2c1-464d-a6eb-e41b24753720,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,dcf821c5-bf9b-4749-827f-0bdc47c30261,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ОтчетПоПродажамТМЦ: Открыть отчет",
+{1,1,
+{"ru","Отчет по продажам ТМЦ"}
+},
+{1,1,
+{"ru","Отчет по продажам ТМЦ"}
+},
+{1,1,
+{"ru","Открыть отчет Отчет по продажам ТМЦ"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Отчет по продажам ТМЦ"}
+},
+{0,0,0}
+},
+{6,3d972d1f-11be-4e8c-b6ab-10f7c9e10b20,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,109},0},
+{6,62ce6656-861d-4a93-80ff-efac0a1f588d,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,4e54be25-4e0b-479b-8762-1d7d66062a89,203562fd-7bf3-46fb-8604-c3cc5a1bd885,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Обработка.ЗагрузкаККМ: Открыть обработку",
+{1,1,
+{"ru","Загрузка ККМ Off-Line"}
+},
+{1,1,
+{"ru","Загрузка ККМ Off-Line"}
+},
+{1,1,
+{"ru","Открыть обработку Загрузка ККМ Off-Line"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Загрузка ККМ Off-Line"}
+},
+{0,0,0}
+},
+{6,ef382abf-8dcb-441f-b2ec-1d4d9d49c9e9,1,c93a51ed-b2d1-47f1-948d-38373f8710af,
+{4,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,50,
+{1,1,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,1,0},0,0},0},
+{6,e9ac8c4a-0fc2-470e-af65-dd2bbb3836c9,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,155},0},
+{6,ed0a261e-3ef2-46c3-a405-ab20a8cad90f,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,91},0},
+{6,4ce55b22-bf2e-4d22-bcca-560791979b2f,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,1b9b810d-0ac4-4a54-a4ae-7648cfea3ecb,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.КнигаПокупок1137: Открыть отчет",
+{1,1,
+{"ru","Книга покупок"}
+},
+{1,1,
+{"ru","Книга покупок"}
+},
+{1,1,
+{"ru","Открыть отчет Книга покупок"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Отчеты.КнигаПокупок1137.Открыть"}
+},
+{0,0,0}
+},
+{6,bc820254-0e36-4d81-87c5-b679275b80cb,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"Обработка_Задача_Выполнить_N_23",
+{1,"Обработка_Задача_Выполнить_N_23",
+{1,1,
+{"ru","Обработка задача выполнить n 23"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 23"}
+},
+{1,1,
+{"ru","Обработка задача выполнить n 23"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Настройки по умолчанию"}
+},
+{1,1,
+{"ru","Настройки по умолчанию"}
+},
+{3,3,
+{0},"",10,9,1,
+{
+{#base64:Qk0KAwAAAAAAADoAAAAoAAAAEAAAAA8AAAABABgAAAAAANACAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAISChISChAAAAAAAAAAA
+AAAAAAAAAISChISChAAAAISChAAAAISChP8AAP8AAIQAAISChISChISChISChAAA
+AISChISChISChISChAAAAISChAAAAISChISChP8AAP8AAIQAAISChISChISChAAA
+AISChISChISChISChAAAAISChAAAAISChISChISChP8AAIQAAIQAAISChISChAAA
+AISChISChISChISChAAAAISChAAAAISChISChISChP8AAP8AAIQAAAAAAAAAAAAA
+AAAAAAAAAISChISChAAAAISChAAAAISChISChISChISChP8AAP8AAIQAAIQAAIQA
+AIQAAAAAAISChISChAAAAISChAAAAISChISChISChISChISChISChP8AAP8AAP8A
+AAD//wAAAISChAAAhAAAhAAAhAAAhAAAhAAAhAAAhP///////4SChISChACChAD/
+/wD//wAAAISChISChMbDxsbDxsbDxsbDxsbDxoSChISChISChP///////wD//8bD
+xgD//wCChAAAAISChISChISChAAAAAAAAISChISChISChISChISChISChAD//wD/
+/wD//wD//wAAAISChISChMbDxsbDxsbDxv//AISChISChISChISChISChISChAD/
+/wD//wD//wAAAISChMbDxsbDxsbDxsbDxv//AISChISChISChISChISChISChISC
+hMbDxgD//wAAAISChMbDxsbDxsbDxsbDxv//AISChISChISChISChISChISChP//
+/////wAAhISChISChMbDxsbDxsbDxsbDxv//AISChISChISChISChISChISChP//
+/wCChAAAhISChAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==}
+},0},
+{0,0,0}
+},
+{6,ed03e36e-33c5-468b-9225-48c8357d19c6,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,fa9e1767-f070-4a60-9770-1906d814ca48,7fad1973-8f65-4eb1-a285-71a48ca2d01f,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Документ.КорректировкаОтгрузки: Ввести документ",
+{1,1,
+{"ru","Ввести документ Корректировка отгрузки"}
+},
+{1,1,
+{"ru","Ввести документ Корректировка отгрузки"}
+},
+{1,1,
+{"ru","Ввести документ Корректировка отгрузки"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Корректировка отгрузки"}
+},
+{0,0,0}
+},
+{6,495d2d9c-7fdd-435d-a6b6-3cb3f1c41041,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,169},0},
+{6,dacff44c-38e6-41f0-8cfb-50c1b15d0ba0,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,151},0},
+{6,c6aab093-f28d-42c4-a5df-5ad783b4bd74,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,92},0},
+{6,54124835-dfc1-452f-932e-e6e9370bd9d6,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,4192eead-f6d9-45a3-b8cf-3af191dd834e,f4785539-c5fb-40da-90be-b235496ec9aa,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Справочник.Пользователи: Открыть справочник",
+{1,1,
+{"ru","Пользователи"}
+},
+{1,1,
+{"ru","Пользователи"}
+},
+{1,1,
+{"ru","Открыть справочник Пользователи"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Пользователи программы"}
+},
+{0,0,0}
+},
+{6,79666414-28f5-4131-a6d3-63d441635cd6,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,9b108f9d-b24d-472b-84e1-627a603e1718,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.ВедомостьПоОстаткамТМЦ: Открыть отчет",
+{1,1,
+{"ru","Ведомость по остаткам ТМЦ"}
+},
+{1,1,
+{"ru","Ведомость по остаткам ТМЦ"}
+},
+{1,1,
+{"ru","Открыть отчет Ведомость по остаткам ТМЦ"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Ведомость по остаткам ТМЦ"}
+},
+{0,0,0}
+},
+{6,c77e87d8-bcf5-4289-b7d9-af7bef7419fc,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,5ba2d052-badd-4b17-8e3b-d0a348490f26,129},0},
+{6,a6c0781d-9b16-4c84-8a5a-ec1f72d60229,1,88feaf15-7cd4-4fe8-9868-ed69cbea1957,
+{6,964dd3ba-0358-4639-842f-f2d68625c6c7,c29f8840-2b63-11d6-a3c7-0050bae0a776,0,0,0,
+{1,0,357c6a54-357d-425d-a2bd-22f4f6e86c87,2147483647,0},1,
+{1,"Отчет.КнигаПродаж1137: Открыть отчет",
+{1,1,
+{"ru","Книга продаж"}
+},
+{1,1,
+{"ru","Книга продаж"}
+},
+{1,1,
+{"ru","Открыть отчет Книга продаж"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},12,
+{1,1,
+{"ru","Отчеты.КнигаПродаж1137.Открыть"}
+},
+{0,0,0}
+},30,
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,1,0,16,4db9695e-fc4d-4c25-8fc3-86d11ff85fe4,
+{7,"Действие",0,1,
+{1,1,
+{"ru","Документы по покупателям"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,2,0,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,3,0,2,0,1,0},1dc56e8e-ae52-459d-8947-4ab2a1f22ba0,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","Ввести документ Заявка покупателя"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,4,0,0,0,1,0},b15dab9f-7aa9-40e2-8b46-16da6962b6bc,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","Ввести документ Реализация "}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,5,0,0,0,1,0},ced12b1b-fe0a-4f52-97b6-e758b419b123,
+{7,"Действие3",0,1,
+{1,1,
+{"ru","Ввести документ Приходный кассовый ордер"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,6,0,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,7,0,2,0,1,0},1cc0a5df-543f-4782-bb20-8f6d32b1f273,
+{7,"Действие4",0,1,
+{1,1,
+{"ru","Валюты"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,8,0,0,0,1,0},abdb0c08-d609-4f6c-8a7d-73937399d95b,
+{7,"Действие5",0,1,
+{1,1,
+{"ru","Номенклатура"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,9,0,0,0,1,0},fcdeca29-163e-4c67-9b6d-2ad4c1bd4111,
+{7,"Действие6",0,1,
+{1,1,
+{"ru","Печать прайс-листа"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,10,0,0,0,1,0},819d1299-9091-47fe-9b94-24c3586d56de,
+{7,"Действие7",0,1,
+{1,1,
+{"ru","Контрагенты"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,11,0,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,12,0,2,0,1,0},65c5d67e-bec7-4269-9549-445ba4d5b056,
+{7,"Действие8",0,1,
+{1,1,
+{"ru","Остатки ТМЦ"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,13,0,0,0,1,0},5e91e7ad-3cb0-46c6-bbc1-dffc71656aed,
+{7,"Действие9",0,1,
+{1,1,
+{"ru","Ведомость по контрагентам"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,14,0,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,15,0,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель4",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,16,0,2,0,1,0},bc820254-0e36-4d81-87c5-b679275b80cb,
+{7,"Действие10",0,1,
+{1,1,
+{"ru","Обработка задача выполнить n 23"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,17,0,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,18,0,7,ef382abf-8dcb-441f-b2ec-1d4d9d49c9e9,
+{7,"Подменю",0,1,
+{1,1,
+{"ru","&Файл"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,19,1,1,0,1,0},374abebb-49d8-4804-bf8a-6901a3268dac,
+{7,"Подменю5",0,1,
+{1,1,
+{"ru","Спр&авочники"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,60,15,1,0,1,0},c6aab093-f28d-42c4-a5df-5ad783b4bd74,
+{7,"Подменю6",0,1,
+{1,1,
+{"ru","Док&ументы"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,92,15,1,0,1,0},7248a3e5-2849-40d9-bd75-a8b5c5037db4,
+{7,"Подменю7",0,1,
+{1,1,
+{"ru","От&четы"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,172,15,1,0,1,0},19ded4b8-9d3f-4330-be8d-193195fb5d0d,
+{7,"Подменю2",0,1,
+{1,1,
+{"ru","&Сервис"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,21,18,1,0,1,0},a8659f4d-358d-432a-90ce-e57089bb10e4,
+{7,"Подменю3",0,1,
+{1,1,
+{"ru","&Окна"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,22,19,1,0,1,0},e0bd8dbc-3e22-42c6-a504-b69984a06352,
+{7,"Подменю4",0,2,
+{1,1,
+{"ru","Сп&равка"}
+},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,23,2e1,1,0,1,0},
+{-1,0,
+{7,5ba2d052-badd-4b17-8e3b-d0a348490f26,19,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,60,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,92,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,172,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,21,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,22,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,23,0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,60,0,12,819d1299-9091-47fe-9b94-24c3586d56de,
+{7,"Действие",0,1,
+{1,1,
+{"ru","&Контрагенты"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,61,1e2,0,0,1,0},abdb0c08-d609-4f6c-8a7d-73937399d95b,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","Н&оменклатура"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,62,1e2,0,0,1,0},1cc0a5df-543f-4782-bb20-8f6d32b1f273,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","&Валюты"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,63,1e2,0,0,1,0},8bd0098b-4c4c-4955-a8e2-1d2b51f02dcf,
+{7,"Действие3",0,1,
+{1,1,
+{"ru","&Фирмы"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,64,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,65,1e2,2,0,1,0},4c3fb7f7-1c91-448b-bea7-44355d89e4b9,
+{7,"Подменю",0,1,
+{1,1,
+{"ru","&Структура компании"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,66,1e2,1,0,1,0},5547a96a-bd1e-4a71-9924-b741a3a9faff,
+{7,"Подменю1",0,1,
+{1,1,
+{"ru","Юридические и физические &лица"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,75,1e2,1,0,1,0},f23ce8d9-7066-4426-b1be-e05c67d563b8,
+{7,"Подменю2",0,1,
+{1,1,
+{"ru","&Цены и налоги"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,80,1e2,1,0,1,0},143dad62-6080-4db6-bf9b-57c83b4a6294,
+{7,"Подменю3",0,1,
+{1,1,
+{"ru","Класс&ификаторы"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,87,1e2,1,0,1,0},49c0b689-b5f8-4f81-b99f-7da1d4d98b37,
+{7,"Подменю4",0,1,
+{1,1,
+{"ru","&Прочие"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,88,1e2,1,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,90,1e2,2,0,1,0},ed0a261e-3ef2-46c3-a405-ab20a8cad90f,
+{7,"Подменю5",0,1,
+{1,1,
+{"ru","&Групповая обработка справочников"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,91,1e2,1,0,1,0},
+{-1,0,
+{6,5ba2d052-badd-4b17-8e3b-d0a348490f26,66,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,75,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,80,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,87,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,88,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,91,0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,66,0,8,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,67,1e2,2,0,1,0},212d09e2-b686-4b91-82f5-9d49d2e02aac,
+{7,"Действие",0,1,
+{1,1,
+{"ru","&Склады"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,68,1e2,0,0,1,0},c0b406d8-8779-4546-ba11-5546f18182ee,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","&Кассы"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,69,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,70,1e2,2,0,1,0},4a32facf-58f1-4c5a-a34c-451dc36af035,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","Про&екты"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,71,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,72,1e2,2,0,1,0},54124835-dfc1-452f-932e-e6e9370bd9d6,
+{7,"Действие3",0,1,
+{1,1,
+{"ru","&Пользователи"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,73,1e2,0,0,1,0},c1b14d76-752a-4bf1-b53f-94e915800c27,
+{7,"Действие4",0,1,
+{1,1,
+{"ru","П&олномочия пользователей"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,74,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,75,0,4,73f49b79-3a18-4fa7-9c6f-41c182d6266a,
+{7,"Действие",0,1,
+{1,1,
+{"ru","Сторонние &юридические лица"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,76,1e2,0,0,1,0},9e372225-1faf-4f83-8e78-1015bc05064f,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","&Физические лица"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,77,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,78,1e2,2,0,1,0},89ff5a96-6a5f-42bf-8356-abc405e623a3,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","&Банки"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,79,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,80,0,6,725e5447-7b0a-4a93-a469-aeec42c9a196,
+{7,"Действие",0,1,
+{1,1,
+{"ru","Т&ипы цен"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,81,1e2,0,0,1,0},ce44e071-123e-44e6-89c4-94643939d533,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","&Скидки"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,82,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,83,1e2,2,0,1,0},2cada591-169a-4251-9cbd-bda755336414,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","Ставки &налога с продаж"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,84,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,85,1e2,2,0,1,0},fcdeca29-163e-4c67-9b6d-2ad4c1bd4111,
+{7,"Действие3",0,1,
+{1,1,
+{"ru","Печать прайс-листа"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,86,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,87,0,0,
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,88,0,1,16f74b98-c5d3-4f43-a73e-154ff9ccb394,
+{7,"Действие",0,1,
+{1,1,
+{"ru","А&налоги номенклатуры"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,89,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,91,0,0,
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,92,0,23,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,93,1e2,2,0,1,0},977a6bb9-5838-44e1-a357-df9933bd9e80,
+{7,"Действие",0,1,
+{1,1,
+{"ru","Быс&трая продажа"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,94,1e2,0,0,1,0},78eecd8e-820a-43dc-b55d-347a9feb759c,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","Прод&ажа собственной фирме"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,95,1e2,0,0,1,0},4738952a-9c76-445e-aae6-6386db22998b,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","Пак&етный ввод документов"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,96,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,97,1e2,2,0,1,0},7e712f5b-a40d-4151-8ccb-7cd9dad55796,
+{7,"Подменю",0,1,
+{1,1,
+{"ru","&Поставщики"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,98,1e2,1,0,1,0},507834af-6057-4f03-adf3-9ca07001554f,
+{7,"Подменю1",0,1,
+{1,1,
+{"ru","Счета-&фактуры полученные"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,107,1e2,1,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,108,1e2,2,0,1,0},3d972d1f-11be-4e8c-b6ab-10f7c9e10b20,
+{7,"Подменю2",0,1,
+{1,1,
+{"ru","П&окупатели"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,109,1e2,1,0,1,0},4ba9764f-f1b9-43aa-8c79-878230fbedcc,
+{7,"Подменю3",0,1,
+{1,1,
+{"ru","Счета-фактуры выда&нные"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,127,1e2,1,0,1,0},c77e87d8-bcf5-4289-b7d9-af7bef7419fc,
+{7,"Подменю4",0,1,
+{1,1,
+{"ru","&Работа с ККМ"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,129,1e2,1,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,133,1e2,2,0,1,0},38703f06-db67-47b3-9e1e-4b3199463383,
+{7,"Подменю5",0,1,
+{1,1,
+{"ru","&Касса"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,134,1e2,1,0,1,0},c40ac7eb-4ec7-4d13-99bb-f5b03c10ef02,
+{7,"Подменю6",0,1,
+{1,1,
+{"ru","&Банк"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,140,1e2,1,0,1,0},727b0c33-e255-40d8-a37a-f649eb18f3d4,
+{7,"Подменю7",0,1,
+{1,1,
+{"ru","По&дотчетники"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,146,1e2,1,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель4",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,150,1e2,2,0,1,0},dacff44c-38e6-41f0-8cfb-50c1b15d0ba0,
+{7,"Подменю8",0,1,
+{1,1,
+{"ru","&Склады"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,151,1e2,1,0,1,0},e9ac8c4a-0fc2-470e-af65-dd2bbb3836c9,
+{7,"Подменю9",0,1,
+{1,1,
+{"ru","Ко&мплекты"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,155,1e2,1,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель5",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,157,1e2,2,0,1,0},29c233b8-2471-4c99-9805-0c9fdc75f62c,
+{7,"Подменю10",0,1,
+{1,1,
+{"ru","Регламентн&ые"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,158,1e2,1,0,1,0},ba821f4e-827d-4b83-bd90-d57729ae87af,
+{7,"Подменю11",0,1,
+{1,1,
+{"ru","Про&чие"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,163,1e2,1,0,1,0},495d2d9c-7fdd-435d-a6b6-3cb3f1c41041,
+{7,"Подменю12",0,1,
+{1,1,
+{"ru","&Ввод остатков"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,169,1e2,1,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель6",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,171,1e2,2,0,1,0},
+{-1,0,
+{13,5ba2d052-badd-4b17-8e3b-d0a348490f26,98,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,107,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,109,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,127,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,129,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,134,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,140,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,146,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,151,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,155,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,158,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,163,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,169,0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,98,0,8,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,99,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,100,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,101,1e2,2,0,1,0},e46a3b38-e4fb-4741-a607-8af332e078a1,
+{7,"Действие",0,1,
+{1,1,
+{"ru","Пос&тупление в розницу (купля-продажа)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,102,1e2,0,0,1,0},d0138e5e-c2fd-4365-9a78-4c8417fa55cb,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","Поступление в розницу (коми&ссия)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,103,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,104,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель4",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,105,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель5",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,106,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,107,0,0,
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,109,0,17,4db9695e-fc4d-4c25-8fc3-86d11ff85fe4,
+{7,"Действие",0,1,
+{1,1,
+{"ru","&Журнал документов по покупателям"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,110,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,111,1e2,2,0,1,0},1dc56e8e-ae52-459d-8947-4ab2a1f22ba0,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","&Заявка покупателя"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,112,1e2,0,0,1,0},0c015dd4-612e-4ece-916f-1c6146864e00,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","Отм&ена заявок покупателей"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,113,1e2,0,0,1,0},463c030b-93a4-4280-af50-be2f36e39dec,
+{7,"Действие3",0,1,
+{1,1,
+{"ru","С&нятие резерва"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,114,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,115,1e2,2,0,1,0},b15dab9f-7aa9-40e2-8b46-16da6962b6bc,
+{7,"Действие4",0,1,
+{1,1,
+{"ru","Ре&ализация (купля-продажа)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,116,1e2,0,0,1,0},0bed0320-8a45-4742-9455-b455b51de00e,
+{7,"Действие5",0,1,
+{1,1,
+{"ru","Реализация (&комиссия)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,117,1e2,0,0,1,0},d8512122-5235-4591-b6af-90adf5d265b9,
+{7,"Действие6",0,1,
+{1,1,
+{"ru","Реализация (&ОС, НМА и пр.)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,118,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,119,1e2,2,0,1,0},ed03e36e-33c5-468b-9225-48c8357d19c6,
+{7,"Действие7",0,1,
+{1,1,
+{"ru","Корректировка отгр&узки"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,120,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,121,1e2,2,0,1,0},1aa92308-342a-40d4-a2e1-c3766224dbcc,
+{7,"Действие8",0,1,
+{1,1,
+{"ru","Реа&лизация (розница)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,122,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель4",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,123,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель5",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,124,1e2,2,0,1,0},f8129258-6db0-454d-947a-8911429c3eaa,
+{7,"Действие9",0,1,
+{1,1,
+{"ru","Возврат от покупателя (купля-&продажа)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,125,1e2,0,0,1,0},9d9e56b9-e609-4f62-b6d3-2e0a95769b5a,
+{7,"Действие10",0,1,
+{1,1,
+{"ru","Возврат от покупателя (коми&ссия)"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,126,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,127,0,1,7f3bb651-afce-48af-a645-67ca934b6235,
+{7,"Действие",0,1,
+{1,1,
+{"ru","&Журнал выданных счетов-фактур"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,128,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,129,0,3,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,130,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,131,1e2,2,0,1,0},62ce6656-861d-4a93-80ff-efac0a1f588d,
+{7,"Действие",0,1,
+{1,1,
+{"ru","З&агрузка ККМ Off-Line"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,132,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,134,0,5,cda91e08-5a85-471c-a672-780b80668856,
+{7,"Действие",0,1,
+{1,1,
+{"ru","&Журнал кассовых документов"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,135,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,136,1e2,2,0,1,0},ced12b1b-fe0a-4f52-97b6-e758b419b123,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","&Приходный кассовый ордер"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,137,1e2,0,0,1,0},a8014bf0-a3f4-4569-8039-b7dc2755643c,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","&Расходный кассовый ордер"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,138,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,139,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,140,0,5,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,141,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,142,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,143,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,144,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель4",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,145,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,146,0,3,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,147,1e2,2,0,1,0},ecd0a381-60ee-4fb6-a7fc-17454e0a10ac,
+{7,"Действие",0,1,
+{1,1,
+{"ru","&Авансовый отчет"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,148,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,149,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,151,0,3,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,152,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,153,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,154,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,155,0,1,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,156,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,158,0,4,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,159,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,160,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,161,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,162,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,163,0,5,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,164,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,165,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,166,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,167,1e2,2,0,1,0},d686384f-fcb9-4021-939e-54b85b3e1138,
+{7,"Действие",0,1,
+{1,1,
+{"ru","&Сторнирование документа "}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,168,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,169,0,1,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,170,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,172,0,18,2c1237a3-acc6-46be-8b82-3afa482fab80,
+{7,"Действие",0,1,
+{1,1,
+{"ru","За&явки покупателей"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,173,1e2,0,0,1,0},0dc86532-39f8-4edc-ab72-acb52dbef7f4,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","Оп&лата заявок"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,174,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,175,1e2,2,0,1,0},79666414-28f5-4131-a6d3-63d441635cd6,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","Ведомость по ост&аткам ТМЦ"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,176,1e2,0,0,1,0},65c5d67e-bec7-4269-9549-445ba4d5b056,
+{7,"Действие3",0,1,
+{1,1,
+{"ru","&Остатки ТМЦ"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,177,1e2,0,0,1,0},a4602b6e-f2c1-464d-a6eb-e41b24753720,
+{7,"Действие4",0,1,
+{1,1,
+{"ru","Отчет по прода&жам ТМЦ"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,178,1e2,0,0,1,0},e5bf6e42-4b56-4600-9b60-eeee51d4741e,
+{7,"Действие5",0,1,
+{1,1,
+{"ru","&Резервы ТМЦ"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,179,1e2,0,0,1,0},84b9fa5b-eb47-4df2-ace5-e31dc93bbb77,
+{7,"Действие6",0,1,
+{1,1,
+{"ru","Карточка количественно-суммово&го учета"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,180,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,181,1e2,2,0,1,0},5e91e7ad-3cb0-46c6-bbc1-dffc71656aed,
+{7,"Действие7",0,1,
+{1,1,
+{"ru","Ведомость по кон&трагентам"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,182,1e2,0,0,1,0},9ac38428-32f7-4a1c-bc0b-74ff733ca75f,
+{7,"Действие8",0,1,
+{1,1,
+{"ru","Отчет по кли&ентам"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,183,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель2",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,184,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель3",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,185,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель4",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,186,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель5",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,187,1e2,2,0,1,0},8e5c00fa-e0ab-4802-99f1-9103b0044791,
+{7,"Подменю",0,1,
+{1,1,
+{"ru","Аналити&ческие"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,188,1e2,1,0,1,0},8b516fa6-14ec-4543-a65b-29d7f57e74a5,
+{7,"Подменю1",0,1,
+{1,1,
+{"ru","Бу&хгалтерские"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,190,1e2,1,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель6",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,196,1e2,2,0,1,0},
+{-1,0,
+{2,5ba2d052-badd-4b17-8e3b-d0a348490f26,188,0,5ba2d052-badd-4b17-8e3b-d0a348490f26,190,0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,188,0,1,ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,189,1e2,2,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,5ba2d052-badd-4b17-8e3b-d0a348490f26,190,0,5,573199d6-a0ec-4d6d-9ff5-fc7c7ae1cc11,
+{7,"Действие",0,1,
+{1,1,
+{"ru","Журнал счетов-фактур по Постановлению № 1137"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,191,1e2,0,0,1,0},4ce55b22-bf2e-4d22-bcca-560791979b2f,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","Книга покупок по Постановлению № 1137"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,192,1e2,0,0,1,0},a6c0781d-9b16-4c84-8a5a-ec1f72d60229,
+{7,"Действие2",0,1,
+{1,1,
+{"ru","Книга продаж по Постановлению № 1137"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,193,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,194,1e2,2,0,1,0},f4238d10-ebf7-409b-96d8-3047512eb217,
+{7,"Действие3",0,1,
+{1,1,
+{"ru","Журнал учета розничной продажи алкогольной продукции"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,195,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+},
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,50,0,0,
+{-1,0,
+{0}
+}
+},
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,52,0,0,
+{-1,0,
+{0}
+}
+},
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,53,0,0,
+{-1,0,
+{0}
+}
+},
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,54,0,4,47168b13-eb5b-4d6e-936d-aefb6ce61ce3,
+{7,"Действие",0,1,
+{1,1,
+{"ru","Помо&щник начала работы"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,56,1e2,0,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,57,1e2,2,0,1,0},ab3dd248-c802-4758-8e56-e440c75307c0,
+{7,"Разделитель1",0,1,
+{1,0},0,5ba2d052-badd-4b17-8e3b-d0a348490f26,58,1e2,2,0,1,0},dcf0e9ea-51d5-4e15-b274-d05ade4473a7,
+{7,"Действие1",0,1,
+{1,1,
+{"ru","Информационный блок"}
+},1,5ba2d052-badd-4b17-8e3b-d0a348490f26,59,1e2,0,0,1,0},
+{-1,0,
+{0}
+}
+}
+},2,9ca116f6-d116-470b-9612-4ecb6e69aa9c,
+{3,5ba2d052-badd-4b17-8e3b-d0a348490f26,1,65ba84af-628b-4657-a592-3d41d5fd77b5,1,
+{1,1,
+{"ru","Торговля"}
+},1,1,0},9ca116f6-d116-470b-9612-4ecb6e69aa9c,
+{3,5ba2d052-badd-4b17-8e3b-d0a348490f26,18,5f787e4a-abaa-4348-add9-53052e1a66e3,0,
+{1,1,
+{"ru","Главное меню"}
+},0,1,0}
+}

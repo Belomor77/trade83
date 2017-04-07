@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<DataProcessor uuid="e68b66cb-0c9d-4e77-ad79-917e81cd79b8">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.ФП_СправочникФункций" category="Object">
+				<xr:TypeId>4cd2b3b8-bac2-4187-9308-e29e5e6c9dbf</xr:TypeId>
+				<xr:ValueId>4abf5240-9471-4a28-9a20-740382273f43</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.ФП_СправочникФункций" category="Manager">
+				<xr:TypeId>143c4b06-b2d9-46d0-953c-2332fbfdfc0b</xr:TypeId>
+				<xr:ValueId>1c6bae1a-a0b5-4c93-8a3d-81d3dacf62ce</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ФП_СправочникФункций</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Справочник по настройке выгрузки</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<DefaultForm>DataProcessor.ФП_СправочникФункций.Form.Форма1</DefaultForm>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Form>Форма1</Form>
+			<Template>Форма1_Таблица</Template>
+			<Template>Форма1_Структура</Template>
+			<Template>Форма1_АналитикаФПБух</Template>
+			<Template>Форма1_ОтборБух</Template>
+			<Template>Форма1_АналитикаОпер</Template>
+			<Template>Форма1_ОтборОпер</Template>
+			<Template>Форма1_ОтборКомпл</Template>
+			<Template>Форма1_АналитикаФПБухУСН</Template>
+			<Template>Форма1_ОтборБухУСН</Template>
+			<Template>Форма1_ОтборПУБ</Template>
+			<Template>Форма1_АналитикаФППБОЮЛ</Template>
+			<Template>Форма1_ОтборПБОЮЛ</Template>
+			<Template>Форма1_АналитикаФПАспект</Template>
+			<Template>Форма1_ОтборАспект</Template>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

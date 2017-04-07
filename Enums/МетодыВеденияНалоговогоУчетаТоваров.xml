@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="7cf3ead8-56ad-4e8b-9d06-805812f7f598">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.МетодыВеденияНалоговогоУчетаТоваров" category="Ref">
+				<xr:TypeId>a1d20918-3b56-4c2c-95bb-8b27f02bab37</xr:TypeId>
+				<xr:ValueId>7d6f3daf-70c1-444a-ab61-587731453170</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.МетодыВеденияНалоговогоУчетаТоваров" category="Manager">
+				<xr:TypeId>bec68aa9-2914-4743-a882-0de69d1cdf46</xr:TypeId>
+				<xr:ValueId>1b1674a9-4cfc-49c8-9aa6-e3a90867199b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.МетодыВеденияНалоговогоУчетаТоваров" category="List">
+				<xr:TypeId>bc46c03e-9564-4987-abc5-7cd61ad570cf</xr:TypeId>
+				<xr:ValueId>0e350c43-c06a-40cc-9a7e-399ea4045c2e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>МетодыВеденияНалоговогоУчетаТоваров</Name>
+			<Synonym/>
+			<Comment>Налоговый учет товаров в опте и в рознице</Comment>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="5089616e-e975-4a09-aaa8-d071b4141dae">
+				<Properties>
+					<Name>Разделять</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Разделять опт и розницу</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Разделять</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fe7e7127-e05a-4317-9640-cf55240d33a7">
+				<Properties>
+					<Name>НеРазделять</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Не разделять опт и розницу</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Не разделять</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

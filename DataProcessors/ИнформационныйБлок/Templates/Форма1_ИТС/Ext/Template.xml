@@ -1,0 +1,6255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<languageSettings>
+		<currentLanguage>ru</currentLanguage>
+		<defaultLanguage/>
+		<languageInfo>
+			<id>#</id>
+			<code>Язык по умолчанию</code>
+			<description>Язык по умолчанию</description>
+		</languageInfo>
+		<languageInfo>
+			<id>ru</id>
+			<code>Русский</code>
+			<description>Русский</description>
+		</languageInfo>
+	</languageSettings>
+	<columns>
+		<size>58</size>
+		<columnsItem>
+			<index>0</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>1</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>2</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>3</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>4</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>5</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>6</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>7</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>8</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>9</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>10</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>11</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>12</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>13</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>14</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>15</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>16</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>17</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>18</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>19</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>20</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>21</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>22</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>23</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>24</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>25</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>26</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>27</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>28</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>29</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>30</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>31</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>32</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>33</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>34</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>35</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>36</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>37</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>38</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>39</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>40</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>41</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>42</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>43</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>44</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>45</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>46</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>47</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>48</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>49</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>50</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>51</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>52</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>53</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>54</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>55</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>56</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>57</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+	</columns>
+	<rowsItem>
+		<index>0</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>1</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>4</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ПРАКТИЧЕСКАЯ ПОМОЩЬ БУХГАЛТЕРАМ, ФИНАНСИСТАМ, КАДРОВИКАМ</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>2</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>3</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>5</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ИТС.ПРОФ: ТЕПЕРЬ ДОСТУПНЕЙ И УДОБНЕЙ!  </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>4</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>40</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>5</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>40</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>6</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>8</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>С 2007 года информационно-технологическое сопровождение (профессиональная поставка) программ системы "1С:Предприятие" выходит как на CD, так и на DVD.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>7</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>8</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>9</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>10</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>9</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ежемесячное подписное издание</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>11</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>12</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+					<detailParameter>"http://v8.1c.ru/cnt.jsp/:KOM0507:/http://links.1c.ru/~seminary_i_obuchenie"</detailParameter>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>13</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>  ИТС.ПРОФ - это: </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>14</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>15</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>12</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Обновления программ </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>16</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>17</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>12</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Практические и методические рекомендации </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>18</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>19</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>12</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Справочники по основным налогам и сборам</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>20</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>21</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>12</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Материалы ведущих экономических изданий</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>22</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<i>41</i>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>7</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>23</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>13</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отправить
+заявку
+на демонстрацию
+</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"http://v8.1c.ru/cnt.jsp/:TiSr7:/http://www.1c.ru/rus/support/its/zajavka.jsp"</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>11</i>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>12</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Разъяснения изменений законодательства</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>24</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>25</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>11</i>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>12</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Правовая информация </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>26</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>38</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>27</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Все материалы ежемесячно обновляются и расширяются в соответствии с изменениями в нормативном регулировании бухгалтерского и налогового учета, а также по мере выхода новых версий программ.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>28</index>
+		<row>
+			<formatIndex>16</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Обслуживание проводят квалифицированные специалисты. Подписчикам ИТС ПРОФ фирма "1С" предоставляет дополнительный сервис.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>29</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>9</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Качество проверено временем</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>30</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>31</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>17</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>СПРАВОЧНИК ХОЗЯЙСТВЕННЫХ ОПЕРАЦИЙ. УЧЕТ В "1C:ПРЕДПРИЯТИИ"</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>32</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>33</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>34</index>
+		<row>
+			<formatIndex>18</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Рассмотрено около 250 самых типичных для хозяйственной практики ситуаций. По каждой ситуации приводятся таблицы проводок (более 2000) и налоговых регистров, в которых подробно описаны:</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>35</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>порядок исчисления суммы и даты проводки;</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>36</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>37</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>налоговые последствия с учетом последних изменений в Налоговом кодексе РФ;</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>38</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>39</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>перечень необходимых документов;</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>40</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>41</index>
+		<row>
+			<formatIndex>20</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>21</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>способы ввода данных в программы "1С:Бухгалтерия" версий 8 и 7.7, "1С:Предприятие 8". Управление производственным предприятием", "1С:Предприятие 7.7. Комплексная поставка "</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>42</index>
+		<row>
+			<formatIndex>22</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для наиболее сложных ситуаций предусмотрена возможность их интерактивной "прокрутки" на реальных цифрах: бухгалтер может ввести собственные данные, а программа автоматически сформирует суммы и даты всех бухгалтерских проводок и записей в налоговых регистрах.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>43</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>23</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>СПРАВОЧНИК "РАСЧЕТЫ С ПЕРСОНАЛОМ ПО ОПЛАТЕ ТРУДА В ПРОГРАММАХ 1С"</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>44</index>
+		<row>
+			<formatIndex>24</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>45</index>
+		<row>
+			<formatIndex>25</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Справочник представляет собой систематизированное и подробное издание, предназначенное для кадровиков и бухгалтеров по расчету зарплаты. Он содержит ответы на различные кадровые вопросы. Материал представлен в наглядной пошаговой форме и предлагает готовые для использования кадровыми службами процедуры. Особый акцент в Справочнике сделан на практическом оформлении различных видов выплат предусмотренных Трудовым кодексом, а также выплат, которые работодатель вправе самостоятельно установить на предприятии.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>46</index>
+		<row>
+			<formatIndex>26</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Применительно к каждой выплате (надбавке, компенсации и т.п.) описано:</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>47</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>пошаговая методика установления на предприятии разных видов выплат;</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>48</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>49</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>образцы документов;</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>50</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>51</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>налогообложение каждой выплаты;</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>52</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>53</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>пример расчета каждой выплаты;</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>54</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>55</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>11</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>a</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>порядок оформления расчетов в программах "1С:Зарплата и управление персоналом 8" и "1С:Зарплата и Кадры 7.7"</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>56</index>
+		<row>
+			<formatIndex>27</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>57</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>58</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>28</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для заключения договора информационно-технологического сопровождения
+обращайтесь к партнерам фирмы "1С"
+</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>59</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>60</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>61</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>62</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>63</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>19</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Комплект дисков ИТС - подписное издание, предназначенное для зарегистрированных пользователей программ системы "1С:Предприятие". Сервис-партнеры фирмы "1С" ежемесячно доставляют диски ИТС на рабочие места пользователей, знакомят с их содержанием, производят обновление программ.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>64</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>65</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>28</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Фирма "1С", Москва, Селезневская ул., 21, тел. 737-92-57, факс: 681-44-07, www.1c.ru</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>66</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>67</index>
+		<row>
+			<formatIndex>2</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>3</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>11</id>
+		<formatIndex>29</formatIndex>
+		<beginRow>13</beginRow>
+		<beginRowOffset>40</beginRowOffset>
+		<endRow>23</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>2</beginColumn>
+		<beginColumnOffset>24</beginColumnOffset>
+		<endColumn>9</endColumn>
+		<endColumnOffset>40</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<leftHeader>
+		<f>7</f>
+	</leftHeader>
+	<leftFooter>
+		<f>7</f>
+	</leftFooter>
+	<defaultFormatIndex>7</defaultFormatIndex>
+	<height>133</height>
+	<vgRows>133</vgRows>
+	<merge>
+		<r>1</r>
+		<c>1</c>
+		<h>1</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>3</r>
+		<c>1</c>
+		<h>2</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>6</r>
+		<c>1</c>
+		<h>2</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>10</r>
+		<c>1</c>
+		<h>1</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>13</r>
+		<c>11</c>
+		<h>1</h>
+		<w>26</w>
+	</merge>
+	<merge>
+		<r>15</r>
+		<c>11</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>15</r>
+		<c>12</c>
+		<h>1</h>
+		<w>25</w>
+	</merge>
+	<merge>
+		<r>17</r>
+		<c>11</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>17</r>
+		<c>12</c>
+		<h>1</h>
+		<w>25</w>
+	</merge>
+	<merge>
+		<r>19</r>
+		<c>11</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>19</r>
+		<c>12</c>
+		<h>1</h>
+		<w>25</w>
+	</merge>
+	<merge>
+		<r>21</r>
+		<c>11</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>21</r>
+		<c>12</c>
+		<h>1</h>
+		<w>25</w>
+	</merge>
+	<merge>
+		<r>23</r>
+		<c>1</c>
+		<h>3</h>
+		<w>9</w>
+	</merge>
+	<merge>
+		<r>23</r>
+		<c>11</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>23</r>
+		<c>12</c>
+		<h>1</h>
+		<w>25</w>
+	</merge>
+	<merge>
+		<r>25</r>
+		<c>11</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>25</r>
+		<c>12</c>
+		<h>1</h>
+		<w>25</w>
+	</merge>
+	<merge>
+		<r>27</r>
+		<c>11</c>
+		<w>28</w>
+	</merge>
+	<merge>
+		<r>28</r>
+		<c>11</c>
+		<w>28</w>
+	</merge>
+	<merge>
+		<r>29</r>
+		<c>1</c>
+		<h>1</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>31</r>
+		<c>1</c>
+		<h>1</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>34</r>
+		<c>1</c>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>35</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>35</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>37</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>37</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>39</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>39</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>41</r>
+		<c>3</c>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>42</r>
+		<c>1</c>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>43</r>
+		<c>1</c>
+		<h>1</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>45</r>
+		<c>1</c>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>46</r>
+		<c>1</c>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>47</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>47</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>49</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>49</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>51</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>51</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>53</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>53</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>55</r>
+		<c>2</c>
+		<h>1</h>
+	</merge>
+	<merge>
+		<r>55</r>
+		<c>3</c>
+		<h>1</h>
+		<w>36</w>
+	</merge>
+	<merge>
+		<r>58</r>
+		<c>1</c>
+		<h>3</h>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>63</r>
+		<c>1</c>
+		<w>38</w>
+	</merge>
+	<merge>
+		<r>65</r>
+		<c>1</c>
+		<w>38</w>
+	</merge>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Страница</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>0</beginRow>
+			<endRow>67</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentDrawingLineType">None</v8ui:style>
+	</line>
+	<font faceName="Arial" height="11.3" bold="true" italic="true" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="20.3" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="11.3" bold="false" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="14.3" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="11.3" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Webdings" height="11.3" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="9.8" bold="true" italic="false" underline="true" strikeout="false" kind="Absolute"/>
+	<format>
+		<width>22</width>
+	</format>
+	<format>
+		<height>45</height>
+	</format>
+	<format>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<font>0</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#800000</textColor>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<font>1</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#808000</textColor>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<font>1</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#808000</textColor>
+	</format>
+	<format/>
+	<format>
+		<font>2</font>
+		<horizontalAlignment>Justify</horizontalAlignment>
+		<verticalAlignment>Bottom</verticalAlignment>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<font>3</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#FFFFFF</textColor>
+		<backColor>#800000</backColor>
+	</format>
+	<format>
+		<font>4</font>
+		<horizontalAlignment>Left</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<font>5</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#800000</textColor>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<font>4</font>
+		<verticalAlignment>Center</verticalAlignment>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<font>6</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#808000</textColor>
+		<backColor>#FFFFC0</backColor>
+		<fillType>Text</fillType>
+	</format>
+	<format>
+		<height>273</height>
+	</format>
+	<format>
+		<font>4</font>
+		<horizontalAlignment>Justify</horizontalAlignment>
+		<verticalAlignment>Top</verticalAlignment>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<height>192</height>
+	</format>
+	<format>
+		<font>4</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<textColor>#800000</textColor>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<height>144</height>
+	</format>
+	<format>
+		<font>2</font>
+		<horizontalAlignment>Justify</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<height>129</height>
+	</format>
+	<format>
+		<font>5</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Top</verticalAlignment>
+		<textColor>#800000</textColor>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<height>204</height>
+	</format>
+	<format>
+		<font>4</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Bottom</verticalAlignment>
+		<textColor>#800000</textColor>
+		<backColor>#FFFFC0</backColor>
+	</format>
+	<format>
+		<height>60</height>
+	</format>
+	<format>
+		<height>384</height>
+	</format>
+	<format>
+		<height>48</height>
+	</format>
+	<format>
+		<height>63</height>
+	</format>
+	<format>
+		<font>4</font>
+		<horizontalAlignment>Center</horizontalAlignment>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#FFFFFF</textColor>
+		<backColor>#800000</backColor>
+	</format>
+	<format>
+		<drawingBorder>0</drawingBorder>
+		<verticalAlignment>Top</verticalAlignment>
+		<backColor>#FFFFFF</backColor>
+		<fillType>Text</fillType>
+	</format>
+	<picture>
+		<index>0</index>
+		<picture t="false">Qk22vgAAAAAAADYAAAAoAAAAfwAAAH8AAAABABgAAAAAAIC+AAAAAAAAAAAAAAAA
+AAAAAAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv/////3xv//xv//xv//xv//rYyM
+nFIAnFIAlIRS1t7nxv//xv//xv//xv//xv//xv/////3xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv////f3xv//1t7nnIRSnFIAnFIAnFIAnFIAnFIAnFIAnGspnGspnFIA
+nFIAnFIAnFIAnFIAnFIAnFIAnFIAnFIAnFIAnFIAnFIAnGsp3rWt//f3//f3//f3
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f3xv//
+//f3pd7ve4xzlFIAhGtSjIx7lFIAlFoQnKVzlFoQnIRSlIRSnKVznKVznIRSnKVz
+nIRSnKVznIRSnGspnIRSnIRSnGsplFoQnGsplIRSlFoQnFIAnFIAnFIAnFIAnFIA
+xpyc//f3//f3//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f3//f3zqWlhHNje4xz
+lFIAlFIAjIxzlIRSjIx7e9bejJychL29hL29jJyMhL29hL29hL29jIxznIRSnKVz
+nIRSnKVznKVznIRSnIRSjJyMnGspnIRSnIRSnKVznKVznKVznKVznKVznGspnGsp
+nFIAnFIAnFIAnFIAxpyc//f3//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//7///3rWtnGspjGMxhGtSe4xzlFoQ
+jIxzlGtKlJx7lJx7jJyMhL29e9bnhM7WjJycnGsplFoQlEoAlFIAlFIAjHNrjJyc
+jHNrlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFoQnGsplFoQnKVznIRSnGsphM7WnIRS
+nKVznGspnGsplFoQlFIAlFIAnFIAzqWl9+/vxv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//7///pd7vGK3eY4yUhHNjjJyMjIxzjJyMlIRS
+lJx7lJx7jGMxlIRSjEoQhHNjWq21Wq21a62tjIxzlGtKlEoIjEoQjEoQlEoIlEoI
+lGtKlGtKlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFoQnGsp
+nKVzlFoQnKVznKVznKVznIRSlFIAlFIAlFIAzqWl9+/v//f3xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//7///7///hOfnALXvEL3nQsbeEHuUCIycMWuMOXOMWmt7lIRS
+jGMxjEoQjEoQjEoQhGtSe4xzhHNjQsbeWq21a62tjIRzjGMxjIxzjHNrjEohjEoh
+jEohjEoQjEoQlEoIlEoIlEoIlEoIlEoIlFIAlFIAlFIAlFIAlFIAlFIAlFIAlFIA
+lFIAlFIAlFoQnGspnKVznKVzlFoQjJyMnGsplFoQlFIAnGsp3rWt9+/v//f3xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//rff/EL3vAL3nAMbnALXnAL3nEFJjEHuUMXucMZStEK3nEK3nEK3n
+IaW9WoSEjEohjEoQjEoQjEoQjGMxY5ylY5yljGMxhGtSa62ta62tjJyMjJyMjJyM
+lJx7jHNrjEoQjEoQjEoQjEohjEohjEoQlEoIlEoIlEoIlEoIlEoAlEoAlFIAlFIA
+lFIAlFIAlFIAlFIAlFIAlFIAnGspnIRSnKVznKVznGsplFoQlFIAnFIAzqWl//f3
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//7///pd7vEL3vMd73ALXnAIy1EFJjIXu9KaXnOYyUSsbvEK3nGK3vEK3nEK3n
+CK3vEK3nGK3eY3NrjGMxjEohjGNKY5ylWq21e4xzjGNaY5yla62te4xzjGMxjGMx
+jGNKjHNrjIx7jGNKjHNrjJyMjJyMjHNrjEoQjEoQjEIpjEoQlEoIlEoIjEoQjEoQ
+jEoQlEoIlEoAlEoIlFoQlFoQlFoQlFIAnGsplIRSlJx7jJyclIRSlFIAlEoAzqWl
+9+/v//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//7///
+rff/AM7vEL3nEK3nIaW9MYScMXucAIy1IaW9SsbvGKXvEK3nEK3nEK3nEL3nGKXn
+EK3nEK3nEK3nEK3nMYzOY3NrjGMxjGMxjGMxe4xze4xzjEohjEoQjEohjGMxjEoQ
+jGNKjIRzjGNKjGMxjGMxjEohhGtSjGNKjEoQjGNKjIx7jGNajEoQjEoQjGNKjJyM
+jJyMlGtKlFoQlGtKjJyMjJycjJyMjGNKlEoAlEoIlEoIlGtKnKVznKVznKVzlEoA
+lEoAzqWl9+/v//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//rff/EL3n
+SsbvSsbvAIy1EGt7EGt7MYycIaW9Kb3vAMbnAMbvIaXnGKXnGK3vGKXnIaXnIaXn
+IaXnGK3eGK3eIaXnEK3nEK3nY4yUhEoxjEohhGtSY4yUjGMxjGMxjEohjEIYjGNK
+jGNKjEohhGtSlGtKjGNKjGNKjEoQjEIQjGNKhGtSjEohjEIQjEIQjEoQjGMxjIx7
+jHNrjEohjEoQjEoAjEoAlEoIjHNrjGNKjEoQjGNKnGsplFoQnGsplIRSjIxzjJyM
+lIRSlEoAlEoAzqWl//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//7///rff/ALXvAK3v
+ALXnIXu9MWuMEGt7IaW9SsbvQsbeEL3nEK3nEK3nGKXnAMbnAMbvIaXnKaXnIaXn
+IaXnIa3vEL3nEK3nIaXnIaXnIaXnKZznWmt7hGtSY5ylWq21hHNjjGMxjHNrjHtz
+jEIYjEIYjEohjEohjEoQjGMxjGMxjEIQjEIQhHNjhGtSjEIQjEIQjEIQjEIQjEoQ
+jHtzjIRzjGMxjEIQjEIQjEIQjEoAjIR7jGNKjEoAlEoIjHNrjGMxjEoAlFoQlJx7
+jIxznGsplFoQjEoAzqWl9+/v//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//rff/AMbnALXvAIy1AIy1
+EGt7EGt7IaW9Kb3vIaXvIaXnIaXnEK3nEK3nEK3nEL3nEL3nGK3eIaXnKaXnKaXn
+IaXnIaXnKaXnIaXnGKXnIaXnKaXnIaXnIaXnWoSEhHNjWq21Qsbee4xze4xzhHNj
+hGtShGtShHNje4xzjGMxhHNjhGtSjEIQjEIQjGMxjGNKjEohjEIQjEIQjEIYjEoh
+hGtShGtSjEohjEIQjEIQjEIQjEohjHtzjGNKjEoQjEohlFoQlEoIjEIIjEIIjEoA
+jGMxjJyclIRSlIRSjGMxjEoQzqWl//f3xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//rff/AL3vAL3vQsbeMZStMXuc
+MYScQsbeEK3vGK3vIaXvIaXvKaXnKaXnKaXnKaXnEL3nEL3nEL3nGK3eKaXnALXn
+AK3vIaXnGKXnKZznIaXnEL3nKb3vKaXnKaXnKb3vWoSEhGtSY3NrjGNKjEohjEoQ
+jEohjEohhGtShGtSjEIYjEohjEohjEIYjEohhHNjhGtSjEIYjEIYjEIYjEIYhGtS
+jGNKjEIYjEIYjEIYjEohjEIYhHNjjGNKjEIYjHNrjIyEjGMxjEIQjEIQjEIQjEIQ
+jEIQjEoQjIxzlJx7jJycjGMxjEIQzqWl9+/vxv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//7///rff/AL3vAL3vAL3eMXucQnuEIaW9
+CK3vALXvANbvAL3vAM7vAM7vIa3vKaXnKb3vKaXnIaXnKaXnEL3nGK3eKZznKZzn
+KZznKZznGK3eGK3eKZznKZznKZznKZznKZznKZznIaXnOaXnY5ylhFpSjEIYjDkY
+jEohjEohjEoQjEohjGMxjEohjDkYjEIYhHNjhGtSjEIYjEIYjEIYjEohjEohjEIY
+jEIYjEIYjEIYjEIYhHNjjFJKjEIYjEIYjGMxjGMxjGNKjEohjEIQjEIQjEIQjEIQ
+jEIQjEIQjEIQjGMxlJx7jIx7lIRSjEIQrYyM1t7n//f3xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//rff/e9bnAL3vAL3nMXucWq21MYycQsbeAMbv
+ALXvEK3vEL3nGK3vIaXnIaXnKaXnKaXnIaXnKaXnKaXnKZznIaXnKZznGKXnGK3e
+KZznKZznIaXnALXnGK3eKZznKZznKZznKZznKZznKZznIaXnUoSchFpShEoxhEIp
+jEIYjEohjEohjEIpjHNrjGNajEIYhEoxjEohhDkYhDkYhEoxjEohhDkYhDkYhEIp
+jEIYjEIYjEIYhDkYhDkYhDkYhDkYhDkYhDkYjHtzjIyEhEpCjEIYjEIYjEIYjEIY
+jEIYjEIYjEIYjEIYjEIYjIxzjJyMhGtSjEIYlFoQ3rWt//f3xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//rff/AM7vAM73EM7vOYyUMZStOYSMAMbnALXvALXv
+EL3nAK3vEK3vEK3vGKXvIaXnIaXnGK3vAL3vKZznIZznKaXnGK3eKZTnKZTnKZzn
+KZznKZznIZznKZznIaXnGK3eKaXnKaXnKZznKZznIZznKZznKZznALXnQsbehIR7
+hEIphHNjjHNrjGtjjHtzhEoxhEoxjEohhEIphEIpjDkYjEIYhDkYhDkYhDkYhHNj
+hFpShDkYjEIpjEIphDkYhDkYjEIYhDkYhDkYhHNjhISEjFJKhDkYhDkYjEIYjDkY
+jEIYjEIYjDkYjDkYjEIYjEIYhGtSjJychGtSjDkYjDkYzqWl//f3xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//rff/AM7vMd73a73WMYScMXN7IaW9AL3vAL3vAL3vALXv
+ALXvAK3vCK3vEL3vEK3nKb3vIaXnIaXnKZznKZznKZznIaXnALXnKZznKZTnKZTn
+KZTnKZTnKZTnKaXnGK3eIaXnGK3eKZznKZznKZznKZznKZznKZznKZznGK3eQsbe
+hHNjhEoxhEoxhDkYhEIpjGNajFJKhDkYhHNjhFpShDkYhDkYhDkYhDkYhDkYhDkY
+hDkYhDkYhHNjhEpChEIpjEIYjEohhEoxhEoxhEoxjEIYhDkYhDkYhDkYhDkYhDkY
+hDkYhDkYhDkYhDkYhDkYhDkYhDkYjGNKhDkYjHNrhDkYhDkYzqWl//f3xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//rff/AMbnEM7ve9bnQsbeMWuMKb3ve9bnMd73AL3vAL3vAL3v
+ALXvALXvAK3vAK3vALXvGKXnEK3nGK3vKaXnKaXnKZznKZznKZznKaXnKZTnKZTn
+KZTnKZznKZTnKZTnKZTnKZznEK3nEL3nKaXnKZTnKZznKaXnKZznKZznKaXnOaXn
+hIR7hHNjhHNjhEoxhHNjjGtjhEIphEIphDkYhDkYhDkYhDkYhDkYhDkYhDkYjEoh
+hEIphDkYhDkYhDkYhFpShEpChDkYhGtShIR7hIR7hEpChDkYhDkYhDkYhDkYhDkY
+hDkYhDkYhDkYhDkYhDkYhDkYhDkYhDkYhEoxjJyMjIx7hEoxhDkYzqWl//f3xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//rff/AM73AM73AM7vEGt7CIycAMbvAMbvEM7vAL3vAK3GAIy1IaW9
+AIy1AIy1AIy1AIy1AIy1AIy1AIy1IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9
+IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9IXu9MZStMZStIXu9
+MZSta1JaazEYa0o5YzkxazEYe0pKe0pKazExazEYazEYazEYazEYazEYazEYazEY
+azEYazEYazEYazExazEYazEYazEYa0o5YzkxazEYazEYazEYazEYazEYazEYazEY
+azEYazEYazEYazEYazEYazEYhDkYhDkYhDkYhEoxjIRzjIx7hGtShDkYzqWl//f3
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//rff/ANb3AM73AL3eMXN7OYSUAK3GANbvAMbvAMbvAMbve9bee9bne9bn
+e9bne9bne9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9be
+e9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9bee9be
+e9behM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WY5ylSmtrY4yUa62tITk5
+WoSEhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7WhM7W
+hM7WhM7WhM7WhM7WhM7WhL29hDEhhDEhhDEhhDEhhEoxjHNrjJycjIx7hDEhzqWl
+//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//rff/ANb3ANbvAM7vEHuUEHuUAMbnSsbvAM7vMd73Md73AMbvAMbvAMbvAL3v
+ALXvALXvALXvALXvALXvAMbvEL3nGKXnIaXnKaXnIaXnGK3eKZznKaXnIaXnKZTn
+KYznKZznIXu9IVJrIVJrIVJrIVJrKYznKUpSKUpSKZznMYzOIVJrIUpSKZznMWuE
+KUpSMWNzhFpSezEha1JaISkxQiEpjHNrY0pSMSkxOTk5YykhMUpSISkxMSkxMUpS
+OTk5ezEhezEhezEhhEIphEIpezEphEIphFpShGtShEoxezEhezEpezEphDEhhDEh
+hDEhhDEhhDEhhDEhhDEhhDEhhDEhhDEhhDEhhDEhhDEhhEoxjIyEjIyEezEphDEh
+zqWl//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+7///ANb3AN7vAL3eCIycEHuUAMbnANbvANb3ANb3Md73AMbvAMbvAL3vAL3vAL3v
+AL3vALXvAL3vALXvALXvCK3vEK3vEK3nEK3nGK3vCK3vIaXnKZznKZznKZTnKZTn
+KYznKYznIXu9KUJKY5ylQlpzISkxKUJKSnuEY5ylGEJKIUpSSoyUY5ylKUpSMWNz
+a62tIUpShHN7ezkxYzkxQlJaISkxOTk5Y4yUITk5Y5ylISkxITk5KUJKOTk5ISkx
+MSkxezEhezEhezEhhEIphEoxhEoxjGtjhEpCjGtjhEpCezEhezEhezEhezEhezEh
+ezEhezEhezEhezEhhDEhhDEhezEhezEhezEhezEhezEhezEhhEI5jJyMjIR7hEI5
+ezEhzqWl//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//7///
+hOfnANb3ANbvCIycEHuUAL3eANb3ANbvANbvAM7vAM7vAM7vAMbvAMbvEM7vAMbv
+AL3vAMbvAM7vAMbvAMbvALXvALXvEK3vGKXnIaXnAK3vAL3vKZznKZznKZznKZzn
+KZTnKYznKZTnMYzOMUpSMVpzEGt7SnuEKUpSKUJKMUpSMVpzIUpSKUJKQmNzIXu9
+MVJjQmNzUlpza1JaSmtrSmtrMSkxMSkxY4yUWkJCOTk5OTk5MSkxQlJaISkxQlJa
+WkJCezEpezEpezEphHNjhFJShFpShEI5ezkxjHNrhEpCezEhezEhezEhezEhezEh
+ezEhezEhezEhezEhezEpezEpezEhezEhezEhezEhezEhezEhezEpezkxjJycjIyE
+ezEpjEoQ3rWtxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//rff/
+ANb3ANbvEHuUCIycIaW9EM7vANb3AM7vANbvSsbvQsbeAM7vANbvSsbvSsbvAL3v
+EM7vEM7vAL3vALXvALXvAL3vAMbvEK3vGKXvGKXnIaXnIaXnIaXnIaXnKaXnEL3n
+KaXnKYznMZStMWuEGEJKa73WGEJKSnuEMVJjKUJKKUpSQlpzKUJKKUpSQnuEIXu9
+MVpza62tMVpzY1JzYykhQlJaMUpSISkxWoSESmtrWq21OTk5MSkxQlpzMUpSQlJa
+YzkxhEI5ezEhezEphHNje0pKezEpezEpjGtjhEJCeykhezEhezEhezEhezEhezEh
+ezEhezEheykhezEhezEhezEhezEhezEhezEhezEheykhezEhezEhezEhhEpCjIR7
+jIR7ezEppXNz9+/vxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//rff/AN73
+AN7vAK3GEGt7AIy1ANb3ANbvAN7vANbvANbvEM7vMd73AM7vAM7vAMbvAM7vAMbv
+Ssbve9bnAL3vEL3vKb3vAL3vAMbvEL3nEK3vGKXnGK3vALXvKZznKZznKZznKZTn
+KZTnKYznMWuESnuEMVpzMVJjKUJKMUpSMVJjWq21KUJKKUJKUoScMVJjKUJKGEJK
+KUJKSmt7MVJjWmt7azk5QiEpUkJKUjlCQiEpOTk5UjlCeykpYykhQiEpQiEpQiEp
+ayEhe0pKe0pKe0pKhEI5eykpezEphFpShEI5ezEpeykpeykpeykpeykpeykpeykp
+eykpeykpeykpeykpeykpeykpeykpeykpeykpeykpeykpeykpeykpeykpeykpjGNa
+jGtjezkxeykpzqWl//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//rff/ANbnAN73
+AL3eCIycAIy1ANbvANbvANbvANbvEM7vANb3Md73AM7vAM7vANbvAMbvEM7vEM7v
+AMbvMd73Kb3vSsbvSsbvALXvALXvEL3vKb3vEK3nIaXnIaXnKaXnKZznKZznKZzn
+KZznKYznKYznMWuEMVJjKUpSKZznIa3vMVJjKUpSMYzOMZTnKUpSMVJjMYzOKUJK
+KUpSKUpSKUpSEHuUWoSEa0o5ezEpezkxezkxeykpezkxeykxeykpeykpezEphEI5
+hEI5hEI5hFpShFpShEI5hEI5hEpChEoxhEoxezEpeykpeykpeykpeykpezEphEI5
+hEI5hEI5ezEpeykpeykpeykpeykpeykpezkxhEI5hEI5hEI5hEI5hEI5hEI5ezEp
+jGtjjJychFJSeykpzqWl//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//7///AN7vAN7vAMbn
+EHuUCIycANbnANbvEM7vANb3EM7vANb3ANb3ANb3ANbvAM7vAM7vAMbvAM7vEM7v
+AMbvANbvMd73AL3vAL3vAL3vAL3vKb3vSsbvALXnGKXvIa3vKb3vKZznKZznGKXn
+EK3vKZTnKYznKYznGHvWGHvWKYTnKYznMYzOKYzeKYTnKYzeIXu9GHvWKZznIZzn
+KYzeKYzeMYzOKYzeY1JzezkxezEphFpShFpSezEpjFJKhEpCezEphEI5hFpSjHtz
+jIx7jIyEjJycjJyMjIyEjJyMjGNahEI5hFpShEI5eykpeykpeykpeykpjFJKjIRz
+jIx7jIx7jFJKezEpeykpeykpeykpeykpjHNrjIx7jIx7jIx7jIx7jIx7jIx7hEpC
+hEI5jHNrjJychEI5eykp1t7nxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//rff/AN7vAN7vCIyc
+AK3GAK3GAN7vAN7vANb3ANbvANbvANb3ANb3ANb3ANbvEM7vAM7vAM7vAM7vAMbv
+AMbvAM7vEM7vAL3vAL3vAMbvAMbnEL3vEL3nALXvEK3vSsbvSsbvKaXnKaXnKaXn
+KZznKZznKZTnKYznKYTnKYTnKYTnKYTnKZTnGKXnKYznKYzeKZTnKYznKYzeIZzn
+KYznKZTnKZTnKZTnSnOMWmNrhEoxezEhezEphDEhhEIphEI5ezkxhHNjhFJSjGNa
+jIyEa62tjJyMjIx7jIx7jIx7jIx7jIyEjJyMhEpCeykpeykpeykpeykphEpCjHtz
+jIx7jIx7jIx7hEpCezEpeykpeykpeykpjHNrjIx7jIx7jIx7jIx7jIx7jIx7jIx7
+jIx7jFJKjIyEjIyEezEpzqWl//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//rff/AOfvAN7vAK3GEGt7
+ANbnAN7vAN7vAN73ANb3ANbvANbvANb3ANb3ANb3AM7vAM7vAM7vAM7vAM7vEM7v
+AMbvAMbvAL3vAL3vAL3vAL3vAL3vALXvEL3vEM7vALXvGK3vKb3vKaXnOaXnSsbv
+KaXnEL3nKaXnKYznKYznKYTnKYTnKYTnKYTnKZznIZznKYzeKYzeKYTnKYznMZTn
+MZTnKYznKYznKZTnKYzeY1JzezEpezEphEI5hEpChEI5jGtjhFpSeykpezEpjGNa
+jJycjJyMjIx7jIx7jIyEjIyEjIyEjIyEjIyEhFpSezEpeykpeykpeykphEoxjHtz
+jIx7jIx7jIx7jIR7hEI5eykpeykpeykpjGNajIRzjIx7jIx7jIx7jIx7jIx7jIx7
+jIx7jIx7jHNrhHN7hFpSeykpxpyl//f3xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//7///AN7vAN7vANbeCIycCIyc
+AN7vAN7vAN7vAN73AN73ANb3ANb3ANb3AN73EM7vAM73AM7vAM7vAM7vAM7vAM7v
+EM7vAMbvAMbvAMbvAMbvAL3vALXvAL3nEM7vKb3vCK3vEK3nKb3vKb3vKaXnKaXn
+KZTnKZTnKZTnKYznKYznKYznKYTnKYTnIXvnKYTnKYznKYzeKYzeKYTnKYTnKYzn
+KYznKZTnKYznKYznKZTnSnOMe0pKhEoxhEI5jGtjhHNjjHNrhEpCeykphEoxhGtS
+jIR7jIx7jIx7jIyEjJycjJycjJycjIyEjIx7jIx7jFJKezEpeykpeykphEIpjHNr
+jIx7jIx7jIx7jIx7jFJKezEpeykpeykpeykpjHNrjIx7jIx7jIx7jIx7jIx7jIx7
+jIx7jIx7jIx7jIyEjIR7ezkxeykp9+/vxv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//rff/AN7vAN7vAIy1AIy1AL3e
+AN7vAN7vAN7vAN7vANbvANb3ANb3ANb3ANb3EM7vANb3ANbvAM7vAM7vANbvAMbv
+AMbvAMbvAMbvAM7vAM7vAMbnAL3vAL3vAL3vAK3vCK3vEK3nIa3vKb3vKb3vKb3v
+KZznKZTnKZTnKYznKZTnKZznKYznKYTnIXvnKYznMZTnKYzeKYzeKYTnKYTnKYTn
+MZTnMZTnKYznKYznKYznWmt7e0pKezkxezkxezkxhEI5ezkxezEpezkxhFpSe0pK
+jGtjjIyEjIx7jIx7jHtzjHNrjIR7jIyEjIx7jIx7jIx7hEJCeykpeykphEIpjHNr
+jIx7jIx7jIx7jIx7jIx7hEI5eykpeykpeykpjHNrjIx7jIx7jIx7jHNrjHNrjHNr
+jIR7jIx7jIx7jIx7jJyMjJyceykxxpyl//f3xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//7///AOfvAOfvANbnEHuUAK3GAN7v
+AN7vAN7vAN7vAN7vANbvANbvANb3ANb3ANb3ANbvAN73ANbvANbvAM7vANbvAM7v
+AM7vANbvAMb3AL3vAMbvAMbvAM7vEM7vALXvALXvEK3vCK3vGK3vEK3vAL3vGK3v
+KZznKZznKZznKZTnKYznKYTnKYznKYznIXvnIXvnKYznKYzeKZTnKYznKYTnKYTn
+KYTnMZTnKZTnKYznMZTnGK3eWq21hFpSa1JahFJSjGNahFJSezkxjGNahISEhFpS
+jGNajJyclJx7jIyEjGNahEJCjGtjjIyEjIx7jIx7jIxzjFJKeykxeykpezEpjHNr
+jIx7jIx7jIxzjIx7jIx7jFJKeykxeykpeykpjGtjjIx7jIx7jIx7ezkxeykpeykp
+jGNajIR7jIxzjIx7jJycjIyEeykxeykp9+/vxv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//rff/AN7nANbvAK3GCIycAN7vAN7v
+AN7vAN7vANbnAN7vAN7vAN7nAN73ANb3ANbvEM7vANbvANbvAM7vAM7vANbvAM7v
+AM7vAM7vAM7vAMbvAM7vAMbvAMbvAMbnAL3vAMbvEL3nCK3vGK3vEL3nEM7vALXv
+KZznKZTnKZTnKZTnKZTnKYznMZTnKZznKYTnIXvnMZTnMZTnKZznIZznKYTnKYTn
+KYTnOaXnOaXnKYznOaXnOaXnWmt7a0o5ezkxeykpeykpeykphFpSjGtjjGtjhEpC
+jGtjjIx7jIx7jJyMhISEhHNjhFJShEpCjHNrjIx7jIx7jIx7hEJCeykpezEpjHNr
+jIx7jIx7jHNrjIRzjIx7jIx7hEI5eykpeykphEI5jHtzjIx7jIx7hEpCeykpeykp
+eykpjHNrjIR7jIx7jIx7hEI5hHN7eykpxpyc//f3xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//7///AN7vANbeAK3GCIycAIy1AN7vAN7v
+AN7vAN7vAN7vAN7nAN7vAN7vAN7vANb3AN73Md73ANbvANbvANbvAM7vANbvAM7v
+AM7vAM7vAMbvAMbvANbnAM7vAL3vAL3vEL3nALXvALXvCK3vKb3vSsbvSsbvGKXn
+KaXnKZznKZTnKZznKZznKYznKYTnKYTnKYTnIXvnIXvnIXvnIXvnKYTnKYTnKYzn
+KYznKYTnKYznKYznKYznKYznY1JzeykphDlChEJCeykxeykpezkxhGNzhHNjhEpC
+hFpShIR7jIyEjIyEjGNaezkxjFJKhEJChFpSjIRzjIx7jIx7hFpSeykxeykpjHNr
+jIx7jIx7hEI5jHNrjIx7jIx7jFJKeykxeykpeykpjHNrjIx7jIx7jIRzezkxeykp
+eykphEpCjIRzjIx7jIyEjJycjIyEeykxeykpxpyl//f3xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//e9bnAN7vAN7vCIycEHuUANbeAN7vAN7v
+AN7vANbnAN7vAN7vAN7vAN7vAN7vAN73ANb3AN73EM7vANbvANbvANbvANbnANbv
+AM7vAM7vAMbvAMbvAMbvAM7vAL3vAL3vAL3vAL3vAMbvEL3vSsbvSsbvEK3vAL3n
+GKXnKZznKZTnKZTnKYznKYznKYTnKYTnKYTnIXvnIXvnIXvnIXvnKYTnKYTnMZTn
+MZTnKYTnKZTnKZznKYznKYznY1JzeykphFpSY3NrhEI5ezkxY3Nre0pKezEphEox
+hEpCjIR7jJycjJyMjJychFJSeykpeykpeykpjGtjjIx7jIx7jIx7hEJCeykpjHNr
+jIx7jIx7jFJKjGNajIRzjIx7jIx7hEpCeykpeykpjHNrjIx7jIx7jIx7ezkxeykp
+eykpeykpjHtzjIx7jIx7jIyEhL29hHN7eykpezEp9+/vxv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//7///ANbeAN7vANbeCIycAK3GAN7vAN7vAN7v
+AN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN73SsbvMd73ANbvANbvAM7vAM7v
+AM7vANbnAMbvAMbvAM7vAM7vAL3nAL3vAMbvAL3nAL3vMd73SsbvEL3nIaXnIaXn
+KaXnKZznKZznKZTnKZTnKYznKYznKYzeKYTnKYTnKYznKYTnIXvnIXvnKYzeKYze
+KYTnKYTnIZznGK3eMZTnKYznY1JzhEI5eykxezEpezEpY3NrWq21hFpSeykphEpC
+jGtjjJycjJyMjIx7jIyEhFJSeykpeykpeykpjGtjjIx7jIx7jIx7hEJCeykpjHNr
+jIx7jIx7jHNrezkxjHNrjIx7jIx7jHNrezkxeykpjGNajIR7jIx7jIx7hEpCeykp
+eykpeykpjGNajIR7jIx7jJyMjHNrhISEhFJSeykp3rWtxv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//rff/AN7nAN7nCIycCIycAIy1AN7vAN7vAN7v
+AN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vMd73AN7vANbnANbvAM7v
+AM7vAM7vAM7vAM7vAM7vAMbvAMbvAL3vAL3vAL3vKb3vSsbvKb3vKb3vGKXnEK3n
+IaXnKZznKZznKZTnKZTnKYznKZTnKYzeKYTnKYznIZznKYzeIXvnKYTnKYzeKYze
+KYTnKYzeMZTnKYznKYznKYznUoScY3Nre0pKeykxhEJCY4yUY4yUe0pKhDlCe0pK
+e0pKhGNzjIyEjIyEjIx7jFJKeykxeykpeykpjGtjjIR7jIx7jIx7hEJCeykpjHNr
+jIx7jIx7jIRzhEI5hFpSjIRzjIx7jIx7jFJKeykxeykpjHNrjIx7jIx7jHtzezkx
+eykpeykpeykpjHtzjIx7jIx7hL29hFpShHN7eykxjFJK9+/vxv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//AOfvANbeAN7vAK3GCIycANbeAN7vAN7vAN7v
+AN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vANbvAN7vMd73ANbvAM7v
+ANbnAM7vAM7vAM7vAMbvAMbvANbvAMbvEM7vAM7vEM7vKb3vCK3vEK3vEK3nEK3n
+IaXnKaXnKZznKZTnKZTnKZznKZTnKYTnKYTnKYTnIXvnIXvnIXvnKYTnKYznKYTn
+KYTnMZTnOaXnKYznKYTnKYznGK3ehGNzhEI5hFJSY3NrY4yUhFpShEJChISEhISE
+hGNzhEJCjGNajIx7jIx7jHNrhEI5eykpeykpjGNajIRzjIx7jIx7hFJSeykxjHNr
+jIx7jIx7jIx7hEI5eykpjHNrjIx7jIx7jIR7ezkxeykpjHNrjIx7jIx7jIx7ezkx
+eykpeykpeykpjHtzjIx7jIx7jIx7hISEeykphHN7eykp9+/vxv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//pd7vAN7vANbeAN7vANbeAN7vAN7vAN7vAN7vAN7v
+AN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vANbvMd73ANbvANbv
+Md73AM7vAM7vAM7vAM7vEM7vAM7vKb3vMd73AMbvAL3vAMbnEL3nEK3vCK3vALXv
+GK3vGKXnKZznKZTnKZTnKZznKaXnKYTnKYTnIXvnIXvnIXvnIXvnIXvnIXvnKYzn
+KZTnKYTnKZTnMZTnKYznKYznGK3eY3NrhFJSY4yUY4yUhFpShFpShHNjhIR7hFJS
+eykpeykpjGNajIx7jIx7jIx7hEpCeykpeykpjGNajIR7jIx7jIx7jHtzhEI5jHNr
+jIx7jIx7jIx7hEI5eykphFpSjIRzjIx7jIx7hFJSeykxjGNajIRzjIx7jIx7ezkx
+eykpeykphEI5jIRzjIx7jIx7jIx7hHN7eykpeykpeykpxpyc//f/xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//ANbeAOfvAN7vAN7vAOf3AN7vAN7vAN7vAN7vAN7n
+AN7vAN7vAOf3AN7vAN7nAN7vAN7vAN7vAN7vAN7vAOfvAN7vANbvANbvANbvMd73
+SsbvANbvANbvAM7vEM7vMd73Md73Md73EM7vAL3vAMb3AMbvKb3vALXnGKXnGKXn
+IaXnIaXnKaXnKZTnKZTnKZznKZznKYTnKYTnKYTnIXPnKYTnKYTnIXvnIXvnIXvn
+IXvnKYTnKYznKYznMZTnKYzeGK3eWq21Y5ylWq21a62tWoSEY3Nre0pKeyEpeyEp
+eyEpeyEpe0pKjHtzjIR7jIR7hEpCeykphEI5jHNrjIx7jIR7jIR7jIR7hEJCjGtj
+jIR7jIR7jIx7hEI5eyEpeyEpjHNrjIR7jIR7jIR7hEI5eyEpjHNrjIR7jIR7jFJK
+eykxhEJChHNjjIR7jIR7jIR7jIR7eykxeyEpeyEpeykpeyEp9+/vxv//xv//xv//
+xv//AAAAxv//xv//xv//7///AN7vAOfvAOfvAOfvAOfvAN7vAN7vAN7vAN7vAN7v
+AN7nAN7vAN7vAN7vANbnAN7vAN7vAN7vAN7vAN7vAN7vAN7vANbvANbvANbvANbv
+ANbvANbnANbvEM7vAM7vAMbvEM7vAL3vAMbvAL3vAL3vALXvALXvAL3vEK3nIaXn
+KaXnKZznKZznKZznKZTnKZTnKYznKYznKYznKYTnKYTnKYznMZTnKYzeKYTnIXvn
+IXvnKYTnKYTnKYTnMZTnMZTnGK3eY5ylWoSEWoSEhIR7hFJSeyEpeyEpeyEpeyEp
+eyEpeyEpeyEpjGtjjIR7jIR7hFpShEpCjHNrjIR7jIR7jIR7jIR7jIR7hEJCjGtj
+jIR7jIR7jIR7hEI5eyEpeyEphFpSjIRzjIR7jIR7hFJSeykxjHNrjIR7jIR7jIR7
+jFJKjIRzjIR7jIR7jIR7jIR7jIR7eykxeyEpeyEpeyEpeyEpxpycxv//xv//xv//
+xv//AAAAxv//xv//xv//rff/AOfvAOfvAOfvAOfvAOfvAOfvAN7vAN7vAN7vAN7v
+AN7vAN7nAN7nAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vANbvANbvANbvANbn
+ANbvANbnANbvMd73EM7vAMbvAMbvAL3vAL3vAL3vAL3vAL3vALXvALXvAK3vGKXn
+KaXnKZznKZznKZznKZTnKZTnKYznKZTnKZznKYznIXvnIXvnKZTnKaXnKYzeIXvn
+IXvnKYzeKYzeKYTnKYTnKZTnOaXnY3NrWoSEhGNzcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpjGtjjIR7jIR7jIR7jIR7jIR7jIR7jIR7jIR7jIR7jHNrezkxjGtj
+jIR7jIR7jIR7hDlCcyEpcyEpcyEpjGNajIRzjIR7jIR7hEI5jGNajIRzjIR7jIR7
+jIR7jIR7jIR7jIR7jIR7jIR7jIR7eykxcyEpcyEpcyEpcyEpezEp//f3xv//xv//
+xv//AAAAxv//xv//xv//AOfvAOfvAOfvAOfvAN7vAOfvAOfvAN7vAN7vAN7vAN7n
+AN7vAN7vAN7nAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vAN7vANbvANbvANbvANbn
+ANbvAM7vAM7vAM7vAMbvAMbvAMbvAMbvAMbvAL3nAL3vAL3nALXvAL3vALXvCK3v
+IaXnIaXnKZznKZTnKZznKZznKYznKYTnKZTnKZTnIXvnIXvnIXPnKYzeMZTnIXvn
+IXvnKYzeKYzeKYTnKYznEK3nY4yUe0pKhFpShFJScyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEphFpSjIRzjIR7jIR7jIR7jIR7jIR7jIR7jIR7jIR7hEJCcyEpjGtj
+jIR7jIR7jIR7hDlCcyEpcyEpcyEpezEpjHNrjIR7jIR7jGNahEI5jHtzjIR7jIR7
+jIR7jIR7jIR7jIR7jIR7jIR7jGtjeykxcyEpcyEpcyEpcyEpcyEp//f3xv//xv//
+xv//AAAAxv//xv//rff/AOfvAOfvAOfvAOfvAN7nAOfvAOfvAN7vAN7vAN7vAN7n
+AN7nAN7vAN7vAN7vAN7vAN7nAOfvAN7vAN7vAN7vAN7vAN7vANbvAN7vANbvANbv
+AM7vAM7vEM7vAM7vAMbvAMbvAMbvAMbvAMbnAMbnAMbnEL3nAK3vALXnAK3vEK3n
+EK3nIaXnKZznKZznKZznKZTnKYznKYznKYTnKYTnKYznKYTnOaXne73ehM7Wpd7v
+pd7vpd7vpd7vpd7vhM7We9bnhHN7eykpeykpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEphEI5jHNrjIR7jIR7jIR7jIR7jIR7jIR7jIR7jGtjezkxcyEpjGtj
+jIR7jIR7jIR7hDlCcyEpcyEpcyEpcyEpjGNajIRzjIR7jIR7hEpCjHtzjIR7jIR7
+jIR7jIR7jIR7jIR7jIR7jGtjeykxcyEpcyEpcyEpcyEpcyEpcyEpxpycxv//xv//
+xv//AAAAxv//xv//AOfvAOfvAOfvAOfvAOfvAOfvAN7vAOfvAN7vAN7vAN7vAN7v
+ANbeAOfvAN7vAN7vAN7vAN7nAN7vAN7vAN7vAN7vAN7vANbvANbnAN7vAM7vANbn
+AM7vAM7vAM7vANbnAM7vAMbvAMbvAL3vAL3vAL3nAL3vALXnAL3nALXnEK3nEK3n
+ALXnAK3vIaXnKZznKZznKZTnKYznKYznKYznMYTne73epd7ve73ea73WMYTnMYTn
+IXvnKYzeEL3nEM7vQsbea73WxrW1xrW1pXNzjFJKcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEphFJSjGNajGNajGNajGNajGNajGNajGNaezkxcyEpcyEphFJS
+jGNajGNajGNaezkxcyEpcyEpcyEpcyEpezEphFpSjGNajGNahFpSjGNajGNajGNa
+jGNajGNajGNajGNajGNaeykxcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp//f3xv//
+xv//AAAAxv//xv//AOfvAOfvAOfvAOfvAOfvAOfvAN7vAOfvAN7vAN7nAN7vAN7v
+AOfvAN7vAN7vAN7vAN7vAN7vAN7vANbnAN7vAN7nAN7vAN7vAN7vAN7vANbvANbn
+ANbvAM7vAM7vAM7vANbvAM7vAM7vAM7vAMbvAL3vAMbvAL3nAL3nCK3vEK3nGKXn
+IaXnGKXnGKXnKZznKZTnKZTnKZTnOaXnpd7vpd7vOaXnKYznIXvnKYTnIXvnIXvn
+KYzeKYzeKZznKZznKYznKYzeUoSchFJSnFprrYyMxpyceykxcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp//f3xv//
+xv//AAAAxv//xv//AOfvAOfvAOfvAOfvAOfvAOfvAOfvAN7nAOfvAOfvAN7nAN7v
+AN7vAOfvAN7vAN7vAN7nAN7vAN7vANbvAN7vANbeAN7vAN7vAN7vAN7vAN7vANbv
+AM7vAM7vANbnAM7vAM7vEM7vAM7vAM7vAMbnAL3nAL3vAL3vALXvALXnEK3nEK3n
+GKXnIaXnIaXnKZznKZTnKZTne73epd7vMZTnKYTnKZTnKZTnIXPnIXPnKYTnKYTn
+KYzeIZznKZTnKYznKZTnQoythFJSeykpcyEpcyEphEJCxrW1jFJKcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp//f3xv//
+xv//AAAA///3rff/AOfvAOfvAOfvAOfvAOfvAOfvAOf3ANbeAOfvAOfvAN7vAOfv
+AN7nAOfvAOf3AN7vAN7nAN7vAM7vAN7vAN7vANbvAOfvAN7vAN7vAN7vANbvANbv
+ANbvANbvANbvAM7vAM7vAMbnAM7vAMbvAL3vAL3nAMbnAL3nALXvALXvCK3vCK3v
+EK3nKZznIZznKZznKZznpd7va73WKYznKYTnKYTnIXPnIXvnIXPnIXPnKYznKZzn
+KYznKZTnIaXnKZTnIaXnY1JzcyEpcyEpcyEpcyEpeyEpcyEprYyMpXNzcyEpcyEp
+cyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpeyEpcyEpcyEpcyEprYyMxv//
+xv//AAAAxv//AOfvAOfvAOfvAOfvAOfvAOfvANbeAOfvAOfvAN7vAOfvAN7vAN7v
+ANbeAOfvAOfvAOfvAOfvAN7vAM7vAN7vANbnAN7vAN7vAN7vANbvANbvANbnANbv
+ANbvANbnAM7vAM7vAMbvAMbvAMbvAMbvAL3vAL3nEL3nAL3nAL3vAMbnALXnGKXn
+GKXnIaXnKZznKZznpd7vKaXnKZTnKYznKYTnKYTnIXvnIXvnIXvnIXPnIXvnKZTn
+KZTnIXvnKYTnKYznKZTnY1JzcyEpcyEpcyEpcyEpcyEpcyEpcyEpnFprrYyMcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp//f3
+xv//AAAAxv//SoyUAOfvAOfvAOfvAOfvAOfvANbeAOfvAOfvAOfvAOfvAN7vAOfv
+AOfvAOfvAOfvAOfvAOfvAN7vAN7vAN7vAMbnAN7vAN7nANbvAM7vAM7vANbvANbv
+ANbnAMbnAMbvAMbvAMbvAMbvAMbvAM7vAMbvAL3nAL3vALXvALXvAL3nEK3nGKXn
+GKXnEK3nIaXne73eOaXnKZznKZznKZTnKYznKYTnKYTnKYTnIXvnIXPnIXvnKYTn
+KYznKYznKYTnKYTnUoSca0JScyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpjFJKxpyc
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp//f3
+xv//AAAAxv//a0o5AOfvAOfvAOfvAOfvAOfvAOfvAOfvAOfvAOfvAOfvAN7vAOfv
+AOfvAOfvAOfvAN7vAN7vAN7vANbvAN7vANbvAN7vANbeAN7vAM7vAMbvAM7vAM7v
+AM7vAM7vAMbnAMbnAMbnAMbvAMbvAMbvAM7vAMbvALXvAL3nALXvCK3vEK3nGKXn
+EK3nALXnSsbva73WKZznKZznKZznKZTnKZznKZTnKZTnKYznIXPnIXPnKYzeKYze
+KZznKZTnKYTnKZTnY1JzcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpeykx
+xqWtcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp//f3
+xv//AAAAxv//cyExAN7vAOfvAOfvAOfvAOfvAOfvAOfvANbeAOfvAOfvAN7vAN7v
+AN7vAOfvAN7vAN7vAN7nAN7vAMbnAN7vAM7vAN7vAN7vAN7vAN7vAN7vAN7vANbv
+ANbvAM7vAM7vAM7vAMbvAMbvAMbvAL3nAL3nAMbvAL3nALXnAL3vCK3vEK3nGKXn
+EK3nQsbee73eKZznKZznALXnEK3nKYznIaXnEK3nKZznKZTnIXPnIXPnKYTnKYze
+OaXnOaXnMYTnMYzOa1JacyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+nFprpXNzcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp3rWt
+xv//AAAArYyMcyExWoSEAOfvAOfvAOfvAOfvAOfvAN7vANbeAN7vAOfvAN7vAN7v
+AN7vAN7nAN7vAM7vAN7vAN7vANbeANbvAMbnAMbnAM7vANbvAN7vANbvANbvANbv
+ANbvAM7vAM7vAMbvAMbvAL3nAMbnAL3nAL3nAL3vAL3nAL3vAL3vCK3vEK3nGKXn
+IaXnpd7vKZznKZznGK3eEK3nGKXnKZznKZznGKXnKYznKYTnOaXne73ee73ee73e
+pd7vpd7ve73ea62thHN7hEJCcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpxpylhDlCcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpjFJK
+xv//AAAAcyEpcyEpcyExAN7nAOfvAOfvAOfvAOfvAOfvANbeCIycANbeAK3GAIy1
+EHuUEHuUAK3GAL3eAM7vAN7vCIycAIy1EHuUEFJjEHuUEGt7EHuUEGt7ANbvAMbn
+AIy1AIy1AIy1CIycCIycAL3nAL3vAL3nAMbnAL3vALXvAL3nAMbnALXnALXnGKXn
+hM7WOaXnKZznIaXnKaXnKZTnIaXnCK3vKZTnIaXnSsbve73epd7vxv//xv//xv//
+xv//xv//xv//xv//xv//xpylpXNzhEJCcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEphDlCxpyccyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+xv//AAAAcyEpcyEpcyExWoSEAOfvAOfvAOfvAOfvAOfvAK3GEGt7AL3eAK3GEHuU
+EGt7EGt7CIycEHuUAMbnAN7vEFJjEGt7AIy1AIy1AIy1AIy1AIy1EHuUAM7vAM7v
+AK3GEHuUCIycCIycAK3GAL3nAL3nAL3vAL3vAL3nALXvALXnALXnALXnALXnOaXn
+e73eKaXnIaXnKZznKZTnKZTnKZTnKZznKYznOaXnrff/xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xpylhEJCcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpxqWteykxcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+xv//AAAAeyEpcyEpcyEpcyExEL3nAOfvAOfvAOfvAN7vANbeAK3GANbnAN7vAN7n
+AN7vAN7vAL3nAMbnANbeAMbnAL3eAL3eAK3GAK3GAL3nAMbnAL3eAL3eAMbnAL3e
+AL3eAL3eAL3nAL3eAL3eGK3eGK3eALXnAMbvALXvALXvALXnALXnEK3nGKXne73e
+a73WIZznIZznKZznKZTnKZTnKZznIaXnOaXnpd7vxv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xpylhEJCeyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEphDlCxpyccyEpcyEpcyEpcyEpcyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpeyEpcyEpcyEpcyEpcyEpcyEp
+xv//AAAAcyEpcyEpcyEpcyExY3NrAOfvAOfvAN7vANbeEFJjIUpSIVJaIUpSGEJK
+AL3eAL3nAMbnAK3GIVJaIUpSMVJjMVJjMVJjMVJjMVJjMVJjMVJjMVJjMVJjMVJj
+MVJjMVJjMVJjMVJjIUpSAK3GEK3nALXnAMbnAL3nALXnAL3nCK3vEK3nGKXnpd7v
+KaXnIaXnIaXnKZznKZTnKZTnKaXnSsbvpd7vxv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xpylhEJCcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpxrW1cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+xv//AAAAcyEpcyEpcyEpcyEpcyExY4yUAOfvAOfvAN7vIVJae9beIUpSY5ylKUpS
+AMbnAK3GAK3GMWNzhOfna62tSoyUSoyUSoyUSoyUSoyUSoyUSoyUSoyUSoyUSoyU
+SoyUSoyUSoyUSoyUMVJjAK3GAL3vAL3vAL3nAL3nAL3vAMbvCK3vEK3nKaXnpd7v
+IaXnGKXnIaXnKZznKZTnKZTnKZTne73exv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//pXNzcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEprYyMjFJKcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+xv//AAAAcyEpcyEpcyEpcyEpcyExazk5AN7nAN7vAOfvIVJae9beIUpSY5ylKUpS
+ANbnANbnMUpSrff/IVJaEGt7EFJjEFJjEFJjEFJjEFJjEFJjEFJjIVJaEFJjEFJj
+EFJjEFJjEFJjEFJjEFJjAK3GAMbvAL3vAL3vALXvALXvALXnALXnEK3ne73eSsbv
+GKXnIaXnKZznKZTnKZTnKZTnOaXnpd7vxv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xpylhEJCcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpnFprpXNzcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+xv//AAAAcyEpcyEpcyEpcyEpcyEpcyExY3NrAN7vAN7vIVJae9beIUpSY5ylKUpS
+ANbnIUpShOfnGEJKIVJaY5yla73WhL29hL29hL29hL29hL29hL29hL29hL29hL29
+hL29hL29hL29hL29MVpzAK3GAMbvAMbvAL3nAL3nALXvALXnALXnEK3ne73eOaXn
+IaXnIaXnEK3vIaXnKZTnKZTne73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//nFprcyEpcyEpcyEpcyEp
+cyEpcyEpcyEphDlCxpyccyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+xv//AAAAcyEpcyEpcyEpcyEpcyEpcyEpcyExWoSEAN7vIVJae9beIUpSY5ylKUpS
+EHuUY5ylOWt7EFJjhM7WWq21IUpSIUpSIUpSIUpSIUpSIUpSIUpSIUpSIUpSIUpS
+IUpSIUpSIUpSIUpSIUpSAK3GAMbvAMbvAL3nAL3nALXnAK3vEK3nGK3vpd7vKaXn
+IaXnALXvAMbvALXnKZTnKYzne73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//nFprcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpeykxxqWtcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+pXNzAAAAcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyExhHN7IVJahM7WIUpSY5ylKUpS
+EFJjhM7WKUpSIVJaSoyUEHuUANbvAM7vAK3GCIycAIy1EHuUEHuUAL3nAMbvAL3n
+ALXnALXnAMbvAMbvAMbnAL3nAL3nALXvALXvALXvAK3vCK3vEK3nEK3npd7vKaXn
+EK3vAMbnAL3nKZznKZTnKYzne73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//pXNzeykxcyEpcyEpcyEp
+cyEpcyEpcyEpcyExxrW1cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEpcyEp
+cyEpAAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyExOTk5hM7WIUpSY5ylKUpS
+EGt7a62tITk5MWNzSnuEAK3GAM7vAL3nITk5QlJaIVJaa62tIUpSAL3nAL3nALXn
+ALXnAL3nAMbvAL3nALXnEK3nAL3vALXvALXvALXnALXnCK3vEK3vEK3npd7vKZzn
+EK3nAL3eIaXnKZTnKZTnKZTne73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//zqWlhEpCcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpxrW1cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpAAAAcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpMSkxhM7WIUpSY5ylKUpS
+CIycY5ylIVJrGEJKrff/KUpSCIycIVJaSnuESnuEKUpSe9beIUpSAM7vAMbnAL3e
+AM7vAM7vAMb3AL3nALXnALXnALXnALXnALXvALXnALXvCK3vEK3vALXvpd7vKZzn
+IaXnIaXnKZznKZTnKZTnKYzee73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//zqWlhEJCcxgpcxgpcxgp
+cxgpcxgpcyEpcyExxrW1cxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+cxgpAAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpQiEpOTk5OTk5hM7WITk5Y5ylKUpS
+AK3GMXN7a73WIVJaOWt7hOfnY5ylhOfna73WEGt7MUpSa62tEHuUAM7vAMbnAMbn
+AM7vAMbnAL3eAL3vAMbvAMbvALXnALXnALXnCK3vALXnAK3vCK3vAMbnpd7vKaXn
+IaXnKZTnKZznIaXnKZTnKYzee73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//jIyEY1JzazFKcxgpcxgp
+cxgpcxgpcxgpcyExxqWtcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpAAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpQiEpSnuEa62tY5ylMSkxY5ylKUpS
+ANbnEHuUa73WWq21EHuUIUpSIVJaIUpSIUpSKUpSrff/IVJaAL3eAM7vAM7vAMbv
+AMbvAMbnAL3eAMbvAL3vAMbvAL3nAL3eGK3eAL3eALXnALXnAL3vALXnhM7WKb3v
+KZznKZTnIaXnEK3nKZTnKZTne73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//hISEWkpjY1JzazFKcyEx
+cxgpcxgpcxgphEJCrYyMcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+pXNzAAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpYyExQiEpQiEpMSkxMSkxY5ylMUpS
+Wmt7ANbvEHuUa62tY5ylMVJjIUpSKUpSY5ylhOfnKUJKAMbnAM7vAM7vAM7vAIy1
+AL3eAMbvAMbvAL3vAL3vAL3vAL3nAMbnAL3eAL3eALXnEK3nEK3nIaXne73eSsbv
+EK3vKZTnKZznKZznKYznKYzne73exv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//nFpraykxa0JaazFKa0Ja
+azFKcxgpcxgpjGNapXNzcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+xv//AAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpMSkxY4yUa62te9beOTk5
+UlpzOYycAL3eEHuUMVJjY5ylhL29a62tQnuEGEJKAIy1AMbnAMbvAM7vAL3eEGt7
+AK3GAMbvAMbvAL3vAL3vALXvALXnAMbvAMbvAL3nALXnAL3nEK3nIZznSsbve73e
+GK3vKZznIZznKYznKYznGHvWSoyUxpylxv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xpylhEJCaykxaykxcyEpa0Ja
+WkpjY1JzazFKxpychDlCcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+xv//AAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpMSkxITk5ITk5ITk5ITk5
+WkpjY0JKY1JzWoSEANbnCIycEHuUEHuUAK3GANb3AM7vAM7vAMbvAM7vAL3eAL3n
+AMbvAMbnAMbnAL3nAL3vALXvALXnAL3vAM7vALXnAL3nAL3nAL3nKZznKaXnpd7v
+ALXvEK3nKZznKYznUoScWkpjazFKnFprxv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//pXNzcxgpcxgpcyEpcxgpcxgp
+azFKSmt7a0JaxrW1cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+xv//AAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpaxgpcxgpcxgpcyExWkpj
+aykxcxgpayk5WmNrY1JzWmt7AM7vANb3ANb3ANbvAM7vAM7vAM7vAM7vAL3vAMbv
+AL3vAMbvAMbnAL3vAL3vAL3vALXvAL3vAL3vALXnALXnALXnALXnGKXnIaXnpd7v
+Kb3vKZznUoScY1Jza0JacxgpazE5hFJSxpylxv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xpylhEJCcxgpcxgpcxgpcxgpcxgp
+a0Jaa0JanFprrYyMWkpjazFKcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+xv//AAAAcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyExYzFCcxgx
+aykxcxgpcyExa0JacxgpazFCOYycWmt7AL3eANbvANbvAM7vAM7vAMbvAMbvAMbv
+AL3vAMbvAL3nALXnAL3vAM7vAMbvAL3vAL3vALXnAL3nALXnGKXnIaXnIaXnMYzO
+xrW1Y1Jza0JacyEpcxgpazFKY0pSazE5hEJCxpylxv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xpylhEJCcxgpcxgpcxgpcxgpa0JaazFK
+azFKazFCrYyMhFJSWkpjazFCcyExcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+xv//AAAAcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgxazlCY1Jz
+WkpjYzlCcyEpcyExYzlCayk5Smtrayk5Y1JzY1JzWmNrSoSMAMbvAMbvAM7vAM7v
+AMbvAL3vALXvALXnALXnAMbvAMbvAMbvAL3nALXnALXvEK3nQoytSnOMMYScOXOM
+xrW1e0pKYzExaykxa0JSWmNra0JScyExcyEphEJCxqWtxv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xpylhEJCcxgpcyEpcxgpcxgpcxgpa0JSazFK
+cxgphGNzxqWtaykxaykxcyExcyExa0JaazFKcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+xv//AAAAcxgxcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyExWkpja0Ja
+a0JaWkpScxgpayk5WkpSayk5UlJacxgpcxgpcxgpcyExazFKY1JzY1JzY1JzWoSE
+MZStIaW9GK3eEK3nALXnGK3eIaW9IaW9QoytWmt7WmNrWmNrSmt7SmtrWkJaWkpS
+WmNrxrW1azE5cyExazFKa1JaazExazExazExazExhFJSpXNzxpylxv//xv//xv//
+xv//xv//xv//xv//xv//xpylnFprhEJCcxgpcxgpcxgpcxgpcxgpcxgpYzlCazFC
+cxgpxrW1azFKaykxayExcxgpcxgpazFKWkJaaylCcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+xv//AAAArYyMcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyExY1JzY0pScxgp
+cyExYzlCcxgpcyExazFCcyExazlCcxgpcxgpcxgpcxgpcxgpcyEpcxgpcyExazFC
+a0Jaa0JaY1JzWmNrY1JzY1JzSnOMWkpjUlpjWkpSUlJaYzk5Y0JKY0pSazk5Y0JK
+UlpzjJychISEcyExaykxazk5azk5azk5azk5azk5azk5czE5hFJSpXNznFprjIyE
+jIyEpXNznFprnFprnFprhEJCcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpazFCazE5
+rYyMhFJScxgpcxgpcxgpcxgpcxgpcxgpazFCazE5ayExcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpnFpr
+xv//AAAAxv//cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyExWkpjcyEpcxgp
+cyExWkpScxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpczE5Y1JzcyEpazlCY1Jz
+cxgpcxgpazFCWkpjcxgpaylCWkpjUlpzSmuEWmt7Y0pSY0pSWmNrazk5Y0pSWmNr
+UlpzSmuExrW1a1Jaazk5azk5Y0JKY0pSazk5azk5azk5azk5azExcyExcxgpazFK
+azFKcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpazFKazFCcxgpcxgpcxgpcyEpnFpr
+pXNzY0JKazFCcxgpcyEpcxgpYzlKayk5cxgpayExWkpjazFKcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp1t7n
+xv//AAAAxv//cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpaykxcxgpcxgp
+cyExYzlKcxgxaykxcxgpcxgpcxgpcxgpcxgpcxgpcxgpayk5a0JScxgxczE5a1Ja
+a1JacxgpazFKWmt7cxgpcyExY0JKSnOMWmNra1Jaazk5Y0JKUlpjUlpjUlJaY0pS
+Y0pSUlpjUlpjxrW1hHN7WmNrYzlCY0JKazk5azk5azk5azExa0JSa0JScxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpa0JSa0JaazFCcxgpcxgpcyExhFJSrYyM
+cxgpazFKayk5cxgpcxgpcxgpazFCayk5a0JaazFCUlpzazFKcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp//f3
+xv//AAAAxv//cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpayExWkJKazE5cyEx
+WkpjcxgpcxgpayExcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpazFC
+UlpjcxgpazFCUlJaayExYzlCUlpjY0pSYzk5Yzk5Yzk5Yzk5YzlCUlpjSmt7UlJa
+UlpjSmt7UlpjUlpjhL29jIyEazk5azk5azk5azk5azk5cyExazFCazFCcxgpcxgp
+cxgpaykxaykxcxgpcxgpcxgpcxgpayExazFKazFCcxgpcxgpayExczE5xpyccxgp
+a0JaazFKcxgpcxgpcxgpcxgpa0JaazFCUlpzazFKazFKWkpjaylCcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp//f3
+xv//AAAAxv//cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpayE5SmuEaykxcyEx
+a0JScxgpcxgpcxgpcxgpcxgpcxgpcxgpayExazlCUlpzWkJaayExcxgpcxgpaykx
+azFCazFCWkpjazlCWkJKWkpSWkpSYzk5Yzk5Yzk5Yzk5Yzk5Yzk5azlCa0JSY0JK
+UlpjSmt7WkJKUlJaOXOMjJycjJycY0pSazk5azE5cyExcxgpcxgpcxgpazFCazlC
+cxgpayExayExcxgpcxgpa0Jaa0JSayExayExcxgpcxgpcxgpnFprxqWtcxgpY0JK
+WkpjazFCcxgpcxgpcxgpcxgpazFKaylCYzlKayk5cxgpWkJaazFCcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp//f3
+xv//AAAAxv//rYyMcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyExa0JaYzFCcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpayE5WkJaaykxayk5WkpjSmuEaykxcxgpaykxYzlC
+azFCY1Jza0JSY0JKQlpzYzlCYzlCYzk5Yzk5Yzk5Yzk5Yzk5azE5ayExayExazE5
+YzlCY0JKY0pSSmtrUlpjUlJaY4yUxrW1hFJScyExcxgpazlCazFKcxgpayk5ayk5
+cxgpcxgpcxgpaykxayExazFKazFCcxgpcxgpaykxhDlCxpylpXNzcxgpayExazFC
+ayk5cxgpcxgpcxgpcxgpY0JKazFCcxgpayExayExcxgpWkpjazFCcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgprYyMxv//
+xv//AAAAxv////f3cxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpayE5Ulpzcxgp
+cxgpcxgpcyEpcxgpcxgxayExcyExazlCayExcxgpYzlKSnOMayExayk5WkJaYzlK
+UlpzSmuEWkJaYzlCY0pSYzE5Yzk5Yzk5Yzk5Yzk5azk5azExayExayExaykxYzE5
+Yzk5Yzk5WkJKY0pSYzlCWkJaSnOMSnOMxqWtrYyMpXNzazFCazFCcxgpcxgpayEx
+aykxayExcyEpayExayExcxgpcxgpayExhEJCxqWtxpylczE5a0Jaa0JSaykxaykx
+aykxaykxYykxaykxY0JKWkJaazE5ayExayExayExazE5WkJKayk5cxgpcxgpcxgp
+cxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEpcxgpcxgpcxgp//f3xv//
+xv//AAAAxv////f3cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyExa0Jacxgx
+cxgpayE5Y1Jzcxgpayk5Y1Jzcxgpcxgpayk5WkpjazFCa0JaWkpjazFCOWt7Ulpz
+QmNzWkJKY0pSYzE5YzE5YzE5YzE5YzE5Yzk5YzE5azE5ayExayExaykxYzE5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Y0JKa0JaWmt7SnOMhGNzpXNzxqWtxpycjGNahDlCcyEx
+ayExayExcxgxa0JahGNzjGNarYyMxrW1xpycczE5azlCazlCY0pSY0JKazk5azk5
+YzE5YzE5YzE5YzE5YzlCYzE5aykxaykxaykxWkpjUlpjYzlCaykxayExayExcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp//f3xv//
+xv//AAAAxv////f/jFJKcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpayE5
+UlpzUlpzY0pScxgpcyExa0JSYzE5aykxcyExY0JKWkJaUlpzSmuEcyExYzlKa0Ja
+YzlKYzExYzE5YzE5YzE5YzE5YzE5YzE5YzE5aykxayExayExazE5YzE5Yzk5Yzk5
+Yzk5YzE5YzE5YzE5azE5aykxayExazFCa0JaazFKa0Jaa0JahDlCpXNzrYyMxqWt
+xrW1xrW1xrW1xrW1xpylrYyMhHN7Y0pSYzE5Yzk5YzlCYzlCWkpSY0JKYzk5Yzk5
+WkJaY0JKYzE5YzE5YykxYykxWkpjY0JKYzE5Smt7UlpjYzlCYzE5YzExaykxaykx
+ayExayExayExcxgxcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp//f3xv//
+xv//AAAAxv//xv//3rWtcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcyEx
+a0JaYzlKazFCUlpzYzE5YzE5UkJKQlpzWjlKayExazFCYzlKazFKcxgpaxgxaykx
+YykxYykxYzExYzExYzExYzE5YzE5YzExaykxayExayExaykxYzE5YzE5YzE5Yzk5
+Yzk5Yzk5YzE5YzE5aykxayExcxgpcxgpcxgpcxgpazFCazFKa0JaWmt7a0JacyEx
+aykxazE5azE5azk5azk5azE5Y0JKUlJaUlJaYzlCYzk5azk5Y0JKUlpzY0pSYzk5
+Y0JKUlpzY0JKYykxWjlCYzE5WkJaUlpzY0JKWkJKYzlCYzE5YzE5YzExYzExYykx
+YykxYzExYzExazExazExazExaykxayExcxgxcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpxpycxv//xv//
+xv//AAAAxv//xv////f3cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpayE5azFKayk5ayExazFCYzlKazFCcxgpcxgpcxgpcxgpaxgxayExYykx
+YykxYykxYykxYykxYzExYzExYzExaykxayExayExaykxYzE5YzE5YzE5YzE5YzE5
+YzE5Yzk5YzE5aykxcxgxcxgpcxgpcxgpcxgpcxgpcxgpcxgpazFCa0JaWkJaUlpj
+Wmt7a1JaazlCazk5azk5Yzk5YzE5YzlCUlpzUlpzWkJCazk5Yzk5UlpjUlJaYzlC
+YzE5UlpzWkJaWkpjUlJaQkJSWjlKWkJKYzlCYzE5YzE5YzExYzExYykxYykxYzEx
+YzExYzExYzk5Yzk5Yzk5Yzk5Yzk5Yzk5azExazExaykxayExcyEpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp//f3xv//xv//
+xv//AAAAxv//xv//xv//xpyccxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpaxgxayExYykxYykx
+YykxYykxYykxYykxYykxYykxaykxayExayExaykxYzExYzE5YzE5YzE5YzE5YzE5
+WkJKUlpjUlpzUlpjUlJaYzlCayExcxgpcxgpcxgpcxgpayExaykxazE5YzlCY0pS
+a1JaWkJaUlpzSmuEWkJaYzk5YzlCYzk5Y0JKY0pSazk5WkJKUlpjY0JKazFCWkJa
+UlJaQmNzWkJaYzlKYzlKWjlKYzFCYzE5YzE5YzE5YzExYykxYykxYykxYzExYzEx
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5azE5azE5azE5azExaykx
+cyExcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgphEI5//f3xv//xv//
+xv//AAAAxv//xv//xv////f3cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpayExaykxYykxYykxYykx
+YykxYykxYykxYykxYykxayExayExayExaykxYykxYykxYzExYzE5YzExYzE5Y0JK
+QmNzOXOMOXOMOXOMOWt7Smt7UlpjazlCazFCY0pSY0JKYzk5YzE5YzE5YzE5Yzk5
+azk5YzlCY0pSa1JaY0JKazE5azE5aykxaykxYzE5YzE5azFCYzlKazE5ayExazFC
+YzlKYzlKaylCayExayExayExayExaykxaykxaykxYykxYzExYzExYzExYzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5azk5azk5azk5azk5
+azk5azE5azE5aykxayExcyEpcxgpcxgpcxgpcxgpcxgpcxgpzqWlxv//xv//xv//
+xv//AAAAxv//xv//xv////f3cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpayExaykxYzExYzExYykxYykx
+YykxYykxYykxYykxayExcxgxayExayExYykxYykxYykxYykxYykxYykxWjlKQlpz
+OXOMOXOMOXOMOXOMOXOMSmt7WkJaY0JKWmNrSoSMSnuEWmt7Wmt7WmNrY0pSYzk5
+Yzk5azk5azk5azExaykxayExayExayExaykxYzE5Yzk5azE5azE5azE5azE5aykx
+aykxaykxaykxaykxaykxayExcxgxcxgxayExayExayExayExaykxYzExYzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5azk5Yzk5azk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5azE5azExazExaykxayExcyEpcxgpcxgp9+/vxv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xpyccxgpcxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgp
+cxgpcxgpcyEpcxgpcxgpcxgpcxgpcxgpcxgpayExYykxYzExYzE5YzE5YzE5YzEx
+YzExYzExYzExayExaxgxayExaykxYykxYykxYykxYzExYykxYykxYzlCQlpzOXOM
+OXOMOXOMMWuMOXOMQmNzWkJaY0JKSmt7OYSUOYycOYyUOYycQoytSoSMWkJaYzE5
+aykxaykxaykxcyExcyExaykxazE5aykxazE5YzE5azk5Yzk5Yzk5YzE5YzE5YzE5
+YykxYykxYykxYzE5YzE5aykxaykxaykxaykxaykxaykxcxgxayExayExaykxaykx
+aykxazE5azk5Yzk5Yzk5Yzk5Yzk5Yzk5azk5Yzk5azk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5azk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5azE5azFCxpyc//f/xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//9+/vcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgp
+cxgxayExayExcxgxcxgpcxgpcxgpcxgpayExazE5Yzk5Yzk5Yzk5YzE5YzE5YzE5
+YzE5YzExayExcxgxayExYykxYzExYykxYykxYykxYykxYykxYzlKQmNzOXOMOXOM
+OXOMOXOMOXOMQmNzWkJKY0JKSmt7OXuUOYycOYycOYycOYycSoSMUlpjazFCayEx
+ayExayExaykxazE5azE5azk5azk5YzE5YzE5Yzk5Yzk5Yzk5Yzk5YzE5YzE5Yykx
+YykxYykxYzE5YzE5YzE5YykxYykxYzExYzE5Yzk5Yzk5azk5azE5azExaykxayEx
+ayExayExayExaykxaykxazExazk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk59+/vxv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv////f/xpyccxgpcxgpcxgpcxgpcxgpcxgpcxgpcxgx
+ayExazE5azE5azE5azE5azExaykxaykxYzE5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+YzE5ayExaxgxayExYzExYzE5YzE5YzE5YzE5YzExYzExY0JKSmt7OXOMOXOMOXOM
+OXOMOXOMQmNzWkJKWkJKQmNzOXuUMXucMXucMYScOYycSnOMa1JaazE5ayExayEx
+aykxazE5YzE5Yzk5azk5azk5azk5YzE5YzE5YzE5Yzk5Yzk5YzE5YzE5YykxYykx
+YzE5YzE5YzE5YzExYykxYzExYzE5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5azk5azk5
+azk5azE5aykxayExayExayExayExayExaykxaykxazExYzE5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5rYyM//f3xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//9+/vcxgpcxgpcxgpcxgpcxgpcxgpaxgxaykx
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+aykxcxgxayExYzE5Yzk5Yzk5YzE5YzE5YzE5YzE5Y0JKSmt7OXOMOXOMOXOMOXOM
+OXOMQmNzWkJKWkJKQmNzOXuUOXuUMXucMXucMXucSmuEY0pSayk5axgxayExazE5
+YzE5YzE5YzE5YzE5Yzk5azk5azk5YzE5YzE5YzE5Yzk5Yzk5YzE5YzE5YykxYykx
+YzE5YzE5YykxYzExYzExYzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5azE5azE5azExaykxayExcxgxcxgxayExayExayExaykxazExYzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk51t7nxv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv////f3xpyccxgpcxgpcxgpcxgpaxgpaykxYzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5aykx
+ayExayExYzE5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5WkJKQmNzOXOMOXOMOXOMOXOMOXOM
+QmNzWkJKWkJKSmt7MXucMXucMXucMXucMXucQmNzWkJKayk5axgxayExYyk5YzE5
+YzE5YzE5YzE5YzE5YzE5Yzk5azk5Yzk5Yzk5WkJCUlJaUlpjUlpjQlpzQlpzQlJa
+QlJaQkJSUkJKUkJKWkJCYzlCYzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5YzE5YzExaykxayExayExayExayEx
+aykxaykxaykxYzExYzk5Yzk5Yzk5Yzk5Yzk5e0pK9+/vxv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//9+/vcxgpcxgpcxgpaxgpaykxYzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5YzE5aykxaxgp
+aykxYzE5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5WkJKQmNzMWuEMWNzMWuEMWuEMWuEQlpz
+YzlCY0pSSmuEMXucMXucMXucMXucMXucQmNzWkJKayExaxgpayExYykxYykxYyk5
+YzE5YzE5YzE5WjlCWkpSUlpjQlpzSmt7Smt7SnuESnuESnOMOXOMMWuEMWNzMVpz
+MVpzMVJjMVJjQlpzQmNzSmt7Smt7QlpzUlJaWkJCYzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5YzE5YzE5YzEx
+aykxayExaxgxayExayExaykxaykxaykxYzk5xrW1xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv////f3xpylcxgpcxgpayExYzE5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5ayExcxgxaykx
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5WkJKQlpzMVpzMVpzMWNzMWNzMWNzQlpzYzlC
+Y0JKSmuEMYScMYScMYScMYScMYScSmt7Y0JKayExayExaykxYzExYykxYykxYykx
+YzlCUlpjWmt7Smt7Smt7OWt7MWuEOXOMOYSUOYycOYycOYSUOXOMMWuEMWNzMVpz
+MVJjMVJjMVpzMWNzMWuEMWuEMWuEMWNzQlJaQlJaSmtrSmtrSmtrUlJaWkJCYzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5YzE5YzE5aykxayExaxgxaxgxxpyl//f3xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//9+/vcxgpcxgpaxgpayExayExaykx
+azExYzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5YzE5ayExaxgxaykxYzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5WkJCQlJaMVpzMVJjMVpzMVpzMVpzQlJaYzFCYzlK
+Smt7OXuUMXucMXucMYScMYScSmuEY0JKayExcxgxaykxYzk5Yzk5Yzk5WkpSSmtr
+SnuESoyUSoyUSoSMOXOMMWuEMWuEOXOMOYSUOYycOYSUOXuUOXOMMWNzMVpzMVJj
+MVJjMVpzMWNzMWuEMWuEMWNzMVJjMVJjMVJjMWNzMXN7OYSMOYyUOYyMSnuESnuE
+SmtrUlJaWkJCYzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5YzE5YzE59+/vxv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv////f3xqWtaxgpaxgpaxgpaxgpaxgp
+ayExayExaykxayExaykxYzExYzk5Yzk5Yzk5Yzk5YzFCayExcxgxaykxYzE5Yzk5
+Yzk5Yzk5azk5Yzk5Yzk5WkJCQlJaMVJjMVJjMVJjIVJrMVJjQkJSYzE5YzFCQlpz
+MWuEMWuMOXOMMXucMXucSmt7WkJKaykxaxgpaykxYzFCYzk5WkpSSmt7SnOMOYSU
+OYycOYycSoSMSoSMSnOMMWNzMVpzMVJjUlJaY0pSYzlKazFKazFCazFCYzFCWjFC
+QkJSQlpzMWuMMVpzMVJjMUpSMVJjMWNzOWt7OYSMOYyUOYyUOZSUOZSUOYyUOYyU
+OYyMSoSMSoyUSoSMSnuESmtrWkpSWkJCYzk5Yzk5azk5Yzk5Yzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5azk5Yzk5Yzk5Yzk5Yzk5xpyl//f3xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//9+/veykxaxgpaxgpaxgpaxgp
+ayExaykxaykxayExaxgxayExayExayExayExaykxayExaxgxaykxYzE5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5WkpSQlpzMVpzMVJjMVJjMVJjMVJjQkJSayk5YzFCQlJaMWNz
+MWNzMWuEMWuEMWuMQmNzWkJKazE5axgxayExaykxWkpSSmt7OXOMMXucMXucMYSc
+OYycOYycSoyUWmt7Y0pSQiEpQlJaITk5UlJaUlpzUlpzUlpzUlpjQkJSUkJKUjlC
+YzFCazFCazFCQiEpQlJaITk5MWNzOYSMOYyMOYyUOYyUOYyUOYyUOYSMOYyUOZSU
+OZSUOZSUOZSUOZSUOZSUOYyUSoSMSnuESnuESmtrUlJaWkJCYzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk59+/vxv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv////f3zqWlaxgpaxgpcxgpayEx
+YzE5Yzk5Yzk5YzE5YzE5azE5aykxayExcxgpaxgxaxgxaykxYzk5Yzk5Yzk5Yzk5
+Yzk5Yzk5Yzk5WkpSOWt7OWt7MWNzMWNzMVpzMVpzQkJSQiEpQiEpOTk5MVpzKUpS
+KUpSKUpSMWNzMUpSOTk5WikxaykxaxgpYykxOTk5KUpSMWNzMXucMYScMWuMMWNz
+MVpzUlJaYzFCWikxUjlCOTk5a62tKUJKMUpSMVJjOXuUMWuEMVpzKUJKKUJKMVJj
+QlpzQlJaQkJSMSkxa62tISkxWikxazlCY0pSSmtrOYSMOYSMOYyUOZSUOZSUOZSU
+OZSUOYyUOYyUOYyUOYSMOYSMOYSMOYSMOYSMOYSMOYSMSnuESnuESmt7UlpjWkJK
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5xqWt//f3xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv////f3xpylaxgpayExYzE5
+Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5Yzk5YzE5YzE5YzE5YzE5Yzk5WkJCSmtrUlJaWkJC
+Yzk5Wjk5WkpSQnuEOYSMQnuEOWt7OWt7OWt7Ulpjayk5ITk5WoSEMUpSMWNzKUJK
+SnuEITk5QlJaISkxSnuEMSkxaykxYykxOTk5Y4yUa62tSoyUMVpzMYScMWNzQlJa
+QlJaOTk5QkJSQlJaQlJaKUJKa62tMUpSY5yla62tMUpSMVpzITk5Y5ylWoSEQmNz
+QnuEMWNzMUpSSmt7SmtrITk5Smt7MUpSWkpSazlCazFCazlCazlCUlpjQnuEOYSM
+OYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYyUOYyUOYyUOZSUOZSUOYyUSoSM
+SoSMSnuESmt7UlJaWkJCxqWt//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//9+/vjGNaYzE5Yzk5
+Yzk5Yzk5Yzk5Yzk5Wjk5Yzk5Yzk5Wjk5Wjk5Yzk5Yzk5WkJKSnuEOZSUOYyUSoSM
+SnuESnuESoSMOYyUOYSMOYSMOYSMOYSMSmtrayk5azlCITk5rff/a73WMVJjKUJK
+hOfnITk5WkJCITk5hOfnOTk5WjFCITk5hOfna62tITk5SoyUKUpSSmt7UkJKSnuE
+Y4yUMVJjMVJjY4yUSnuEKUJKa62te9beITk5hOfnSnuEITk5e9bea62tKUJKhOfn
+MUpSITk5rff/MUpSQlJaITk5e9beY5ylMVJjWmt7Wmt7SmtrUlJaYzlCazFCazFC
+azFCY0JKSmtrOYSMOYyMOYyUOYyUOYyUOYyUOYyUOZSUOZSUOZSUOZSUOZSUMZSc
+MZScMZScOZSUOYyMSoSM9+/vxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xrW1Wjk5Wjk5
+Yzk5Yzk5Yzk5Yzk5Wjk5Yzk5Yzk5Wjk5Wjk5Wjk5WkJKSnuEMZScMZScMZScMZSc
+MZScMZScOYyUOYyMOYyMOYyMOYyMWmt7azFCY0JKSnuEITk5hM7WSmt7QmNzKUpS
+hOfnITk5Wjk5ITk5hOfnOTk5MUpSSnuEhM7WKUJKIVJrKUpSQkJSWkJKQkJSSnuE
+Y4yUMVpzMVpzY4yUSnuEKUpSa62tITk5WkJKMUpSa62tISkxhM7WMUpSMWNzSmtr
+SnuEITk5Y5ylIVJaY4yUITk5KUJKa62tKUpSOYSUOYSUOYSMQnuESnuESmt7Wmt7
+SmtrWkpSYzlCazFCazFCazlCUlJaQnuEOYyUOZSUOZSUOZSUOZSUOZSUOZSUOZSU
+OZSUOZSUOZSUOZSUpd7vxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f3xqWtWjk5
+Wjk5Wjk5Wjk5Wjk5Wjk5Wjk5Wjk5Wjk5Wjk5WkJKSnuEMZScMZScMZScOZylMZSc
+MZScOYyUOYyUOYSMOYSMOYSMWmt7azE5Y0JKSnuEOYSMITk5hM7WMVJje9beQlJa
+hOfnISkxYzE5ISkxhOfnKUJKMVpzY4yUY4yUMVJjOWt7QkJSUjlCUkJKKUpSSnuE
+Y4yUIVJrIVJrY4yUSnuEMSkxa62thL29MUpSrff/KUJKMSkxhL29a62tITk5rff/
+MUpSKUJKhOfnSnuEa62tISkxhOfnKUJKMXN7MZScMZScMZScMZScMZScMZScMZSc
+OZSUOYSMSnuESnuESmtrUlJaazlCazE5azFCazlCWkpSSmt7OYyMOYyUOYyUOYyU
+OYyUOYyUOYyUpd7vxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f3xqWt
+ayExaykxYzE5Wjk5Wjk5Wjk5Wjk5Wjk5WjlCWkpSQnuEMZScMZScMZScMZScMZSc
+OYyUOYSMOYSMOYSMOYSMWmt7azE5Y0JKSnuEOYSMOYSMITk5hM7WKUpSMUpSrff/
+rff/ISkxQiEpITk5hOfnKUJKIVJaMVJje9beMUpSQkJSQkJSQkJSOXuUMVpzSnuE
+Y4yUITk5ITk5Y4yUSnuEMSkxITk5ISkxQkJSMUpSY0JKYzE5OTk5OTk5MUpSITk5
+Y0JKY0JKMSkxITk5a62tSmtrITk5MZScMZSUMZScMZScMZScMZScMZScMZScMZSc
+OZSUOYyUOYyUOYyUOYyUOYSMSnuEWmt7Wmt7SmtrWkJCazFCazFCazFCazlCUlpj
+QnuEOYyUpd7vxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f3
+xpylaxgpaykxayExayExaykxYzExYzE5Wjk5WkJCWjlCWkJKWkpSWkpSUlpjSmt7
+OYSMOYSMOYyMOYSMSmtrazE5Y0JKSnuEOYSMOYSMOYyMITk5hM7WMUpSUjlCY4yU
+rff/ISkxQmNza62thOfna62tQlJaKUpSa73Wrff/Wmt7a62tMUpSOYycMXN7SnuE
+hM7Wa62tWq21hM7WSnuEQiEpYzE5YzE5Wjk5WikxYzFCYzE5YzE5YzE5YzE5YzE5
+aykxayExayExQiEpa62tOTk5WkJCWkpSUlpjQnuEOZSUMZScMZScMZScMYycOYyU
+OYyUOYyUOZSUOYyUOYyUOYyUOYyUOYyUOYyMOYSMSnuESmt7Smt7SmtrUlpjYzlC
+azFCjIR7//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+1t7nhEJCaxgpaxgpaxgpaxgpaxgxayExayExayExaykxYzE5UlJaSmt7WkpSazFC
+azFCazFCazlCY0pSazFCWkpSQnuEOYSMOYSMOYSMOYSMITk5ITk5MSkxayExOTk5
+ITk5ISkxITk5ITk5KUJKKUJKITk5MYycKUpSMUpSQkJSITk5MXN7OYyUMXN7KUJK
+KUJKITk5ITk5ITk5ISkxQiEpYzE5YzE5Yzk5YzE5YzE5YzE5Yyk5ayExayExayEx
+axgxaxgpayExQiEpITk5ISkxWikxYzE5WjFCWjlCWkJKWkJKWkJKUlJaSmt7OYSM
+OYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMSnuE
+Wmt71t7nxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+//f33rWtaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpayExYzlCQnuEOYSMQnuESnuE
+Smt7SmtrWkpSYzk5WkpSOYSMOYyMOYyMOYyUOYyUOYyMWmNrayk5axgpaxgxaykx
+YzE5Wjk5UlJaMYycMZScMZScMZScMZScMYycUlJaUjlCSmtrOZSUMZSUMZSUMYyc
+OYyUUlpjYyExYyExYyExYykxYyk5Yyk5aykxayExayExaxgxaxgxaxgpaxgpayEx
+aykxYzE5YzE5YzE5WikxWikxYzE5YzE5YzE5YzE5YzE5aykxayExayExayk5azE5
+azFCWkJKSmt7OYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSMOYSM
+pd7vxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv////f3zqWlaxgpaxgpaxgpaxgpaxgpaxgpayExWkpSSnuEOYyUOYyUOYyUOYyU
+OYyUOYyMOYSMSnuEOYSMOYyUOYyUOYyUOYyUOYyMWmNrayk5axgpaxgpaxgpayEx
+YykxWjk5UlpjOZylOZylOZylMZScMZScOYSMUlJaWkJCQmNzMYycOYyUOYyUOYyU
+OZSUSmt7YzlCaxgpaxgxaxgxaxgxaxgxaxgxaxgpaxgxY0JKQmNzQmNzQlpzQlJa
+UkJKWkJCYzE5YzE5YzE5YzE5YzE5YzE5YzE5YykxayExaxgxaxgpaxgpaxgpaxgp
+axgpayExayk5azE5azE5azFCUlpjQnuEOYSMOYSMOYSMOYSMOYSMOYSMOYSMpd7v
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv////f3zqWlaxgpaxgpaxgpaxgpayExWkpSOYSMOYyUOYyUOYyUOYyUOYyU
+OYyUOYyUOYyUOYyUOYyUOZSUOZSUOZSUOYyMWmNrayk5axgpaxgpaxgpaxgpaxgp
+ayExYyk5UlpjMZScMZScMZScMZScMYycOYSMUlJaYzE5UlpzOZylOZylMZScMZSc
+MZScOYSMQmNzQkJSWjlKYyk5YzE5YzlCWkJaWmt7SnOMSnOMMXucMXucMXucMWuM
+OWt7WkpSYzFCUkJKQkJSUjlCWjFCayExayExaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaykxayk5azE5azE5WkJKSmtrOYSMOYSMhOfnxv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv////f3zqWlaxgpaxgpaxgpaxgpazE5UlJaQnuEOYyUOZSUOZSUOZSU
+OZSUOZSUOZSUOZSUOZSUMZSUMZSUOYyUWmNraykxaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgxY0pSMYycMYycOYyUOYycOYycMZScWmNrYzE5WkpSOYSMMZScMZScMYyc
+MXN7MWNzMWuEMWuEMVpzQmNzSnOMSoSMOXuUOYSUQoytOYycMXucMXucMXucOXOM
+WkJaYzlCUlJaMWNzMVpzMVJjQkJSQkJSUkJKYyk5axgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpayExayk5ayk5xrW1xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv////f3zqWlaxgpaxgpaxgpaxgpayExayk5ayk5azE5YzlCUlpj
+OYyMOZSUOZSUOZSUOYyUOYyUOYSMUlpjcyExaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpYzlKQnuEOYycOZylOZylOZylOZylOYSMUlJaYzE5UlJaQnuEOYSMMWNz
+MWNzMWuMMWuMMWNzMWuEMWuMMZStMZStMYScMYScOYycOYycOYycOXOMWkJaYzlK
+WkJaSmt7OXOMMWuEMWNzMVpzMVpzMVJjYzFCaxgxaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpxpyl//f3xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv////f33rWthEJCaxgpaxgpaxgpaxgpaxgpaxgpaxgxayEx
+ayk5ayk5azE5WkpSOWt7QnuEUlpjayExaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpayExa1JaOZSUOYyUOYyUOYycMZScMZScOYSUUlJaWikxYzE5UkJKMVpz
+MWuMMWuMMWNzMWNzMWuEMYScMZStMZStMYScMXucSnOMUlpjWjlCYzFCUkJKQlpz
+OWt7OXOMOXOMOXOMOXOMMWuEQlJaYzFCaxgxaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpcxgpzqWl//f3xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv////f31t7nxpylaxgpaxgxaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgxayExayk5ayk5ayExaxgpaxgpaxgpaxgxaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgxa1JaSmtrOZylOYycOZylOZylOZylOZSUQmNzQlJaWmNrhISEa1Ja
+hISEWkJaWkpSUlpjQlpzUlpjWmNrWmNra1Jaa0JSYzlKa1JaWmt7SnuESoSMUoSc
+OXuUOXOMMWuMOXOMOWt7Y0JKayExaxgxaxgpaxgpaxgxaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgxaxgpaxgpaxgpaxgpaxgpaxgppXNzzqWl//f3xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv////f3xpylaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpjJychIR7a73WWq21Wq21a73Wa73Wa62tY5ylY5yle9bea73WhM7W
+hL29hL29hISEjJycjJyca1JahOfnhL29Y4yUhOfnY5ylhM7Wa73WhM7We9behOfn
+Wq21OXOMMWuEWkJKayk5axgxaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpxpyl9+/vxv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv////f3xpylaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpcyExhL29hGNzjJycY4yUY5ylhM7We9bea62thOfna73We9beUoSchM7W
+a62te9behM7Wa73WhOfnhM7Wa73WhOfna73We9beWq21hOfnhM7Wa73WhOfnhOfn
+a62tYzlKayE5axgxaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpxpyl//f3xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f33rWtjFJKaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpayExa0JSaxgpa0JSayk5YzFCWmt7SnOMOXOMSoSMOXOMUoScQmNzSnOM
+QmNzSnOMUoScOXuUQoytOYycQoytQoytOXuUUoScSoSMUoScUoScSnuEY1Jza0Ja
+a0JSaxgxaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpcyExxpyl//f3xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//9+/vxpylaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpayExayE5YzlKQlJaMVpzMVpzMVJjMVJj
+MVpzMVpzMWuEOXOMOXuUOYycOYycOYSUOXOMQlpzUkJKYyk5cyExcyExayExaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpxpyl1t7n//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f3zqWleykp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgxayExayExayExayExYyk5
+WjFCUkJKUkJKUkJKWkJKYzFCayk5ayE5ayExayExaxgxaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpcxgpxpyl//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f39+/v
+xpylaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgxaxgxaxgxaxgxaxgxaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpxpyl9+/v//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+//f39+/vxpylaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpxpyl
+9+/v//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv/////39+/vxpycaxgpaxgpaxgpaxgpaxgpaxgxaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgxaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgxaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgxaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgxaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgxaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgxaxgpaxgpnFpr3rWt//f3
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv////f39+/vxpycaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpxpyc9+/v//f3xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv////f/9+/vxpycaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpxpyc9+/v//f/xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv////f3//f3xpycaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgprYyM9+/v//f3xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f33rWtjFJKaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpcyExxpyc//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv////f///f3
+//f3rYyMaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+rYyM//f3//f3//f3xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAAxv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//rYyMaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgp
+axgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgpaxgprYyMxv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//xv//
+xv//AAAA</picture>
+	</picture>
+</document>

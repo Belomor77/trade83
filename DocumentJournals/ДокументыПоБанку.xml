@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<DocumentJournal uuid="016e59bb-34fd-40ed-81f3-7e531ea57e7b">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentJournalSelection.ДокументыПоБанку" category="Selection">
+				<xr:TypeId>e7880f59-8473-429a-9c87-9d2db9bf37d3</xr:TypeId>
+				<xr:ValueId>5f2be628-6ab2-4646-8ed2-20e5d281968e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentJournalList.ДокументыПоБанку" category="List">
+				<xr:TypeId>23905fa7-48dc-4c89-ba0d-65cfe0033c34</xr:TypeId>
+				<xr:ValueId>658b97ca-b698-4465-adcc-0306842907cb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentJournalManager.ДокументыПоБанку" category="Manager">
+				<xr:TypeId>63a04a46-7a70-422f-aa23-9c2bba3c8426</xr:TypeId>
+				<xr:ValueId>46d4a500-2f43-477f-97ec-bb1e37651cac</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ДокументыПоБанку</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Документы по банку</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<DefaultForm>DocumentJournal.ДокументыПоБанку.Form.ФормаСписка</DefaultForm>
+			<AuxiliaryForm/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<RegisteredDocuments>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход</xr:Item>
+			</RegisteredDocuments>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Column uuid="855c2fb1-3853-47b4-b16e-90c31e310b19">
+				<Properties>
+					<Name>БанковскийСчет</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Банковский счет</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.БанковскийСчет</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.БанковскийСчет</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.БанковскийСчет</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="198e904f-eafd-4a23-9059-37187a533ccd">
+				<Properties>
+					<Name>Приход</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Сумма</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.Сумма</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="3a273ef6-17d8-4e36-97e1-7dc35b408d9b">
+				<Properties>
+					<Name>Расход</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Сумма</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.Сумма</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="370bc7f5-3a3b-4be3-b8af-95036092466e">
+				<Properties>
+					<Name>Валюта</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Валюта</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Валюта</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.Валюта</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="03af82eb-fcfc-4238-920e-7b506af429b8">
+				<Properties>
+					<Name>Контрагент</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Контрагент</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Контрагент</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="bdade4d4-3bae-4200-ba0f-0d3398f0f723">
+				<Properties>
+					<Name>Автор</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.Автор</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Автор</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Автор</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="e752539e-753e-48a0-bde6-b4ee88619c2a">
+				<Properties>
+					<Name>Проект</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.Проект</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Проект</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Проект</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="86ed04df-701a-4efc-a536-ad7f25b2ce5e">
+				<Properties>
+					<Name>Фирма</Name>
+					<Synonym/>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.Фирма</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Фирма</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Фирма</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="c9842de2-5bb8-40bd-a526-9f64626fe65d">
+				<Properties>
+					<Name>ЮрЛицо</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Собственное юр. лицо</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.ЮрЛицо</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.ЮрЛицо</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.ЮрЛицо</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="1413e186-0a84-4ad6-a9df-f0145b80cba1">
+				<Properties>
+					<Name>СуммаДокумента</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сумма </v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Сумма, налоги включены согласно флагам</Comment>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.СуммаДокумента</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.СуммаДокумента</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.СуммаДокумента</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="32933d20-694b-4f2d-8eb3-d012d59366ec">
+				<Properties>
+					<Name>Комментарий</Name>
+					<Synonym/>
+					<Comment>Дополнительная информация</Comment>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк.Attribute.Комментарий</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Комментарий</xr:Item>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Комментарий</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Form>ФормаСписка</Form>
+		</ChildObjects>
+	</DocumentJournal>
+</MetaDataObject>

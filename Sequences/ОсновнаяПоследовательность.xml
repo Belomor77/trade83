@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Sequence uuid="806a930d-73f5-4e06-9761-4c729f779f05">
+		<InternalInfo>
+			<xr:GeneratedType name="SequenceRecord.ОсновнаяПоследовательность" category="Record">
+				<xr:TypeId>69ce06ad-b270-4596-9eb2-57c830bdc02f</xr:TypeId>
+				<xr:ValueId>c4dfcce1-80dc-4913-aa6e-09536db0c416</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="SequenceManager.ОсновнаяПоследовательность" category="Manager">
+				<xr:TypeId>6b3d45f4-aa8c-4379-a901-22e0736ad5a7</xr:TypeId>
+				<xr:ValueId>d7fdc7b4-d17a-41a8-9dd3-d03419efd734</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="SequenceRecordSet.ОсновнаяПоследовательность" category="RecordSet">
+				<xr:TypeId>545a5c30-6d60-41d5-baa3-d1c93507de90</xr:TypeId>
+				<xr:ValueId>5d5eec0a-34d9-4ff9-b477-427b5ce2bc25</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОсновнаяПоследовательность</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Основная последовательность</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<MoveBoundaryOnPosting>Move</MoveBoundaryOnPosting>
+			<Documents>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратОтПокупателя</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратПоставщику</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтчетКомиссионера</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СписаниеТМЦ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПКО</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РКО</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КомплектацияТМЦ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеДопРасходы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦИмпорт</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеТМЦ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтчетККМ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаАвансОтчетаТМЦ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаАвансОтчетаОплата</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаАвансОтчетаПрочее</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтчетКомитенту</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеПрочее</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПереоценкаУКомиссионера</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПереоценкаВалюты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияРозница</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияПрочее</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегКасса</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеДенегБанк</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировкаДолга</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КнигаПродаж</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КнигаПокупок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураВыданный</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПродаж</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗакрытиеМесяца</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаказПоставщику</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаявкаПокупателя</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Сторно</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПереоценкаРозница</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтменаЗаявок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦРозница</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СнятиеРезерва</xr:Item>
+			</Documents>
+			<RegisterRecords>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Поставщики</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Покупатели</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПартииНаличие</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПартииОтданные</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Касса</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Банк</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПодотчетныеЛица</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиТМЦ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.РеализованныйТовар</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Заказы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ЗаказыЗаявки</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Заявки</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.РезервыТМЦ</xr:Item>
+			</RegisterRecords>
+			<DataLockControlMode>Automatic</DataLockControlMode>
+		</Properties>
+		<ChildObjects/>
+	</Sequence>
+</MetaDataObject>

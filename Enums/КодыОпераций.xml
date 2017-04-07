@@ -1,0 +1,866 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="7cb43509-07b3-4fc2-b2b0-6361c47e4b1d">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.КодыОпераций" category="Ref">
+				<xr:TypeId>98e202e2-9776-4c54-8ea3-5e3859339413</xr:TypeId>
+				<xr:ValueId>43b9d789-0222-4f49-89f8-c94bcfed200a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.КодыОпераций" category="Manager">
+				<xr:TypeId>186bcf48-acac-48ad-a778-9226480cd911</xr:TypeId>
+				<xr:ValueId>403a16e0-4452-46b7-ae99-eda87d120b9c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.КодыОпераций" category="List">
+				<xr:TypeId>5b5da305-7136-4d0b-9e94-459847764ca1</xr:TypeId>
+				<xr:ValueId>41b6eed9-ceef-4e87-bf85-29434f758d09</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КодыОпераций</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Коды операций</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="caf4bfe4-3e96-47c9-9631-9512772bc310">
+				<Properties>
+					<Name>АвансовыйОтчет</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Авансовый отчет</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="02125dc6-ce39-44d0-af3f-3e7f84100b9f">
+				<Properties>
+					<Name>АвансовыйОтчетВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Авансовый отчет (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e656652f-438e-4cc6-93e1-a4a6097ef16b">
+				<Properties>
+					<Name>ВводОстатков</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод начальных остатков</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f7b2929f-9c90-44c0-bca1-e2bf0718fdc6">
+				<Properties>
+					<Name>ВводОстатковВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод начальных остатков (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b2bb384c-603f-44aa-bfd9-9780df5574a4">
+				<Properties>
+					<Name>ВозвратИзРозницы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат из розницы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Перемещение с розничного на оптовый склад</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e3383aac-e83b-4478-a4e2-9e7c647f5326">
+				<Properties>
+					<Name>ВозвратКомитенту</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат поставщику (комиссия)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="46db5c21-27d5-4ad0-98ce-142c77732554">
+				<Properties>
+					<Name>ВозвратКомитентуИзРозницы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат поставщику (розница, комиссия)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f2af4d79-17dc-4e39-9cc3-29fb27807648">
+				<Properties>
+					<Name>ВозвратОплатыОтПоставщика</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат от поставщика</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8c8e7e6c-c0fb-4619-a59f-6758b65bf47c">
+				<Properties>
+					<Name>ВозвратОплатыОтПоставщикаВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат от поставщика (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fb597808-d807-4efe-aaba-74efa9721ad4">
+				<Properties>
+					<Name>ВозвратОплатыПокупателю</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат покупателю</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="5f2ce7c8-05f0-4b3a-a13f-58dff60bdd85">
+				<Properties>
+					<Name>ВозвратОплатыПокупателюВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат покупателю (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="66dfff46-4b9c-4c6c-971b-5aa0f1619206">
+				<Properties>
+					<Name>ВозвратОтПокупателя</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат от покупателя (купля-продажа)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="cbfec725-9a42-478e-9826-c3f1c8048806">
+				<Properties>
+					<Name>ВозвратОтПокупателяЕНВД</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат от покупателя (розница, ЕНВД)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="3263efc3-e367-4110-99ff-8ddff1a734c2">
+				<Properties>
+					<Name>ВозвратОтРеализатора</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат от покупателя (комиссия)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="74a12094-f18c-46bc-96f7-df0b70d57378">
+				<Properties>
+					<Name>ВозвратПодотчетныхСумм</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат от подотчетника</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4f8f8973-5e3a-4266-a98b-278dbb212fe1">
+				<Properties>
+					<Name>ВозвратПодотчетныхСуммВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат от подотчетника (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="3e99c0cd-16e2-4d89-8dd1-4c967830c103">
+				<Properties>
+					<Name>ВозвратПоставщику</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат поставщику (купля-продажа)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b1ff1461-eea4-4f2b-8b80-f82e8cc8085f">
+				<Properties>
+					<Name>ВозвратПоставщикуИзРозницы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Возврат поставщику (из розницы)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="0ae81267-a192-4993-8058-5605f7c17b9a">
+				<Properties>
+					<Name>ВыдачаПодотчет</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Выдача подотчетнику</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="c6881dae-7dc1-49d1-980e-46b4306952c7">
+				<Properties>
+					<Name>ВыдачаПодотчетВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Выдача подотчетнику (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="bb60123a-419d-47b6-96c4-7e9a8120c6e0">
+				<Properties>
+					<Name>ДополнительныеРасходы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление (доп. расходы по ТМЦ)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Дополнительные расходы, которые и в БУ, и в НУ относятся на себестоимость ТМЦ</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="723f9c62-9583-4d31-9ed4-bf33bbddbd60">
+				<Properties>
+					<Name>ДополнительныеРасходыКосвенные</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление (косв. расходы по ТМЦ)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Дополнительные расходы, которые в БУ относятся на себестоимость товара а в НУ являются косвенными</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d7162b08-6176-4ae3-94a2-e6c76f8578f6">
+				<Properties>
+					<Name>ДополнительныеРасходыТранспортные</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление (трансп. расходы по ТМЦ)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9d42c23c-614e-438c-8b0e-ee594a1c7754">
+				<Properties>
+					<Name>ДополнительныеРасходыВнереализационные</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление (внереал. расходы по ТМЦ)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Расходы, которые в БУ относятся на себестоимость ТМЦ, а в НУ не отражаются</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f8335d6f-de45-421f-96dd-53722a8a8955">
+				<Properties>
+					<Name>Закупка</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление ТМЦ (купля-продажа)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="533e5609-72ce-4103-9272-a59339351358">
+				<Properties>
+					<Name>ЗакупкаРозница</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление в розницу (купля-продажа)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a87957d6-7ca5-4e18-b382-f1290ed12431">
+				<Properties>
+					<Name>ЗачтенАвансПокупателя</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Зачет аванса покупателя</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1781ed3c-6ab8-475b-a951-89518debdb5a">
+				<Properties>
+					<Name>ЗачтенАвансПоставщику</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Зачет аванса поставщику</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9d509058-a3df-42bb-b0aa-646af50135a7">
+				<Properties>
+					<Name>ЗачтенВозвратПокупателя</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Зачтен возврат покупателя в качестве оплаты</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="be675c49-154f-4e6e-8c19-28b72036be69">
+				<Properties>
+					<Name>ЗачтенВозвратПоставщику</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Зачтен возврат поставщику в качестве оплаты</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e9862654-9abf-4c70-9082-0b3f82947eb8">
+				<Properties>
+					<Name>ЗачтеноКомиссионноеВознаграждение</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Зачет комиссионного вознаграждения</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a871f7e8-d2bc-4bc7-b93e-1b9f8109fde6">
+				<Properties>
+					<Name>КорректировкаОтгрузкиНачислениеНП</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Корректировка отгрузки (начисление НП)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="930a1b55-6bae-4f65-ac28-ae818c293ffc">
+				<Properties>
+					<Name>КорректировкаОтгрузкиСторнированиеНП</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Корректировка отгрузки (Сторно НП)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="bdd5375c-9028-4d91-aadc-23c01ca30d49">
+				<Properties>
+					<Name>КурсоваяРазница</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Курсовая разница</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9b308228-31bc-403b-b4b6-227881637a91">
+				<Properties>
+					<Name>НачисленоКомиссионноеВознаграждение</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Комиссионное вознаграждение</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="789ef630-a0a1-4bea-970b-4f99bf030809">
+				<Properties>
+					<Name>ОплатаОтПокупателя</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Оплата от покупателя</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="198ddaf3-cf70-4fc7-ad36-bf8df4e0eaa7">
+				<Properties>
+					<Name>ОплатаОтПокупателяВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Оплата от покупателя (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="3893bf67-6e11-40c0-9874-adddbcfe9add">
+				<Properties>
+					<Name>ОплатаПоставщику</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Оплата поставщику</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="0c3e39e1-979b-4616-b9b0-1d600c833405">
+				<Properties>
+					<Name>ОплатаПоставщикуВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Оплата поставщику (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="7b1a40cd-2d86-4aa2-9c98-e2224943a25a">
+				<Properties>
+					<Name>Оприходование</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Оприходование ТМЦ</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f76d26d1-526d-4a74-b278-d45bbd7f307c">
+				<Properties>
+					<Name>ОприходованиеИнвентаризация</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Оприходование ТМЦ (инвентаризация)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="3ae9c927-0074-4498-8390-dbe0ce6de6e4">
+				<Properties>
+					<Name>ОтчетКомитенту</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отчет комитенту</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fd0a8a9b-ba98-4ea6-9f52-4fd39e208d04">
+				<Properties>
+					<Name>ОтчетРеализатора</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отчет реализатора о проданных товарах</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="61742426-bbff-4cd2-a6c0-2b4bb1ee8d3c">
+				<Properties>
+					<Name>ПередачаВРозницу</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Передача в розницу</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Перемещение на розничный склад</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="12295e78-e845-49d7-9711-ecbbed37683c">
+				<Properties>
+					<Name>ПередачаНаРеализацию</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Реализация (комиссия)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b6df960a-8b88-493e-b98a-f41bfee8ffdb">
+				<Properties>
+					<Name>Перемещение</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Внутреннее перемещение</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d04cc5fa-1bc5-4137-8019-c53c09fda314">
+				<Properties>
+					<Name>ПриемНаРеализацию</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление ТМЦ (комиссия)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="29a96991-841e-4965-bebf-f79ba482ccad">
+				<Properties>
+					<Name>ПриемНаРеализациюРозница</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Поступление в розницу (комиссия)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e19d88db-c099-4ed7-ad5f-39744c18b6cf">
+				<Properties>
+					<Name>Продажа</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Реализация (купля-продажа)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="0331a5e9-b596-4a9f-95fe-a903dcc444eb">
+				<Properties>
+					<Name>Прочее</Name>
+					<Synonym/>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a796d0ee-9cd3-4488-ab8a-ca21c76d0242">
+				<Properties>
+					<Name>ПрочееВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Прочее (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="891fd8b4-016c-4af3-bd2c-9e64d73061de">
+				<Properties>
+					<Name>Разукомплектация</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Разукомплектация ТМЦ</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="df546bff-8a4e-49ed-b560-0b10bd2f0680">
+				<Properties>
+					<Name>РозничнаяВыручка</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Розничная выручка</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Розничная выручка</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4680eb98-7fd3-4f64-be5f-b3e621b9a398">
+				<Properties>
+					<Name>РозничнаяВыручкаЕНВД</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Розничная выручка (ЕНВД)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Розничная выручка (ЕНВД)</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e5f9a003-5c21-4017-9278-f36c7e2ad19c">
+				<Properties>
+					<Name>РозничнаяПродажа</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Реализация (розница)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="983ee3bc-16a2-4ab6-8356-e214fd24aab0">
+				<Properties>
+					<Name>РозничнаяПродажаЕНВД</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Реализация (розница, ЕНВД)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a1a887e2-7551-4e21-ac9f-0bc0143c9b00">
+				<Properties>
+					<Name>Сборка</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Комплектация ТМЦ</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1b7785f7-360d-442f-a532-06c11623ac69">
+				<Properties>
+					<Name>Списание</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Списание ТМЦ</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b66445e5-62b9-4e52-9568-02852559cb5e">
+				<Properties>
+					<Name>СторнированАванс</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сторнирован аванс</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="0f1a4ab2-597a-4ab6-a36b-d59aa09dab9d">
+				<Properties>
+					<Name>СторнированВозврат</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сторнирован возврат</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="63a9a18c-a18a-48b1-8909-b5db7a4fb490">
+				<Properties>
+					<Name>СуммоваяРазница</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Суммовая разница</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="cf227c12-de63-4632-9da9-892dc3e525e2">
+				<Properties>
+					<Name>ТаможенныеПлатежи</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Таможенные платежи</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="07081d02-044c-4d7f-8faa-00f32e657161">
+				<Properties>
+					<Name>ЗачтенАвансПоставщикуВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Зачет аванса поставщику (вал.)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b79db155-535d-483b-89ec-211b6d792f8e">
+				<Properties>
+					<Name>РозничнаяВыручкаЗаПринятые</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Розничная выручка за принятые товары</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Розничная выручка за принятые товары</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b4a8b5e1-f9cc-48d2-9f68-caa6ce1393d2">
+				<Properties>
+					<Name>РозничнаяВыручкаЗаПринятыеЕНВД</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Розничная выручка за принятые товары (ЕНВД)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Розничная выручка за принятые товары (ЕНВД)</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="52352217-3421-4d28-99ef-110416064ad1">
+				<Properties>
+					<Name>Отчисление</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отчисление на налоги и пр.</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Отчисление на налоги и пр.</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4423fbd5-d4d7-4458-95dd-49f1021a8c35">
+				<Properties>
+					<Name>СписаниеВосстановливатьНДС</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Списание ТМЦ (восстанавливать НДС)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="69fbe7af-337a-42e5-a730-ddaacb967016">
+				<Properties>
+					<Name>ПостоянныеРазницы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Постоянные разницы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Постоянные разницы</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="3c082435-3e21-44f1-873c-699567b137c8">
+				<Properties>
+					<Name>СуммоваяРазницаНДС</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Суммовая разница НДС</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

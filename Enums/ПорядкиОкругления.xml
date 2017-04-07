@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="036c2af2-e835-47ea-a008-99411914b081">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ПорядкиОкругления" category="Ref">
+				<xr:TypeId>486fcf81-2f00-4801-aee7-ca4070c474a8</xr:TypeId>
+				<xr:ValueId>02419650-dc58-4abc-9280-ec818f0ea3b0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ПорядкиОкругления" category="Manager">
+				<xr:TypeId>d4cd0586-f57a-4cf9-ae8a-7d9f3e342c6f</xr:TypeId>
+				<xr:ValueId>b10158df-c488-4765-9391-6f23f7a18e72</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ПорядкиОкругления" category="List">
+				<xr:TypeId>d37f32ea-393f-42a0-8806-5b1833bf881b</xr:TypeId>
+				<xr:ValueId>8001d910-ca84-4ddd-9a56-1363d621c1dd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПорядкиОкругления</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Порядки округления</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>Данное перечисление содержит всевозможные порядки огругления количеств и сумм</Comment>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="89c3aa14-67ba-408e-8465-30c7aeeb75f0">
+				<Properties>
+					<Name>ОкрТочно</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>0.01 (арифметическое)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="87ba4bc6-d965-4ecc-a829-8535928451ab">
+				<Properties>
+					<Name>Окр0_01</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>0.01</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление до 1 младшей единицы валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d2125310-4203-4afc-9186-29ce9981c813">
+				<Properties>
+					<Name>Окр0_05</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>0.05</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление до 5 младших единицы валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8b3115cf-8c04-4d3f-b4ff-3449079781e3">
+				<Properties>
+					<Name>Окр0_10</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>0.10</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление до 10 младших единицы валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1bdaf7bc-299d-474c-85a4-d5c166bd3820">
+				<Properties>
+					<Name>Окр0_50</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>0.50</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление до 50 младших единицы валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b1b807ae-1361-4b5a-a0ec-1069eb214c48">
+				<Properties>
+					<Name>Окр1</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>1</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление до 1 старшей единицы валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="ba82742a-400e-4308-85c3-ccfa2126110d">
+				<Properties>
+					<Name>Окр5</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>5</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление 5 старших единиц валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="534f63d3-2ba9-4b37-85f4-ecead38d1d9a">
+				<Properties>
+					<Name>Окр10</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>10</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление 10 старших единиц валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="66676434-7351-455e-861c-d3ecbff59c4c">
+				<Properties>
+					<Name>Окр50</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>50</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление 50 старших единиц валюты</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1e7002d0-2542-426a-ab5f-c0d2d3e1ee8c">
+				<Properties>
+					<Name>Окр100</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>100</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Округление 100 старших единиц валюты</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

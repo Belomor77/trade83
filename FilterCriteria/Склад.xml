@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<FilterCriterion uuid="a42da67e-65a2-476b-a1e8-9ff2ff539f75">
+		<InternalInfo>
+			<xr:GeneratedType name="FilterCriterionManager.Склад" category="Manager">
+				<xr:TypeId>48a0e2fc-e3b1-4f94-aae6-4383a6243200</xr:TypeId>
+				<xr:ValueId>476fa153-205e-4225-a111-53127cab1cc3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="FilterCriterionList.Склад" category="List">
+				<xr:TypeId>406ab1cd-307c-492c-8bf5-498d275814e1</xr:TypeId>
+				<xr:ValueId>2b3275ff-e45d-4306-80ac-4f24819866b4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Склад</Name>
+			<Synonym/>
+			<Comment/>
+			<Type>
+				<v8:Type>cfg:CatalogRef.Склады</v8:Type>
+			</Type>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаявкаПокупателя.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ИнвентаризацияТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КомплектацияТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КомплектацияТМЦ.Attribute.СкладПолучатель</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВводОстатковТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратОтПокупателя.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратПоставщику.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОприходованиеТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтчетККМ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПеремещениеТМЦ.Attribute.СкладПолучатель</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПереоценкаРозница.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦИмпорт.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СписаниеТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаАвансОтчетаТМЦ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияРозница.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СнятиеРезерва.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦРозница.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЧекККМ.Attribute.Склад</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияПрочее.Attribute.Склад</xr:Item>
+			</Content>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects/>
+	</FilterCriterion>
+</MetaDataObject>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="fe2a01e7-2847-47d6-9445-ed88a3147c0f">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.МетодыУчетаРозницы" category="Ref">
+				<xr:TypeId>05cc6ea9-39aa-4a67-b310-e457a911ae99</xr:TypeId>
+				<xr:ValueId>c188ddaa-b523-48da-9563-69984268fbb6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.МетодыУчетаРозницы" category="Manager">
+				<xr:TypeId>d1000a4a-f3a6-4e70-8218-deb3eebff895</xr:TypeId>
+				<xr:ValueId>7c0c5f36-895c-4ad2-a565-0030259a154e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.МетодыУчетаРозницы" category="List">
+				<xr:TypeId>52c3e8d4-f69e-43b8-afa0-29d2b87e9e2e</xr:TypeId>
+				<xr:ValueId>2093276c-3e47-4270-976e-8407cad43995</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>МетодыУчетаРозницы</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Методы учета розницы</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="315e3892-a97d-405a-828e-c8aaed60cc7c">
+				<Properties>
+					<Name>ПоПродажнымЦенам</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>По продажным ценам</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>с использованием 42-го счета</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="5ae99a20-b325-4ef8-a2f2-541d6ad6238f">
+				<Properties>
+					<Name>ПоПокупнымЦенам</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>По покупным ценам</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>как в опте</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

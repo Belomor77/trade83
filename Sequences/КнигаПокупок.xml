@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Sequence uuid="592a0ecc-60a5-4fd0-916b-80b6230442b1">
+		<InternalInfo>
+			<xr:GeneratedType name="SequenceRecord.КнигаПокупок" category="Record">
+				<xr:TypeId>2151cc3b-9ec3-481f-a20a-51b87ee8aa80</xr:TypeId>
+				<xr:ValueId>00c84327-33c6-4032-868a-c08e1a5ce3a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="SequenceManager.КнигаПокупок" category="Manager">
+				<xr:TypeId>8e2a64f0-ea09-4abc-a6b5-5e9b9cf05887</xr:TypeId>
+				<xr:ValueId>6e5f4fc1-8453-4137-b6bf-011ff1dc7f0f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="SequenceRecordSet.КнигаПокупок" category="RecordSet">
+				<xr:TypeId>2e028635-7724-4ed7-96e1-762dbb8bbe7c</xr:TypeId>
+				<xr:ValueId>8c8ad3a5-f297-459d-80cc-4c5b483e8d42</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КнигаПокупок</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Книга покупок</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<MoveBoundaryOnPosting>Move</MoveBoundaryOnPosting>
+			<Documents>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КнигаПокупок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Сторно</xr:Item>
+			</Documents>
+			<RegisterRecords>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.КнигаПокупок</xr:Item>
+			</RegisterRecords>
+			<DataLockControlMode>Automatic</DataLockControlMode>
+		</Properties>
+		<ChildObjects/>
+	</Sequence>
+</MetaDataObject>

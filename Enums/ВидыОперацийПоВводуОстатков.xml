@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="88789190-6335-4b1c-8a00-49b5b6f284a7">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыОперацийПоВводуОстатков" category="Ref">
+				<xr:TypeId>f69ad30d-94a2-498e-9db3-828008698a99</xr:TypeId>
+				<xr:ValueId>5dd38f62-54e9-497d-9b56-a530c83d5f12</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыОперацийПоВводуОстатков" category="Manager">
+				<xr:TypeId>a8c40655-827e-4e89-945b-182c05815b7f</xr:TypeId>
+				<xr:ValueId>89429d69-a63a-4795-ac11-6d5721586aa8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыОперацийПоВводуОстатков" category="List">
+				<xr:TypeId>a8e0c97f-36ed-416f-b8a3-99875610133e</xr:TypeId>
+				<xr:ValueId>51991a63-e86b-467b-8a60-9f26dfa0092b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыОперацийПоВводуОстатков</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Виды операций по вводу остатков</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="7801e529-a002-4131-8b90-afb74a2fea13">
+				<Properties>
+					<Name>ОстаткиПоКассам</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков по кассам</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="48779330-1eff-44f5-b34d-4baf7d6b9c38">
+				<Properties>
+					<Name>ОстаткиПоБанкСчетам</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков по банковским счетам</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a887239a-ea94-442e-8515-0616785ea076">
+				<Properties>
+					<Name>ОстаткиПоПодотчЛицам</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков по подотчетникам</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="11f43423-3938-4810-848b-ec175879da29">
+				<Properties>
+					<Name>ОстаткиДолгаПоставщику</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков - долг фирмы поставщику</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b6d4944c-c3df-4dd4-a81b-93ee6131866b">
+				<Properties>
+					<Name>ОстаткиДолгаПоставщикаНам</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков - долг поставщика фирме</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a836ddaa-09f4-4424-b767-bce472ed4211">
+				<Properties>
+					<Name>ОстаткиДолгаПокупателю</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков - долг фирмы покупателю</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8a07a0a8-0337-4f5b-8106-33e327913bae">
+				<Properties>
+					<Name>ОстаткиДолгаПокупателяНам</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков - долг покупателя фирме</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="42542d36-9e7b-487e-89b1-b46af0c46a7b">
+				<Properties>
+					<Name>ОстаткиТМЦ</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков ТМЦ на складе</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="ef6793ea-17df-4845-891d-12ab196294e9">
+				<Properties>
+					<Name>ОстаткиПереданныхТМЦ</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков ТМЦ переданных</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="cabbbbd5-1122-4520-afba-7cd82f72eca3">
+				<Properties>
+					<Name>ОстаткиРеализованныхТоваров</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод остатков ТМЦ реализованных</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9b6e4282-53fc-42cf-a764-e23f8bae2b84">
+				<Properties>
+					<Name>ОстаткиКнигиПокупок</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки Книги покупок</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Ввод остатков в регистр "Книга покупок"</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b16d2379-2c4e-45c5-bfbf-ff9f55146c60">
+				<Properties>
+					<Name>ОстаткиКнигиПродаж</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки Книги продаж</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Ввод остатков в регистр "Книга продаж"</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="6b07f522-f541-405e-8c4a-4324214272a3">
+				<Properties>
+					<Name>ОстаткиЗаказов</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки заказов</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Ввод остатков по регистру Заказы</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="6398d4da-1802-420f-80d5-083c861fb784">
+				<Properties>
+					<Name>ОстаткиЗаявок</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки заявок</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Ввод остатков в регистр "Заявки"</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a73a61d6-0544-47c1-bc09-7a1f21b5e0ba">
+				<Properties>
+					<Name>ОстаткиЗаказовЗаявок</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки заказов и заявок</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Ввод остатков в регистр "ЗаказыЗаявки"</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e4b7d73c-6fea-4855-bd7d-865e3cc26fb5">
+				<Properties>
+					<Name>ОстаткиРезервов</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки резервов</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Ввод остатков в регистр "РезервыТМЦ"</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="6fe6d617-4f6e-492f-a5cb-f35389f3c0de">
+				<Properties>
+					<Name>ОстаткиТМЦБезПартий</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки ТМЦ на складе без учета партий</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fcceb114-1e0a-415b-ade3-6dc88c7dcf4d">
+				<Properties>
+					<Name>ОстаткиТМЦПартии</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки ТМЦ по партиям</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

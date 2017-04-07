@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="ba562044-30f0-4035-9d18-6af49d5eb621">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыЛицензийНаПродажуАлкоголя" category="Ref">
+				<xr:TypeId>97ede339-8a6e-488f-b3f1-cc5cfa675d72</xr:TypeId>
+				<xr:ValueId>13035413-2d9a-46e6-aaac-32b4031bc360</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыЛицензийНаПродажуАлкоголя" category="Manager">
+				<xr:TypeId>989143e0-460b-4981-ab8f-a650453aeee9</xr:TypeId>
+				<xr:ValueId>4268a9ed-6284-4db1-9bfa-5be97c540f91</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыЛицензийНаПродажуАлкоголя" category="List">
+				<xr:TypeId>8aa144dc-38b6-407e-84c6-4533df4436fb</xr:TypeId>
+				<xr:ValueId>5842a60f-6d70-46ea-8ea6-f8c46e6dd886</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыЛицензийНаПродажуАлкоголя</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Виды лицензий на продажу алкоголя</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>Виды лицензий на продажу алкоголя</Comment>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="18ee6e6c-9c7b-4871-8b90-db95ce4c69c6">
+				<Properties>
+					<Name>Пиво</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пиво или пивной напиток</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Пиво или пивной напиток</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fedd1191-aadd-4390-9434-8eaffaf9c112">
+				<Properties>
+					<Name>АлкогольнаяПродукция</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Алкогольная продукция</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Алкогольная продукция</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8ce32b19-7e26-4b70-9e0c-2f0a57c4af69">
+				<Properties>
+					<Name>СпиртосодержащаяПищеваяПродукция</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Спиртосодержащая пищевая продукция</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Спиртосодержащая пищевая продукция</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="ab6903c5-11d4-42d9-80e8-b540ed64fbf6">
+				<Properties>
+					<Name>СпиртосодержащаяНеПищеваяПродукция</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Спиртосодержащая не пищевая продукция</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Спиртосодержащая не пищевая продукция</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

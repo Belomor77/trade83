@@ -1,0 +1,4047 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<languageSettings>
+		<currentLanguage>ru</currentLanguage>
+		<defaultLanguage/>
+		<languageInfo>
+			<id>#</id>
+			<code>Язык по умолчанию</code>
+			<description>Язык по умолчанию</description>
+		</languageInfo>
+		<languageInfo>
+			<id>ru</id>
+			<code>Русский</code>
+			<description>Русский</description>
+		</languageInfo>
+	</languageSettings>
+	<columns>
+		<size>30</size>
+		<columnsItem>
+			<index>0</index>
+			<column>
+				<formatIndex>1</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>1</index>
+			<column>
+				<formatIndex>2</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>2</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>3</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>4</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>5</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>6</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>7</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>8</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>9</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>10</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>11</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>12</index>
+			<column>
+				<formatIndex>3</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>13</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>14</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>15</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>16</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>17</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>18</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>19</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>20</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>21</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>22</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>23</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>24</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>25</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>26</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>27</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>28</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+		<columnsItem>
+			<index>29</index>
+			<column>
+				<formatIndex>4</formatIndex>
+			</column>
+		</columnsItem>
+	</columns>
+	<rowsItem>
+		<index>0</index>
+		<row>
+			<formatIndex>5</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>1</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>2</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>С помощью Интернет-поддержки Вы можете высказать свое мнение об экономических программах фирмы "1С", задать вопрос, обновить курсы валют, узнать последние новости.
+Для этого не нужно запускать другие программы, эти функции теперь предоставляет сама система 1С:Предприятие .</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>3</index>
+		<row>
+			<formatIndex>11</formatIndex>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>12</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Посылка мнения на фирму "1С"</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>4</index>
+		<row>
+			<formatIndex>13</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Нам будет интересно узнать Ваше мнение об использовании экономических программ фирмы "1С". Мнения анализируются при доработке и создании новых версий программ. Ваше мнение посылается на специальный почтовый адрес opinion@1c.ru.
+И даже если Ваши пожелания кажутся Вам несущественными, они важны для нас. </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>5</index>
+		<row>
+			<formatIndex>13</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Фирма "1С" производит учет и исследование присланных Вами мнений. Учтите, что обычно ответ на письмо-мнение не высылается.
+Если Вы хотите задать вопрос, сформулируйте его в разделе "Обращение в отдел технической поддержки фирмы "1С".</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>6</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>16</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для быстрого перехода к написанию мнений используйте 
+в дальнейшем ячейку "Мнение" верхней строки.</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"ФВО_PUOpin.ert"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>7</index>
+		<row>
+			<formatIndex>17</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>8</index>
+		<row>
+			<formatIndex>11</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Обращение в отдел технической поддержки фирмы "1С"</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>9</index>
+		<row>
+			<formatIndex>19</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Вы можете выслать в отдел технической поддержки фирмы "1С" (hline@1c.ru) описание возникшей проблемы и задать вопросы, которые специалисты фирмы обязательно рассмотрят в ближайшее время и Вы получите письменный ответ.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>10</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>20</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для быстрого перехода к написанию вопросов используйте 
+в дальнейшем ячейку "Обращение" верхней строки.</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"ВОТ_ИПППодготовкаОбращения"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>11</index>
+		<row>
+			<formatIndex>21</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>12</index>
+		<row>
+			<formatIndex>22</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>23</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Прием ответов</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>13</index>
+		<row>
+			<formatIndex>24</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Просмотр ответов на Ваши вопросы производится в этом разделе. 
+В список попадают только ответы отдела технической поддержки. Вы можете не только увидеть их наличие, но и прочитать каждый ответ.
+Учтите, что программа предоставляет возможность только просмотра ответов. Для их обработки (прием, чтение, просмотр присланных файлов, написание ответов и проч.) следует воспользоваться имеющейся у Вас программой электронной почты.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>14</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>20</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для быстрого перехода к просмотру писем в дальнейшем
+используйте ячейку "Ответы" верхней строки.</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"Таб_Получить"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>15</index>
+		<row>
+			<formatIndex>21</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>16</index>
+		<row>
+			<formatIndex>25</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сведения о программе и пользователе 
+(для отправки мнений и обращений)</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>17</index>
+		<row>
+			<formatIndex>26</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Специалистам отдела технической поддержки проще понять проблему, если она описывается наиболее точно. Это стало возможным благодаря появлению в 1С:Предприятии средств почтовой службы. Программа сама определит большинство необходимых параметров, покажет их Вам, а Вы можете их исправить и дополнить. Значение параметров будет передано в тексте письма. Это позволит избежать лишней переписки для уточнения ситуации.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>18</index>
+		<row>
+			<formatIndex>27</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отправить мнение или обращение можно, только предварительно заполнив сведения о программном обеспечении и пользователе.
+Сведения обычно заполняются один раз и затем используются программой при очередной отправке.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>19</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>28</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ввод сведений можно выполнить здесь.
+При написании обращения с вопросом или мнением Вы всегда 
+можете исправить и дополнить эти сведения.</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"ВОТ_ИППСистемнаяИнформация"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>20</index>
+		<row>
+			<formatIndex>21</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>21</index>
+		<row>
+			<formatIndex>29</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>22</index>
+		<row>
+			<formatIndex>9</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Фирма "1С" проводит опрос пользователей программы "1С:Бухгалтерия 7.7" в целях изучения проблем, возникающих как на стадии начального освоения программы, так и в процессе ее эксплуатации. Анализ данных опроса позволит усовершенствовать программу и документацию, а выпуск новых методологических материалов сократит период освоения программы, сделает работу с ней более понятной.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>23</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>30</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"ВОП_"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>24</index>
+		<row>
+			<formatIndex>17</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>25</index>
+		<row>
+			<formatIndex>31</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Получение обновлений  </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>26</index>
+		<row>
+			<formatIndex>32</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>В случае изменения законодательства, исправления найденных ошибок, развития сервисных возможностей программы и других изменениях фирма "1С" выпускает новые версии конфигураций и релизы конфигураций, регламентированные отчеты и новые формы платежных документов.
+Эти обновления можно получить с помощью средств Интернет-поддержки.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>27</index>
+		<row>
+			<formatIndex>9</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Также с помощью средств Интернет-поддержки получают курсы валют, справочник БИК РФ и сведения о появлении новостей.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>28</index>
+		<row>
+			<formatIndex>33</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>20</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для быстрого перехода к разделу обновления  используйте в дальнейшем ячейку "Обновления" верхней строки. Для получения нужного вида обновления выберите соответствующую строку.</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"Таб_Обновления"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>29</index>
+		<row>
+			<formatIndex>17</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>30</index>
+		<row>
+			<formatIndex>11</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>1c.ru</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>31</index>
+		<row>
+			<formatIndex>34</formatIndex>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Вы можете узнать последние новости фирмы "1С", получить справочную и другую информацию, 
+получить список партнеров и узнать, как стать партнером фирмы "1С", получить список сертифицированных специалистов и узнать, как им стать, узнать о последних разработках фирмы и посетить другие страницы сайта.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>32</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>20</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для быстрого перехода к выбору Web-страницы используйте 
+в дальнейшем ячейку "www.1c.ru" верхней строки.</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"Таб_Сайт"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>33</index>
+		<row>
+			<formatIndex>35</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<i>11</i>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>34</index>
+		<row>
+			<formatIndex>37</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<i>12</i>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>35</index>
+		<row>
+			<formatIndex>37</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<i>13</i>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>36</index>
+		<row>
+			<formatIndex>37</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<i>14</i>
+				<c>
+					<f>38</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>38</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>38</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>37</index>
+		<row>
+			<formatIndex>37</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<i>15</i>
+				<c>
+					<f>36</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>39</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>40</index>
+		<row>
+			<formatIndex>29</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>41</index>
+		<row>
+			<formatIndex>9</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Фирма "1С" проводит опрос пользователей программы "1С:Торговля+Склад 7.7" в целях изучения проблем, возникающих как на стадии начального освоения программы, так и в процессе ее эксплуатации. Анализ данных опроса позволит усовершенствовать программу и документацию, а выпуск новых методологических материалов сократит период освоения программы, сделает работу с ней более понятной.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>42</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>30</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"ВОП_"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>43</index>
+		<row>
+			<formatIndex>17</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>45</index>
+		<row>
+			<formatIndex>29</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>46</index>
+		<row>
+			<formatIndex>9</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Фирма "1С" проводит опрос пользователей программы "1С:Деньги 7.7" в целях изучения проблем, возникающих как на стадии начального освоения программы, так и в процессе ее эксплуатации. Анализ данных опроса позволит усовершенствовать программу и документацию, а выпуск новых методологических материалов сократит период освоения программы, сделает работу с ней более понятной.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>47</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>30</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"ВОП_"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>48</index>
+		<row>
+			<formatIndex>17</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>50</index>
+		<row>
+			<formatIndex>31</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Получение обновлений  </v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>51</index>
+		<row>
+			<formatIndex>40</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>В случае изменения законодательства, исправления найденных ошибок, развития сервисных возможностей программы и других изменениях фирма "1С" выпускает новые версии и релизы конфигураций, новые формы платежных документов, появление новостей Интернет ресурса для бухгалтеров BUH.1C.RU.
+Эти обновления можно получить с помощью средств Интернет-поддержки.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>52</index>
+		<row>
+			<formatIndex>33</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>20</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Для быстрого перехода к разделу обновления  используйте в дальнейшем ячейку "Обновления" верхней строки. Для получения нужного вида обновления выберите соответствующую строку.</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"Таб_Обновления"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>53</index>
+		<row>
+			<formatIndex>17</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>55</index>
+		<row>
+			<formatIndex>7</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>56</index>
+		<row>
+			<formatIndex>8</formatIndex>
+			<c>
+				<c>
+					<f>9</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>6</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>С помощью Интернет-поддержки Вы можете высказать свое мнение об экономических программах фирмы "1С", задать вопрос, узнать последние новости.
+Для этого не нужно запускать другие программы, эти функции теперь предоставляет сама система 1С:Предприятие .</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>58</index>
+		<row>
+			<formatIndex>29</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>18</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>59</index>
+		<row>
+			<formatIndex>9</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>10</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Фирма "1С" проводит опрос пользователей программы "1С:Производство+Услуги+Бухгалтерия" в целях изучения проблем, возникающих как на стадии начального освоения программы, так и в процессе ее эксплуатации. Анализ данных опроса позволит усовершенствовать программу и документацию, а выпуск новых методологических материалов сократит период освоения программы, сделает работу с ней более понятной.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>60</index>
+		<row>
+			<formatIndex>14</formatIndex>
+			<c>
+				<i>2</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>30</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Опрос пользователей</v8:content>
+						</v8:item>
+					</tl>
+					<detailParameter>"ВОП_"#</detailParameter>
+				</c>
+			</c>
+			<c>
+				<i>27</i>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>15</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>61</index>
+		<row>
+			<formatIndex>17</formatIndex>
+			<empty>true</empty>
+		</row>
+	</rowsItem>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>1</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"Таб_Сайт"</detailParameter>
+		<beginRow>32</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>33</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>30</endColumn>
+		<endColumnOffset>0</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>1</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>2</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"ФВО_PUOpin.ert"</detailParameter>
+		<beginRow>6</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>7</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>30</endColumn>
+		<endColumnOffset>0</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>2</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>3</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"ВОТ_ИПППодготовкаОбращения"</detailParameter>
+		<beginRow>10</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>11</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>30</endColumn>
+		<endColumnOffset>0</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>3</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>4</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"Таб_Получить"</detailParameter>
+		<beginRow>14</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>15</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>30</endColumn>
+		<endColumnOffset>0</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>4</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>5</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"ВОТ_ИППСистемнаяИнформация"</detailParameter>
+		<beginRow>19</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>20</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>30</endColumn>
+		<endColumnOffset>0</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>5</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>6</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"Таб_Обновления"</detailParameter>
+		<beginRow>28</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>28</endRow>
+		<endRowOffset>128</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>30</endColumn>
+		<endColumnOffset>0</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>6</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Object</drawingType>
+		<id>7</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"ВОП_"</detailParameter>
+		<beginRow>23</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>24</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>29</endColumn>
+		<endColumnOffset>48</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<object xsi:type="xs:base64Binary">FfGVHmJPBtQRlAAAgEjaEfnElUA5lBHeNs8RlT4AwKhAKenBocGbACrQzxHgobEa
+4QAAAAAAAAAAAAAAAAAAAAA+AAMA/v8JAAYAAAAAAAAAAAAAAAEAAAABAAAAAAAA
+AAAQAAACAAAAAQAAAP7///8AAAAAAAAAAP//////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+//////////////////////////////////3///8KAAAA/v///wQAAAAFAAAABgAA
+AAcAAAAIAAAACQAAAP7////+////DAAAAA0AAAAOAAAADwAAABAAAAARAAAAEgAA
+ABMAAAD+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////UgBvAG8AdAAgAEUAbgB0AHIAeQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYABQD//////////wIAAABAOZQR3jbP
+EZU+AMCoQCnpAAAAAAAAAAAAAAAAgObRExSt0gEDAAAAgAwAAAAAAAABAE8AbABl
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAACgACAf///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAEAQwBvAG0AcABPAGIAagAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAIBAQAA
+AAQAAAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+AHUAAAAAAAAAQwBPAE4AVABFAE4AVABTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAgD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAcAsAAAAAAAD+////AgAA
+AP7///8EAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAADgAA
+AA8AAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAA
+ABsAAAAcAAAAHQAAAB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAA
+ACcAAAAoAAAAKQAAACoAAAArAAAALAAAAC0AAAAuAAAALwAAADAAAAD+/////v//
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+/////////////////////////////////wEAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAP7/AwoA
+AP////9AOZQR3jbPEZU+AMCoQCnpIwAAAE1pY3Jvc29mdCBQaG90byBFZGl0b3Ig
+My4wIFBpY3R1cmUADgAAAE1TUGhvdG9FZGl0b3IADAAAAE1TUGhvdG9FZC4zAPQ5
+snEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIANgAnAAAAAADEDgAAYAAAAAR8fEuu
+roXT06Tk5EjtbwDkAQAAFAyBAAQCAACgo/e/AABxABgOgQDkAQAAAAAAAAwAcQAA
+AHEAFAyBAAAAAAAAAAAAEAgAABEIAABw7W8AUKX3vwAAcQBnpfe/AABxAJjtRwAA
+AIIAmA1IAAEAAADe4kYAGQCCAIgAAAABAAAAAQAAABAAAADYDoIAAwAAAIDtRwD/
+u0YAAQAAABAAAACzu0YAEAAAAP////+ADoIAfwFGAP/////YDoIAe8RCAIwPggDI
+CwAAgA6CAAAAAAD/////EAKCAAAA3n1kev//Zyryfb09txb//2cqAAAAAATvbwAA
+AAAQZeL3vwAAABDS4fe/AAAAELjubwAE728A/gAAAMgLAAC47m8Aiwn4vxkEAAAA
+EAAQOCAAEATvbwD+AAAAyAsAAA8AYQQEoQEAAAAAAPjubwBsfmwGlxYAAAMAAAAA
+AGANAX7IBTs2978HAAAAOzb3v8gLAADiE/e/dwEAAOlB978krQEAAAAAACStAQAm
+GPe/AAAAAPoDRgAMRPm/uBn3v85+AAAM8W8AbRj3v59crn4AAAAArn7HXLzuAAAA
+AAYCAAAMfwMAqjwAAJcWAAA3J2cBEAAAAGcqAADWfmR6//9nKuB+RxK3Fv//ZyoS
+f6Y9aFtIAAAAAAAMABAAAAAAAAAA/n5kev//x1wSf709txb//8dcAAAAAMdcfwEo
+8G8AAAAAEGXi978AAAAQ0uH3vwAAABDc728AKPBvAP4AAAD/////3O9vAIsJ+L8Z
+BAAAABAAEDggABAo8G8A/gAAAP////9yQve/BKEBACStAQAc8G8AUO9vAAMArn+w
+728AXL0MAIxBUAAcAQAAoKP3vwAATQCoQlAAXL0MAAAAAAAMAE0AAABNAIxBUABA
+AAAAAAAAANAFAAAFBQAA2O9vAFCl978AAE0AZ6X3vwAATQBBAAAAAAAAAAAAAAAA
+AAAAAAAAAMTARAC+QVAAOKROAMJBUABm8G8A/////5BBUAAuwUQAvkFQAAIAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlQUIBAMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAgIDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwEAAgIBAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAQEBAQEBAQEB
+AQEDAwMDAQACAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMDAwMDAwMBAwADAwEAAgMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMDAwMDAwECAwADAQECAwMDAwMDAQEDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMCAQMDAwADAAIDAwMDAwMDAQEDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAQMDAwMBAwMDAwADAQEDAwMDAwMD
+AQEDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAAEDAwEBAwMDAwADAgAD
+AwMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAQABAwACAwMD
+AwADAwACAwMDAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAwEA
+AQADAwMDAwADAwECAwMDAwIBAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMCAAEDAwMDAwADAQIDAwMCAQIDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQECAgICAgICAgICAgABAQMDAwIBAgMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQAAAAAAAAAAAAAAAAABAwMDAgABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAgEBAQIDAwMDAwMDAwMDAQEDAwMCAQEAAAEC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIBAQIDAwMDAwMDAwMDAwMBAQMDAwIB
+AgMCAAAAAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEB
+AwMDAgECAwMDAQAAAAEDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAQABAgMD
+AwMCAAEDAwMCAQIDAwMDAgAAAAABAwMDAwMDAwMDAwMDAwMDAwMDAwIBAwMDAwMB
+AQIBAAABAQEAAgMDAwIBAQMDAwMDAgAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwEC
+AwMDAwEBAwMDAwIBAQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwMDAwMD
+AwMDAwADAwMDAQEDAwMDAwMDAwMDAwMDAQAAAQMDAwIBAAAAAAAAAAIDAwMDAwMD
+AwMDAwMDAwMDAwEDAwMBAQMDAwMDAwMDAwMDAwMBAAAAAQICAQAAAAAAAAAAAAED
+AwMDAwMDAwMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAA
+AAAAAAEDAwMDAwMDAwMDAwMDAwMDAwECAAEDAwMDAwMDAwMDAwMDAQAAAAAAAAAA
+AAAAAAAAAAAAAAMDAwMDAwMDAwMDAwMDAwMDAwIAAQMDAwMDAwMDAwMDAwMBAAAA
+AAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQABAwMD
+AwMDAwMDAQAAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwIAAAIDAwMDAwMBAAAAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMCAQAAAQAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAAAAAAAAAAAAAAAAEBAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAAAAAAAAAAAAAAAAAAD/////AAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAgBPAGwAZQBQAHIAZQBzADAAMAAwAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAgEDAAAABQAAAP////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAYBEAAAAAAABDAE8ATgBU
+AEUATgBUAFMAVgAzADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAGAACAP///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAADEAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////
+////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AwAA
+AAQAAAABAAAA/////wIAAAAAAAAAlQUAAAgEAAAmEQAAAQAJAAADkwgAAAEAZgYA
+AAAAAwAAAB4ABQAAAAsCAAAAAAUAAAAMAiYANQAFAgAA9wAAAwABBHx8AEuurgCF
+09MApOTkAEjtbwAA5AEAAAAUAAyBAAAEAgAAAKCjAPe/AAAAcQAAGA6BAADkAQAA
+AAAAAAAAAAwAcQAAAAAAcQAUAAyBAAAAAAAAAAAAAAAAEAAIAAAAEQgAAABw7QBv
+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
+AAGtJADwHAAAUABvAABv7wCuAAMA77B/AFwAbwAADL0AUEGMAAEcAACgAAAAv/ej
+AE0AAABCqAAAXABQAAAMvQAAAAAAAAwAAAAATQAATQAAUEGMAABAAAAAAAAAAAAA
+AAAF0AAFBQAA2AAAAABv7wD3pVAAAAC/AGcATQC/96UATQAAAABBAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAABEwMQAQb4AADgAUAAATqQAUEHCAPBmAAD/AG8A////
+AFBBkADBLgAAvgBEAABQQQADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwIBAAAAAAAAAAAAAAAAAQEDAwMDAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAgEAAAEAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgAAAgMDAwMDAwEAAAAAAAAAAAAAAAAAAAAA
+AAABAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwEAAQMDAwMDAwMDAwEAAAAAAAAA
+AAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwAAAwMDAwMDAwMDAgABAwMD
+AwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMBAgABAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMA
+AAMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAED
+AwMDAwMDAwAAAwMDAwMDAwMDAQMDAwEBAwMDAwMDAwMDAwMDAwEAAAABAgIBAAAA
+AAAAAAAAAQMDAwMDAwMDAAADAwMDAwMDAwMAAwMDAwEBAwMDAwMDAwMDAwMDAwEA
+AAEDAwMCAQAAAAAAAAACAwMDAwMDAwMAAAMDAwMDAwMDAwECAwMDAwEBAwMDAwIB
+AQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwAAAwMDAwMDAwMDAgEDAwMD
+AwEBAgEAAAEBAQACAwMDAgEBAwMDAwMCAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAQEDAwMDAwEAAQIDAwMDAgABAwMDAgECAwMDAwIAAAAAAQMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEBAwMDAgECAwMDAQAAAAEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgEBAgMDAwMDAwMDAwMDAwEBAwMDAgECAwIA
+AAACAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwIBAQECAwMDAwMDAwMDAwEB
+AwMDAgEBAAABAgMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQAAAAAA
+AAAAAAAAAAABAwMDAgABAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQICAgICAgICAgICAAEBAwMDAgECAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAgABAwMDAwMAAwECAwMDAgECAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAQABAAMDAwMDAAMDAQIDAwMD
+AgECAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwEAAQMAAgMDAwMA
+AwMAAgMDAwMDAQEDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQEBAAED
+AwEBAwMDAwADAgADAwMDAwMDAAIDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQIBAwMDAwEDAwMDAAMBAQMDAwMDAwMBAQMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAwMDAgEDAwMAAwACAwMDAwMDAwEBAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAwMDAQIDAAMBAQIDAwMD
+AwMBAQMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwMDAwMDAwMDAQMA
+AwMBAAIDAwMDAwACAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQEBAQEBAQEBAQEBAQMDAwMBAAIDAwEBAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAAICAQMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQACAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMC
+AgMDAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAEAAAAJwH/
+/wMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChgYHBgeEg
+IA==</object>
+	</drawing>
+	<drawing>
+		<drawingType>Object</drawingType>
+		<id>8</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"ВОП_"</detailParameter>
+		<beginRow>42</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>43</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>29</endColumn>
+		<endColumnOffset>48</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<object xsi:type="xs:base64Binary">FfGVHmJPBtQRlAAAgEjaEfnElUA5lBHeNs8RlT4AwKhAKenBocGbACrQzxHgobEa
+4QAAAAAAAAAAAAAAAAAAAAA+AAMA/v8JAAYAAAAAAAAAAAAAAAEAAAABAAAAAAAA
+AAAQAAACAAAAAQAAAP7///8AAAAAAAAAAP//////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+//////////////////////////////////3///8KAAAA/v///wQAAAAFAAAABgAA
+AAcAAAAIAAAACQAAAP7////+////DAAAAA0AAAAOAAAADwAAABAAAAARAAAAEgAA
+ABMAAAD+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////UgBvAG8AdAAgAEUAbgB0AHIAeQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYABQD//////////wIAAABAOZQR3jbP
+EZU+AMCoQCnpAAAAAAAAAAAAAAAA0KnSExSt0gEDAAAAgAwAAAAAAAABAE8AbABl
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAACgACAf///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAEAQwBvAG0AcABPAGIAagAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAIBAQAA
+AAQAAAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+AHUAAAAAAAAAQwBPAE4AVABFAE4AVABTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAgD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAcAsAAAAAAAD+////AgAA
+AP7///8EAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAADgAA
+AA8AAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAA
+ABsAAAAcAAAAHQAAAB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAA
+ACcAAAAoAAAAKQAAACoAAAArAAAALAAAAC0AAAAuAAAALwAAADAAAAD+/////v//
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+/////////////////////////////////wEAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAP7/AwoA
+AP////9AOZQR3jbPEZU+AMCoQCnpIwAAAE1pY3Jvc29mdCBQaG90byBFZGl0b3Ig
+My4wIFBpY3R1cmUADgAAAE1TUGhvdG9FZGl0b3IADAAAAE1TUGhvdG9FZC4zAPQ5
+snEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIANgAnAAAAAADEDgAAYAAAAAR8fEuu
+roXT06Tk5EjtbwDkAQAAFAyBAAQCAACgo/e/AABxABgOgQDkAQAAAAAAAAwAcQAA
+AHEAFAyBAAAAAAAAAAAAEAgAABEIAABw7W8AUKX3vwAAcQBnpfe/AABxAJjtRwAA
+AIIAmA1IAAEAAADe4kYAGQCCAIgAAAABAAAAAQAAABAAAADYDoIAAwAAAIDtRwD/
+u0YAAQAAABAAAACzu0YAEAAAAP////+ADoIAfwFGAP/////YDoIAe8RCAIwPggDI
+CwAAgA6CAAAAAAD/////EAKCAAAA3n1kev//Zyryfb09txb//2cqAAAAAATvbwAA
+AAAQZeL3vwAAABDS4fe/AAAAELjubwAE728A/gAAAMgLAAC47m8Aiwn4vxkEAAAA
+EAAQOCAAEATvbwD+AAAAyAsAAA8AYQQEoQEAAAAAAPjubwBsfmwGlxYAAAMAAAAA
+AGANAX7IBTs2978HAAAAOzb3v8gLAADiE/e/dwEAAOlB978krQEAAAAAACStAQAm
+GPe/AAAAAPoDRgAMRPm/uBn3v85+AAAM8W8AbRj3v59crn4AAAAArn7HXLzuAAAA
+AAYCAAAMfwMAqjwAAJcWAAA3J2cBEAAAAGcqAADWfmR6//9nKuB+RxK3Fv//ZyoS
+f6Y9aFtIAAAAAAAMABAAAAAAAAAA/n5kev//x1wSf709txb//8dcAAAAAMdcfwEo
+8G8AAAAAEGXi978AAAAQ0uH3vwAAABDc728AKPBvAP4AAAD/////3O9vAIsJ+L8Z
+BAAAABAAEDggABAo8G8A/gAAAP////9yQve/BKEBACStAQAc8G8AUO9vAAMArn+w
+728AXL0MAIxBUAAcAQAAoKP3vwAATQCoQlAAXL0MAAAAAAAMAE0AAABNAIxBUABA
+AAAAAAAAANAFAAAFBQAA2O9vAFCl978AAE0AZ6X3vwAATQBBAAAAAAAAAAAAAAAA
+AAAAAAAAAMTARAC+QVAAOKROAMJBUABm8G8A/////5BBUAAuwUQAvkFQAAIAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlQUIBAMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAgIDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwEAAgIBAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAQEBAQEBAQEB
+AQEDAwMDAQACAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMDAwMDAwMBAwADAwEAAgMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMDAwMDAwECAwADAQECAwMDAwMDAQEDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMCAQMDAwADAAIDAwMDAwMDAQEDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAQMDAwMBAwMDAwADAQEDAwMDAwMD
+AQEDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAAEDAwEBAwMDAwADAgAD
+AwMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAQABAwACAwMD
+AwADAwACAwMDAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAwEA
+AQADAwMDAwADAwECAwMDAwIBAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMCAAEDAwMDAwADAQIDAwMCAQIDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQECAgICAgICAgICAgABAQMDAwIBAgMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQAAAAAAAAAAAAAAAAABAwMDAgABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAgEBAQIDAwMDAwMDAwMDAQEDAwMCAQEAAAEC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIBAQIDAwMDAwMDAwMDAwMBAQMDAwIB
+AgMCAAAAAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEB
+AwMDAgECAwMDAQAAAAEDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAQABAgMD
+AwMCAAEDAwMCAQIDAwMDAgAAAAABAwMDAwMDAwMDAwMDAwMDAwMDAwIBAwMDAwMB
+AQIBAAABAQEAAgMDAwIBAQMDAwMDAgAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwEC
+AwMDAwEBAwMDAwIBAQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwMDAwMD
+AwMDAwADAwMDAQEDAwMDAwMDAwMDAwMDAQAAAQMDAwIBAAAAAAAAAAIDAwMDAwMD
+AwMDAwMDAwMDAwEDAwMBAQMDAwMDAwMDAwMDAwMBAAAAAQICAQAAAAAAAAAAAAED
+AwMDAwMDAwMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAA
+AAAAAAEDAwMDAwMDAwMDAwMDAwMDAwECAAEDAwMDAwMDAwMDAwMDAQAAAAAAAAAA
+AAAAAAAAAAAAAAMDAwMDAwMDAwMDAwMDAwMDAwIAAQMDAwMDAwMDAwMDAwMBAAAA
+AAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQABAwMD
+AwMDAwMDAQAAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwIAAAIDAwMDAwMBAAAAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMCAQAAAQAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAAAAAAAAAAAAAAAAEBAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAAAAAAAAAAAAAAAAAAD/////AAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAgBPAGwAZQBQAHIAZQBzADAAMAAwAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAgEDAAAABQAAAP////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAYBEAAAAAAABDAE8ATgBU
+AEUATgBUAFMAVgAzADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAGAACAP///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAADEAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////
+////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AwAA
+AAQAAAABAAAA/////wIAAAAAAAAAlQUAAAgEAAAmEQAAAQAJAAADkwgAAAEAZgYA
+AAAAAwAAAB4ABQAAAAsCAAAAAAUAAAAMAiYANQAFAgAA9wAAAwABBHx8AEuurgCF
+09MApOTkAEjtbwAA5AEAAAAUAAyBAAAEAgAAAKCjAPe/AAAAcQAAGA6BAADkAQAA
+AAAAAAAAAAwAcQAAAAAAcQAUAAyBAAAAAAAAAAAAAAAAEAAIAAAAEQgAAABw7QBv
+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
+AAGtJADwHAAAUABvAABv7wCuAAMA77B/AFwAbwAADL0AUEGMAAEcAACgAAAAv/ej
+AE0AAABCqAAAXABQAAAMvQAAAAAAAAwAAAAATQAATQAAUEGMAABAAAAAAAAAAAAA
+AAAF0AAFBQAA2AAAAABv7wD3pVAAAAC/AGcATQC/96UATQAAAABBAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAABEwMQAQb4AADgAUAAATqQAUEHCAPBmAAD/AG8A////
+AFBBkADBLgAAvgBEAABQQQADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwIBAAAAAAAAAAAAAAAAAQEDAwMDAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAgEAAAEAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgAAAgMDAwMDAwEAAAAAAAAAAAAAAAAAAAAA
+AAABAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwEAAQMDAwMDAwMDAwEAAAAAAAAA
+AAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwAAAwMDAwMDAwMDAgABAwMD
+AwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMBAgABAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMA
+AAMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAED
+AwMDAwMDAwAAAwMDAwMDAwMDAQMDAwEBAwMDAwMDAwMDAwMDAwEAAAABAgIBAAAA
+AAAAAAAAAQMDAwMDAwMDAAADAwMDAwMDAwMAAwMDAwEBAwMDAwMDAwMDAwMDAwEA
+AAEDAwMCAQAAAAAAAAACAwMDAwMDAwMAAAMDAwMDAwMDAwECAwMDAwEBAwMDAwIB
+AQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwAAAwMDAwMDAwMDAgEDAwMD
+AwEBAgEAAAEBAQACAwMDAgEBAwMDAwMCAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAQEDAwMDAwEAAQIDAwMDAgABAwMDAgECAwMDAwIAAAAAAQMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEBAwMDAgECAwMDAQAAAAEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgEBAgMDAwMDAwMDAwMDAwEBAwMDAgECAwIA
+AAACAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwIBAQECAwMDAwMDAwMDAwEB
+AwMDAgEBAAABAgMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQAAAAAA
+AAAAAAAAAAABAwMDAgABAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQICAgICAgICAgICAAEBAwMDAgECAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAgABAwMDAwMAAwECAwMDAgECAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAQABAAMDAwMDAAMDAQIDAwMD
+AgECAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwEAAQMAAgMDAwMA
+AwMAAgMDAwMDAQEDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQEBAAED
+AwEBAwMDAwADAgADAwMDAwMDAAIDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQIBAwMDAwEDAwMDAAMBAQMDAwMDAwMBAQMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAwMDAgEDAwMAAwACAwMDAwMDAwEBAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAwMDAQIDAAMBAQIDAwMD
+AwMBAQMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwMDAwMDAwMDAQMA
+AwMBAAIDAwMDAwACAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQEBAQEBAQEBAQEBAQMDAwMBAAIDAwEBAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAAICAQMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQACAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMC
+AgMDAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAEAAAAJwH/
+/wMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChgYHBgeEg
+IA==</object>
+	</drawing>
+	<drawing>
+		<drawingType>Object</drawingType>
+		<id>12</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"ВОП_"</detailParameter>
+		<beginRow>47</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>48</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>29</endColumn>
+		<endColumnOffset>48</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<object xsi:type="xs:base64Binary">FfGVHmJPBtQRlAAAgEjaEfnElUA5lBHeNs8RlT4AwKhAKenBocGbACrQzxHgobEa
+4QAAAAAAAAAAAAAAAAAAAAA+AAMA/v8JAAYAAAAAAAAAAAAAAAEAAAABAAAAAAAA
+AAAQAAACAAAAAQAAAP7///8AAAAAAAAAAP//////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+//////////////////////////////////3///8KAAAA/v///wQAAAAFAAAABgAA
+AAcAAAAIAAAACQAAAP7////+////DAAAAA0AAAAOAAAADwAAABAAAAARAAAAEgAA
+ABMAAAD+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////UgBvAG8AdAAgAEUAbgB0AHIAeQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYABQD//////////wIAAABAOZQR3jbP
+EZU+AMCoQCnpAAAAAAAAAAAAAAAAIG3TExSt0gEDAAAAgAwAAAAAAAABAE8AbABl
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAACgACAf///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAEAQwBvAG0AcABPAGIAagAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAIBAQAA
+AAQAAAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+AHUAAAAAAAAAQwBPAE4AVABFAE4AVABTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAgD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAcAsAAAAAAAD+////AgAA
+AP7///8EAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAADgAA
+AA8AAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAA
+ABsAAAAcAAAAHQAAAB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAA
+ACcAAAAoAAAAKQAAACoAAAArAAAALAAAAC0AAAAuAAAALwAAADAAAAD+/////v//
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+/////////////////////////////////wEAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAP7/AwoA
+AP////9AOZQR3jbPEZU+AMCoQCnpIwAAAE1pY3Jvc29mdCBQaG90byBFZGl0b3Ig
+My4wIFBpY3R1cmUADgAAAE1TUGhvdG9FZGl0b3IADAAAAE1TUGhvdG9FZC4zAPQ5
+snEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIANgAnAAAAAADEDgAAYAAAAAR8fEuu
+roXT06Tk5EjtbwDkAQAAFAyBAAQCAACgo/e/AABxABgOgQDkAQAAAAAAAAwAcQAA
+AHEAFAyBAAAAAAAAAAAAEAgAABEIAABw7W8AUKX3vwAAcQBnpfe/AABxAJjtRwAA
+AIIAmA1IAAEAAADe4kYAGQCCAIgAAAABAAAAAQAAABAAAADYDoIAAwAAAIDtRwD/
+u0YAAQAAABAAAACzu0YAEAAAAP////+ADoIAfwFGAP/////YDoIAe8RCAIwPggDI
+CwAAgA6CAAAAAAD/////EAKCAAAA3n1kev//Zyryfb09txb//2cqAAAAAATvbwAA
+AAAQZeL3vwAAABDS4fe/AAAAELjubwAE728A/gAAAMgLAAC47m8Aiwn4vxkEAAAA
+EAAQOCAAEATvbwD+AAAAyAsAAA8AYQQEoQEAAAAAAPjubwBsfmwGlxYAAAMAAAAA
+AGANAX7IBTs2978HAAAAOzb3v8gLAADiE/e/dwEAAOlB978krQEAAAAAACStAQAm
+GPe/AAAAAPoDRgAMRPm/uBn3v85+AAAM8W8AbRj3v59crn4AAAAArn7HXLzuAAAA
+AAYCAAAMfwMAqjwAAJcWAAA3J2cBEAAAAGcqAADWfmR6//9nKuB+RxK3Fv//ZyoS
+f6Y9aFtIAAAAAAAMABAAAAAAAAAA/n5kev//x1wSf709txb//8dcAAAAAMdcfwEo
+8G8AAAAAEGXi978AAAAQ0uH3vwAAABDc728AKPBvAP4AAAD/////3O9vAIsJ+L8Z
+BAAAABAAEDggABAo8G8A/gAAAP////9yQve/BKEBACStAQAc8G8AUO9vAAMArn+w
+728AXL0MAIxBUAAcAQAAoKP3vwAATQCoQlAAXL0MAAAAAAAMAE0AAABNAIxBUABA
+AAAAAAAAANAFAAAFBQAA2O9vAFCl978AAE0AZ6X3vwAATQBBAAAAAAAAAAAAAAAA
+AAAAAAAAAMTARAC+QVAAOKROAMJBUABm8G8A/////5BBUAAuwUQAvkFQAAIAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlQUIBAMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAgIDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwEAAgIBAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAQEBAQEBAQEB
+AQEDAwMDAQACAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMDAwMDAwMBAwADAwEAAgMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMDAwMDAwECAwADAQECAwMDAwMDAQEDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMCAQMDAwADAAIDAwMDAwMDAQEDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAQMDAwMBAwMDAwADAQEDAwMDAwMD
+AQEDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAAEDAwEBAwMDAwADAgAD
+AwMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAQABAwACAwMD
+AwADAwACAwMDAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAwEA
+AQADAwMDAwADAwECAwMDAwIBAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMCAAEDAwMDAwADAQIDAwMCAQIDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQECAgICAgICAgICAgABAQMDAwIBAgMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQAAAAAAAAAAAAAAAAABAwMDAgABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAgEBAQIDAwMDAwMDAwMDAQEDAwMCAQEAAAEC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIBAQIDAwMDAwMDAwMDAwMBAQMDAwIB
+AgMCAAAAAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEB
+AwMDAgECAwMDAQAAAAEDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAQABAgMD
+AwMCAAEDAwMCAQIDAwMDAgAAAAABAwMDAwMDAwMDAwMDAwMDAwMDAwIBAwMDAwMB
+AQIBAAABAQEAAgMDAwIBAQMDAwMDAgAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwEC
+AwMDAwEBAwMDAwIBAQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwMDAwMD
+AwMDAwADAwMDAQEDAwMDAwMDAwMDAwMDAQAAAQMDAwIBAAAAAAAAAAIDAwMDAwMD
+AwMDAwMDAwMDAwEDAwMBAQMDAwMDAwMDAwMDAwMBAAAAAQICAQAAAAAAAAAAAAED
+AwMDAwMDAwMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAA
+AAAAAAEDAwMDAwMDAwMDAwMDAwMDAwECAAEDAwMDAwMDAwMDAwMDAQAAAAAAAAAA
+AAAAAAAAAAAAAAMDAwMDAwMDAwMDAwMDAwMDAwIAAQMDAwMDAwMDAwMDAwMBAAAA
+AAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQABAwMD
+AwMDAwMDAQAAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwIAAAIDAwMDAwMBAAAAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMCAQAAAQAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAAAAAAAAAAAAAAAAEBAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAAAAAAAAAAAAAAAAAAD/////AAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAgBPAGwAZQBQAHIAZQBzADAAMAAwAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAgEDAAAABQAAAP////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAYBEAAAAAAABDAE8ATgBU
+AEUATgBUAFMAVgAzADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAGAACAP///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAADEAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////
+////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AwAA
+AAQAAAABAAAA/////wIAAAAAAAAAlQUAAAgEAAAmEQAAAQAJAAADkwgAAAEAZgYA
+AAAAAwAAAB4ABQAAAAsCAAAAAAUAAAAMAiYANQAFAgAA9wAAAwABBHx8AEuurgCF
+09MApOTkAEjtbwAA5AEAAAAUAAyBAAAEAgAAAKCjAPe/AAAAcQAAGA6BAADkAQAA
+AAAAAAAAAAwAcQAAAAAAcQAUAAyBAAAAAAAAAAAAAAAAEAAIAAAAEQgAAABw7QBv
+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
+AAGtJADwHAAAUABvAABv7wCuAAMA77B/AFwAbwAADL0AUEGMAAEcAACgAAAAv/ej
+AE0AAABCqAAAXABQAAAMvQAAAAAAAAwAAAAATQAATQAAUEGMAABAAAAAAAAAAAAA
+AAAF0AAFBQAA2AAAAABv7wD3pVAAAAC/AGcATQC/96UATQAAAABBAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAABEwMQAQb4AADgAUAAATqQAUEHCAPBmAAD/AG8A////
+AFBBkADBLgAAvgBEAABQQQADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwIBAAAAAAAAAAAAAAAAAQEDAwMDAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAgEAAAEAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgAAAgMDAwMDAwEAAAAAAAAAAAAAAAAAAAAA
+AAABAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwEAAQMDAwMDAwMDAwEAAAAAAAAA
+AAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwAAAwMDAwMDAwMDAgABAwMD
+AwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMBAgABAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMA
+AAMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAED
+AwMDAwMDAwAAAwMDAwMDAwMDAQMDAwEBAwMDAwMDAwMDAwMDAwEAAAABAgIBAAAA
+AAAAAAAAAQMDAwMDAwMDAAADAwMDAwMDAwMAAwMDAwEBAwMDAwMDAwMDAwMDAwEA
+AAEDAwMCAQAAAAAAAAACAwMDAwMDAwMAAAMDAwMDAwMDAwECAwMDAwEBAwMDAwIB
+AQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwAAAwMDAwMDAwMDAgEDAwMD
+AwEBAgEAAAEBAQACAwMDAgEBAwMDAwMCAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAQEDAwMDAwEAAQIDAwMDAgABAwMDAgECAwMDAwIAAAAAAQMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEBAwMDAgECAwMDAQAAAAEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgEBAgMDAwMDAwMDAwMDAwEBAwMDAgECAwIA
+AAACAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwIBAQECAwMDAwMDAwMDAwEB
+AwMDAgEBAAABAgMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQAAAAAA
+AAAAAAAAAAABAwMDAgABAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQICAgICAgICAgICAAEBAwMDAgECAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAgABAwMDAwMAAwECAwMDAgECAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAQABAAMDAwMDAAMDAQIDAwMD
+AgECAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwEAAQMAAgMDAwMA
+AwMAAgMDAwMDAQEDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQEBAAED
+AwEBAwMDAwADAgADAwMDAwMDAAIDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQIBAwMDAwEDAwMDAAMBAQMDAwMDAwMBAQMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAwMDAgEDAwMAAwACAwMDAwMDAwEBAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAwMDAQIDAAMBAQIDAwMD
+AwMBAQMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwMDAwMDAwMDAQMA
+AwMBAAIDAwMDAwACAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQEBAQEBAQEBAQEBAQMDAwMBAAIDAwEBAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAAICAQMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQACAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMC
+AgMDAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAEAAAAJwH/
+/wMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChgYHBgeEg
+IA==</object>
+	</drawing>
+	<drawing>
+		<drawingType>Picture</drawingType>
+		<id>13</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"Таб_Обновления"</detailParameter>
+		<beginRow>52</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>52</endRow>
+		<endRowOffset>128</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>30</endColumn>
+		<endColumnOffset>0</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<pictureIndex>7</pictureIndex>
+	</drawing>
+	<drawing>
+		<drawingType>Object</drawingType>
+		<id>14</id>
+		<formatIndex>41</formatIndex>
+		<detailParameter>"ВОП_"</detailParameter>
+		<beginRow>60</beginRow>
+		<beginRowOffset>0</beginRowOffset>
+		<endRow>61</endRow>
+		<endRowOffset>0</endRowOffset>
+		<beginColumn>27</beginColumn>
+		<beginColumnOffset>0</beginColumnOffset>
+		<endColumn>29</endColumn>
+		<endColumnOffset>48</endColumnOffset>
+		<autoSize>false</autoSize>
+		<pictureSize>Stretch</pictureSize>
+		<zOrder>0</zOrder>
+		<object xsi:type="xs:base64Binary">FfGVHmJPBtQRlAAAgEjaEfnElUA5lBHeNs8RlT4AwKhAKenBocGbACrQzxHgobEa
+4QAAAAAAAAAAAAAAAAAAAAA+AAMA/v8JAAYAAAAAAAAAAAAAAAEAAAABAAAAAAAA
+AAAQAAACAAAAAQAAAP7///8AAAAAAAAAAP//////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+//////////////////////////////////3///8KAAAA/v///wQAAAAFAAAABgAA
+AAcAAAAIAAAACQAAAP7////+////DAAAAA0AAAAOAAAADwAAABAAAAARAAAAEgAA
+ABMAAAD+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////UgBvAG8AdAAgAEUAbgB0AHIAeQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYABQD//////////wIAAABAOZQR3jbP
+EZU+AMCoQCnpAAAAAAAAAAAAAAAAkH7UExSt0gEDAAAAgAwAAAAAAAABAE8AbABl
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAACgACAf///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAEAQwBvAG0AcABPAGIAagAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAIBAQAA
+AAQAAAD/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+AHUAAAAAAAAAQwBPAE4AVABFAE4AVABTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAgD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAcAsAAAAAAAD+////AgAA
+AP7///8EAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAADgAA
+AA8AAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAA
+ABsAAAAcAAAAHQAAAB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAA
+ACcAAAAoAAAAKQAAACoAAAArAAAALAAAAC0AAAAuAAAALwAAADAAAAD+/////v//
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+/////////////////////////////////wEAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAP7/AwoA
+AP////9AOZQR3jbPEZU+AMCoQCnpIwAAAE1pY3Jvc29mdCBQaG90byBFZGl0b3Ig
+My4wIFBpY3R1cmUADgAAAE1TUGhvdG9FZGl0b3IADAAAAE1TUGhvdG9FZC4zAPQ5
+snEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIANgAnAAAAAADEDgAAYAAAAAR8fEuu
+roXT06Tk5EjtbwDkAQAAFAyBAAQCAACgo/e/AABxABgOgQDkAQAAAAAAAAwAcQAA
+AHEAFAyBAAAAAAAAAAAAEAgAABEIAABw7W8AUKX3vwAAcQBnpfe/AABxAJjtRwAA
+AIIAmA1IAAEAAADe4kYAGQCCAIgAAAABAAAAAQAAABAAAADYDoIAAwAAAIDtRwD/
+u0YAAQAAABAAAACzu0YAEAAAAP////+ADoIAfwFGAP/////YDoIAe8RCAIwPggDI
+CwAAgA6CAAAAAAD/////EAKCAAAA3n1kev//Zyryfb09txb//2cqAAAAAATvbwAA
+AAAQZeL3vwAAABDS4fe/AAAAELjubwAE728A/gAAAMgLAAC47m8Aiwn4vxkEAAAA
+EAAQOCAAEATvbwD+AAAAyAsAAA8AYQQEoQEAAAAAAPjubwBsfmwGlxYAAAMAAAAA
+AGANAX7IBTs2978HAAAAOzb3v8gLAADiE/e/dwEAAOlB978krQEAAAAAACStAQAm
+GPe/AAAAAPoDRgAMRPm/uBn3v85+AAAM8W8AbRj3v59crn4AAAAArn7HXLzuAAAA
+AAYCAAAMfwMAqjwAAJcWAAA3J2cBEAAAAGcqAADWfmR6//9nKuB+RxK3Fv//ZyoS
+f6Y9aFtIAAAAAAAMABAAAAAAAAAA/n5kev//x1wSf709txb//8dcAAAAAMdcfwEo
+8G8AAAAAEGXi978AAAAQ0uH3vwAAABDc728AKPBvAP4AAAD/////3O9vAIsJ+L8Z
+BAAAABAAEDggABAo8G8A/gAAAP////9yQve/BKEBACStAQAc8G8AUO9vAAMArn+w
+728AXL0MAIxBUAAcAQAAoKP3vwAATQCoQlAAXL0MAAAAAAAMAE0AAABNAIxBUABA
+AAAAAAAAANAFAAAFBQAA2O9vAFCl978AAE0AZ6X3vwAATQBBAAAAAAAAAAAAAAAA
+AAAAAAAAAMTARAC+QVAAOKROAMJBUABm8G8A/////5BBUAAuwUQAvkFQAAIAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlQUIBAMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAgIDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwEAAgIBAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAQEBAQEBAQEB
+AQEDAwMDAQACAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMDAwMDAwMBAwADAwEAAgMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMDAwMDAwECAwADAQECAwMDAwMDAQEDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMCAQMDAwADAAIDAwMDAwMDAQEDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAQMDAwMBAwMDAwADAQEDAwMDAwMD
+AQEDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEBAAEDAwEBAwMDAwADAgAD
+AwMDAwMDAAIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAQABAwACAwMD
+AwADAwACAwMDAwMBAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAwEA
+AQADAwMDAwADAwECAwMDAwIBAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAQEDAwMCAAEDAwMDAwADAQIDAwMCAQIDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAQECAgICAgICAgICAgABAQMDAwIBAgMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAQAAAAAAAAAAAAAAAAABAwMDAgABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAgEBAQIDAwMDAwMDAwMDAQEDAwMCAQEAAAEC
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIBAQIDAwMDAwMDAwMDAwMBAQMDAwIB
+AgMCAAAAAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEB
+AwMDAgECAwMDAQAAAAEDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAQABAgMD
+AwMCAAEDAwMCAQIDAwMDAgAAAAABAwMDAwMDAwMDAwMDAwMDAwMDAwIBAwMDAwMB
+AQIBAAABAQEAAgMDAwIBAQMDAwMDAgAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwEC
+AwMDAwEBAwMDAwIBAQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwMDAwMD
+AwMDAwADAwMDAQEDAwMDAwMDAwMDAwMDAQAAAQMDAwIBAAAAAAAAAAIDAwMDAwMD
+AwMDAwMDAwMDAwEDAwMBAQMDAwMDAwMDAwMDAwMBAAAAAQICAQAAAAAAAAAAAAED
+AwMDAwMDAwMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAA
+AAAAAAEDAwMDAwMDAwMDAwMDAwMDAwECAAEDAwMDAwMDAwMDAwMDAQAAAAAAAAAA
+AAAAAAAAAAAAAAMDAwMDAwMDAwMDAwMDAwMDAwIAAQMDAwMDAwMDAwMDAwMBAAAA
+AAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQABAwMD
+AwMDAwMDAQAAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwIAAAIDAwMDAwMBAAAAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMCAQAAAQAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQAAAAAAAAAAAAAAAAEBAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAAAAAAAAAAAAAAAAAAD/////AAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAgBPAGwAZQBQAHIAZQBzADAAMAAwAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAgEDAAAABQAAAP////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAYBEAAAAAAABDAE8ATgBU
+AEUATgBUAFMAVgAzADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAGAACAP///////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAADEAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////
+////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AwAA
+AAQAAAABAAAA/////wIAAAAAAAAAlQUAAAgEAAAmEQAAAQAJAAADkwgAAAEAZgYA
+AAAAAwAAAB4ABQAAAAsCAAAAAAUAAAAMAiYANQAFAgAA9wAAAwABBHx8AEuurgCF
+09MApOTkAEjtbwAA5AEAAAAUAAyBAAAEAgAAAKCjAPe/AAAAcQAAGA6BAADkAQAA
+AAAAAAAAAAwAcQAAAAAAcQAUAAyBAAAAAAAAAAAAAAAAEAAIAAAAEQgAAABw7QBv
+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
+AAGtJADwHAAAUABvAABv7wCuAAMA77B/AFwAbwAADL0AUEGMAAEcAACgAAAAv/ej
+AE0AAABCqAAAXABQAAAMvQAAAAAAAAwAAAAATQAATQAAUEGMAABAAAAAAAAAAAAA
+AAAF0AAFBQAA2AAAAABv7wD3pVAAAAC/AGcATQC/96UATQAAAABBAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAABEwMQAQb4AADgAUAAATqQAUEHCAPBmAAD/AG8A////
+AFBBkADBLgAAvgBEAABQQQADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwIBAAAAAAAAAAAAAAAAAQEDAwMDAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAgEAAAEAAAAAAAAAAAAAAAAAAAAAAQMDAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMCAQAAAQIDAwEAAAAAAAAAAAAAAAAAAAAAAAECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgAAAgMDAwMDAwEAAAAAAAAAAAAAAAAAAAAA
+AAABAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwEAAQMDAwMDAwMDAwEAAAAAAAAA
+AAAAAAAAAAAAAAAAAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMBAAIDAwMDAwMDAwMD
+AwEAAAAAAAAAAAAAAAAAAAAAAAAAAwMDAwMDAwMDAwAAAwMDAwMDAwMDAgABAwMD
+AwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMBAgABAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAADAwMDAwMDAwMA
+AAMDAwMDAwMDAwADAgEBAwMDAwMDAwMDAwMDAwEAAAAAAAAAAAAAAAAAAAAAAAED
+AwMDAwMDAwAAAwMDAwMDAwMDAQMDAwEBAwMDAwMDAwMDAwMDAwEAAAABAgIBAAAA
+AAAAAAAAAQMDAwMDAwMDAAADAwMDAwMDAwMAAwMDAwEBAwMDAwMDAwMDAwMDAwEA
+AAEDAwMCAQAAAAAAAAACAwMDAwMDAwMAAAMDAwMDAwMDAwECAwMDAwEBAwMDAwIB
+AQECAwMDAwEAAQMDAwMDAQAAAAAAAAMDAwMDAwMDAwAAAwMDAwMDAwMDAgEDAwMD
+AwEBAgEAAAEBAQACAwMDAgEBAwMDAwMCAAAAAAABAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAQEDAwMDAwEAAQIDAwMDAgABAwMDAgECAwMDAwIAAAAAAQMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAQECAwMDAwIDAwMDAwMDAgEBAwMDAgECAwMDAQAAAAEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAgEBAgMDAwMDAwMDAwMDAwEBAwMDAgECAwIA
+AAACAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwIBAQECAwMDAwMDAwMDAwEB
+AwMDAgEBAAABAgMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQAAAAAA
+AAAAAAAAAAABAwMDAgABAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQICAgICAgICAgICAAEBAwMDAgECAwMDAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAgABAwMDAwMAAwECAwMDAgECAwMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMAAAEDAwMDAwADAgACAwMDAgECAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAQABAAMDAwMDAAMDAQIDAwMD
+AgECAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwEAAQMAAgMDAwMA
+AwMAAgMDAwMDAQEDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQEBAAED
+AwEBAwMDAwADAgADAwMDAwMDAAIDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQIBAwMDAwEDAwMDAAMBAQMDAwMDAwMBAQMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwEBAwMDAwMDAgEDAwMAAwACAwMDAwMDAwEBAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAQEDAwMDAwMDAQIDAwACAQMDAwMDAwMDAQEDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMBAQMDAwMDAwMDAQIDAAMBAQIDAwMD
+AwMBAQMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwEBAwMDAwMDAwMDAQMA
+AwMBAAIDAwMDAwACAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAQECAgIC
+AgICAgICAQADAwMBAAIDAwMCAAMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMBAQEBAQEBAQEBAQEBAQMDAwMBAAIDAwEBAwMDAwMDAwMDAwMDAAADAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMBAAICAQMDAwMDAwMDAwMDAwMA
+AAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCAQACAwMDAwMD
+AwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMC
+AgMDAwMDAwMDAwMDAwMDAAADAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAAAMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwAAAwMDAwMDAwMDAwMDAwMD
+AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAAAEAAAAJwH/
+/wMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChgYHBgeEg
+IA==</object>
+	</drawing>
+	<leftHeader>
+		<f>9</f>
+	</leftHeader>
+	<leftFooter>
+		<f>9</f>
+	</leftFooter>
+	<defaultFormatIndex>42</defaultFormatIndex>
+	<height>62</height>
+	<vgRows>62</vgRows>
+	<merge>
+		<r>2</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>3</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>4</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>5</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>6</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>6</r>
+		<c>27</c>
+		<w>2</w>
+	</merge>
+	<merge>
+		<r>8</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>9</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>10</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>10</r>
+		<c>27</c>
+		<w>2</w>
+	</merge>
+	<merge>
+		<r>12</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>13</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>14</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>14</r>
+		<c>27</c>
+		<w>2</w>
+	</merge>
+	<merge>
+		<r>16</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>17</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>18</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>19</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>19</r>
+		<c>27</c>
+		<w>2</w>
+	</merge>
+	<merge>
+		<r>21</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>22</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>23</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>25</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>26</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>27</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>28</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>28</r>
+		<c>27</c>
+		<w>2</w>
+	</merge>
+	<merge>
+		<r>30</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>31</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>32</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>32</r>
+		<c>27</c>
+		<w>2</w>
+	</merge>
+	<merge>
+		<r>40</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>41</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>42</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>45</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>46</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>47</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>50</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>51</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>52</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<merge>
+		<r>52</r>
+		<c>27</c>
+		<w>2</w>
+	</merge>
+	<merge>
+		<r>56</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>58</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>59</r>
+		<c>2</c>
+		<w>27</w>
+	</merge>
+	<merge>
+		<r>60</r>
+		<c>5</c>
+		<w>21</w>
+	</merge>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Верх</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>1</beginRow>
+			<endRow>2</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>ВерхКратко</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>55</beginRow>
+			<endRow>56</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Мнение</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>3</beginRow>
+			<endRow>7</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Обновления</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>25</beginRow>
+			<endRow>29</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>ОбновленияКратко</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>50</beginRow>
+			<endRow>53</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Обращение</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>8</beginRow>
+			<endRow>11</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Опрос</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>21</beginRow>
+			<endRow>24</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>ОпросДеньги</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>45</beginRow>
+			<endRow>48</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>ОпросПроизводство</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>58</beginRow>
+			<endRow>61</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>ОпросТорг</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>40</beginRow>
+			<endRow>43</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Ответы</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>12</beginRow>
+			<endRow>15</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>П001</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>3</beginRow>
+			<endRow>5</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>26</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>П002</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>8</beginRow>
+			<endRow>9</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>26</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>П003</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>12</beginRow>
+			<endRow>13</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>26</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>П005</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>30</beginRow>
+			<endRow>31</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>26</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>П006</name>
+		<area>
+			<type>Rectangle</type>
+			<beginRow>37</beginRow>
+			<endRow>37</endRow>
+			<beginColumn>2</beginColumn>
+			<endColumn>26</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Подвал</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>30</beginRow>
+			<endRow>38</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<namedItem xsi:type="NamedItemCells">
+		<name>Сведения</name>
+		<area>
+			<type>Rows</type>
+			<beginRow>16</beginRow>
+			<endRow>20</endRow>
+			<beginColumn>-1</beginColumn>
+			<endColumn>-1</endColumn>
+		</area>
+	</namedItem>
+	<line width="0" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentCellLineType">None</v8ui:style>
+	</line>
+	<line width="2" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentCellLineType">Solid</v8ui:style>
+	</line>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentDrawingLineType">None</v8ui:style>
+	</line>
+	<font faceName="Arial" height="8" bold="false" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="12" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="8" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<font faceName="Arial" height="9.8" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute"/>
+	<format>
+		<width>18</width>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<leftBorder>0</leftBorder>
+		<width>22</width>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<width>22</width>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<width>22</width>
+	</format>
+	<format>
+		<height>54</height>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<leftBorder>0</leftBorder>
+	</format>
+	<format>
+		<height>15</height>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>189</height>
+	</format>
+	<format/>
+	<format>
+		<font>0</font>
+		<verticalAlignment>Top</verticalAlignment>
+		<textColor>#85396A</textColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>84</height>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<font>1</font>
+		<leftBorder>0</leftBorder>
+		<topBorder>1</topBorder>
+		<borderColor>#85396A</borderColor>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#800080</textColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>180</height>
+	</format>
+	<format>
+		<height>126</height>
+	</format>
+	<format>
+		<backColor>#A0E0E0</backColor>
+	</format>
+	<format>
+		<font>2</font>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#008080</textColor>
+		<backColor>#A0E0E0</backColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>15</height>
+	</format>
+	<format>
+		<font>1</font>
+		<topBorder>1</topBorder>
+		<borderColor>#800080</borderColor>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#800080</textColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>141</height>
+	</format>
+	<format>
+		<font>2</font>
+		<bottomBorder>0</bottomBorder>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#008080</textColor>
+		<backColor>#A0E0E0</backColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>18</height>
+	</format>
+	<format>
+		<height>87</height>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<font>1</font>
+		<topBorder>1</topBorder>
+		<bottomBorder>0</bottomBorder>
+		<borderColor>#800080</borderColor>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#800080</textColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>264</height>
+	</format>
+	<format>
+		<height>123</height>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>225</height>
+	</format>
+	<format>
+		<height>135</height>
+	</format>
+	<format>
+		<font>2</font>
+		<verticalAlignment>Top</verticalAlignment>
+		<textColor>#008080</textColor>
+		<backColor>#A0E0E0</backColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>84</height>
+	</format>
+	<format>
+		<font>3</font>
+		<bottomBorder>0</bottomBorder>
+		<verticalAlignment>Center</verticalAlignment>
+		<textColor>#008080</textColor>
+		<backColor>#A0E0E0</backColor>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<format>
+		<height>87</height>
+	</format>
+	<format>
+		<height>195</height>
+	</format>
+	<format>
+		<height>144</height>
+	</format>
+	<format>
+		<height>183</height>
+	</format>
+	<format>
+		<height>12</height>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+	</format>
+	<format>
+		<height>16</height>
+	</format>
+	<format>
+		<leftBorder>0</leftBorder>
+		<topBorder>1</topBorder>
+		<bottomBorder>1</bottomBorder>
+	</format>
+	<format>
+		<leftBorder>0</leftBorder>
+		<topBorder>0</topBorder>
+		<bottomBorder>0</bottomBorder>
+	</format>
+	<format>
+		<height>219</height>
+	</format>
+	<format>
+		<drawingBorder>2</drawingBorder>
+		<fillType>Text</fillType>
+	</format>
+	<format>
+		<width>72</width>
+		<textPlacement>Wrap</textPlacement>
+	</format>
+	<picture>
+		<index>0</index>
+		<picture t="false">AQAAAFgAAAAAAAAAAAAAADYAAAApAAAAAAAAAAAAAACvBQAAVwQAACBFTUYAAAEA
+GBMAABQAAAACAAAAAAAAAAAAAAAUAAAAgAQAAGADAAAwAQAA5AAAAEYAAAAYCAAA
+DAgAAEdESUMBAACAAAMAADQ3WUwAAAAA9AcAAAEACQAAA/oDAAACAI4CAAAAAAUA
+AAAJAgAAAAAFAAAAAQL///8ABAAAAAQBDQAEAAAAAgECAAUAAAAMAioANwADAAAA
+HgAFAAAACwIdAHkCBQAAAAwCKgA3AAQAAAAEAQ0ALQAAAPcAAAMUAAAAAACAAAAA
+AIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AAoKCkAICAgAD/AAAA
+AP8AAP//AAAAAP8A/wD/AAD//wD///8ABAAAADQCAAAQAAAAJgYPABYA/////wAA
+eAIAABwAAACxAgAASAAAAAQAAAAHAQQAzgAAAEMPhgDuAAAAKgA3AAAAAAAqADcA
+HQB5AigAAAA3AAAAKgAAAAEAAQAAAAAAUAEAAMQOAADEDgAAAgAAAAIAAAAAAAAA
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//AAAAAAAD//
+/gAAAAAB///xwAAAAAMH//BgAAAADAD/8BgAAAAQAD/wBAAAACAAH/ACAAAAIAAP
+8AIAAABAAA/wAQAAAEAAB/ABAAAAQAAH8AEAAAAgH//8AgAAACAQB9QCAAAAEBAH
+1AQAAAAMF/fUGAAAAAIUF9QgAAAAAZQX1MAAAAAAdBfXAAAAAAAUF9QAAAAAABQX
+1AAAAAAAF/f0AAAAAAAQAAQAAAAAAf///8AAAAAAwAABgAAAAABgAAMAAAAAABgA
+DAAAAAAADAAYAAAAAAADAGAAAAAAAAGAwAAAAAAAAGMAAAAAAAAANgAAAAAAAAAI
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAI4CAABDD8YAiAAAACoANwAAAAAAKgA3AB0AeQIoAAAANwAAACoAAAABAAQA
+AAAAAOgFAADEDgAAxA4AABAAAAADAAAAAAAAAGRkBAD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//////////
+/////////////////////////yD///////////////////////////////////8g
+////////////////////////////////////IP//////////////////////////
+/////////yD/////////////IRERERERERH///////////8g////////////ERER
+ERERERERER//////////IP////////8hEREREREREREREf8hEf///////yD/////
+////Ef//IRERERERERH//yEf//////8g////////Ef//////ERERERER////IR//
+////IP//////If////////8REREREf////8h/////yD//////x//////////IRER
+ERH//////x////8g//////8f//////////8RERER//////8f////IP////8h////
+////////EREREf//////If///yD/////If///////////yERERH//////yH///8g
+/////yH///////////8hERER//////8h////IP//////H////yERERERERERERH/
+////H////yD//////x////8h/////yERESEh/////x////8g//////8h////If//
+//8hEREhIf///yH/////IP///////xH//yEhERERIRERISH//yEf/////yD/////
+////H/8hIf//ISERESEh//8f//////8g/////////yEfISH//yEhEREhIf8R////
+////IP//////////IREh//8hIRERISER/////////yD///////////8hIf//ISER
+ESEh//////////8g////////////ISH//yEhEREhIf//////////IP//////////
+/yEhERERIRERESH//////////yD///////////8h//////////8h//////////8g
+/////////yERERERERERERERERER////////IP//////////Ef////////////8h
+H////////yD//////////yEf////////////Ef////////8g////////////IR//
+////////Ef//////////IP////////////8R////////IR///////////yD/////
+/////////xH/////IR////////////8g//////////////8hH////xH/////////
+////IP///////////////yEf/xH//////////////yD/////////////////ESEf
+//////////////8g//////////////////8f////////////////IP//////////
+/////////////////////////yD///////////////////////////////////8g
+////////////////////////////////////IP//////////////////////////
+/////////yD///////////////////////////////////8g////////////////
+////////////////////IAQAAAAHAQEACAAAACYGDwAGAP////8BAAUAAAAJAgAA
+AAAFAAAAAQL///8ABwAAAPwCAAD///8AAAAEAAAALQEBAAQAAAAnAf//AwAAAAAA
+EQAAAAwAAAAIAAAACwAAABAAAAA3AAAAKgAAAAkAAAAQAAAANwAAACoAAAAJAAAA
+EAAAADcAAAAqAAAAIQAAAAgAAAAKAAAAEAAAAHkCAAAdAAAACQAAABAAAAA3AAAA
+KgAAADEAAABgAAAAAQAAAAADFAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAA
+wMDAAMDcwACmyvAA//vwAKCgpACAgIAA/wAAAAD/AAD//wAAAAD/AP8A/wAA//8A
+////ADAAAAAMAAAAAQAAABUAAAAMAAAABAAAAFEAAADUAgAAAAAAAAAAAAA2AAAA
+KQAAAHkCAAAdAAAAAAAAAAAAAAA3AAAAKgAAAFAAAAA0AQAAhAEAAFABAAAAAAAA
+hgDuADcAAAAqAAAAKAAAADcAAAAqAAAAAQABAAAAAABQAQAAxA4AAMQOAAACAAAA
+AgAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAB//wAAAAAAA///4AAAAAAf//8cAAAAADB//wYAAA
+AAwA//AYAAAAEAA/8AQAAAAgAB/wAgAAACAAD/ACAAAAQAAP8AEAAABAAAfwAQAA
+AEAAB/ABAAAAIB///AIAAAAgEAfUAgAAABAQB9QEAAAADBf31BgAAAACFBfUIAAA
+AAGUF9TAAAAAAHQX1wAAAAAAFBfUAAAAAAAUF9QAAAAAABf39AAAAAAAEAAEAAAA
+AAH////AAAAAAMAAAYAAAAAAYAADAAAAAAAYAAwAAAAAAAwAGAAAAAAAAwBgAAAA
+AAABgMAAAAAAAABjAAAAAAAAADYAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAAVAYAAAAAAAAAAAAA
+NgAAACkAAAB5AgAAHQAAAAAAAAAAAAAANwAAACoAAABQAAAAbAEAALwBAACYBAAA
+AAAAAMYAiAA3AAAAKgAAACgAAAA3AAAAKgAAAAEABAAAAAAA6AUAAMQOAADEDgAA
+EAAAAAMAAAAAAAAAZGQEAP///wD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////
+//////////////////////////////8g////////////////////////////////
+////IP///////////////////////////////////yD/////////////////////
+//////////////8g/////////////yERERERERER////////////IP//////////
+/xEREREREREREREf/////////yD/////////IRERERERERERERH/IRH///////8g
+/////////xH//yERERERERER//8hH///////IP///////xH//////xEREREREf//
+/yEf/////yD//////yH/////////ERERERH/////If////8g//////8f////////
+/yERERER//////8f////IP//////H///////////EREREf//////H////yD/////
+If///////////xERERH//////yH///8g/////yH///////////8hERER//////8h
+////IP////8h////////////IREREf//////If///yD//////x////8hERERERER
+ERER/////x////8g//////8f////If////8hEREhIf////8f////IP//////If//
+/yH/////IRERISH///8h/////yD///////8R//8hIRERESERESEh//8hH/////8g
+/////////x//ISH//yEhEREhIf//H///////IP////////8hHyEh//8hIRERISH/
+Ef///////yD//////////yERIf//ISERESEhEf////////8g////////////ISH/
+/yEhEREhIf//////////IP///////////yEh//8hIRERISH//////////yD/////
+//////8hIRERESEREREh//////////8g////////////If//////////If//////
+////IP////////8hEREREREREREREREREf///////yD//////////xH/////////
+////IR////////8g//////////8hH////////////xH/////////IP//////////
+/yEf/////////xH//////////yD/////////////Ef///////yEf//////////8g
+//////////////8R/////yEf////////////IP//////////////IR////8R////
+/////////yD///////////////8hH/8R//////////////8g////////////////
+/xEhH///////////////IP//////////////////H////////////////yD/////
+//////////////////////////////8g////////////////////////////////
+////IP///////////////////////////////////yD/////////////////////
+//////////////8g////////////////////////////////////IP//////////
+/////////////////////////yAVAAAADAAAAAEAAAAlAAAADAAAAAAAAIAiAAAA
+DAAAAP////9LAAAAEAAAAAAAAAAFAAAAKAAAAAwAAAABAAAADgAAAGQAAAAUAAAA
+EAAAAAAAAACAAAAAAIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AA
+oKCkAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AZAAAAA==</picture>
+	</picture>
+	<picture>
+		<index>1</index>
+		<picture t="false">AQAAAFgAAAAAAAAAAAAAADYAAAApAAAAAAAAAAAAAACvBQAAVwQAACBFTUYAAAEA
+GBMAABQAAAACAAAAAAAAAAAAAAAUAAAAgAQAAGADAAAwAQAA5AAAAEYAAAAYCAAA
+DAgAAEdESUMBAACAAAMAAETrUdcAAAAA9AcAAAEACQAAA/oDAAACAI4CAAAAAAUA
+AAAJAgAAAAAFAAAAAQL///8ABAAAAAQBDQAEAAAAAgECAAUAAAAMAioANwADAAAA
+HgAFAAAACwJUAPECBQAAAAwCKgA3AAQAAAAEAQ0ALQAAAPcAAAMUAAAAAACAAAAA
+AIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AAoKCkAICAgAD/AAAA
+AP8AAP//AAAAAP8A/wD/AAD//wD///8ABAAAADQCAAAQAAAAJgYPABYA/////wAA
+8AIAAFMAAAApAwAAfwAAAAQAAAAHAQQAzgAAAEMPhgDuAAAAKgA3AAAAAAAqADcA
+VADxAigAAAA3AAAAKgAAAAEAAQAAAAAAUAEAAMQOAADEDgAAAgAAAAIAAAAAAAAA
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//AAAAAAAA8ADwAAAAAAcAA
+A4AAAAAHgAAAQAAAAA8D///wAAAAHgIAADgAAAA+AwAAVAAAAD8DgACUAAAAf8PA
+ARIAAAB//+ACEgAAAH//8AQSAAAAP//4iBQAAAA///1QFAAAAB///iAYAAAAD//8
+EBAAAAAH//gIEAAAAAH/8AQQAAAAAD/gAhAAAAAAA8ABEAAAAAADgACQAAAAAAMA
+AFAAAAAAAgAAMAAAAAAD///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAI4CAABDD8YAiAAAACoANwAAAAAAKgA3AFQA8QIoAAAANwAAACoAAAABAAQA
+AAAAAOgFAADEDgAAxA4AABAAAAAEAAAAAAAAAGRkBADk5KQA////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MP///////////////////////////////////zD/////
+//////////////////////////////8w////////////////////////////////
+////MP//////////////ERERERER/////////////zD///////////8REf//////
+/xER//////////8w/////////zER/////////////xEf////////MP///////zER
+H///////////////Mf///////zD///////8REf///xERERERERERERER//////8w
+//////8xER////8f////////////ER//////MP//////EREf////Ef//////////
+MTEx/////zD//////xEREf///xEf/////////x8xMf////8w/////zERERER//8R
+Ef///////zH/Mf8f////MP////8xEREREREREREf//////8f/zH/H////zD/////
+MREREREREREREf////8x//8x/x////8w//////8REREREREREREf/x//H///MTH/
+////MP//////ERERERERERERETExMf///zEx/////zD//////zEREREREREREREf
+/x////8xH/////8w////////ERERERERERER//8x////Mf//////MP///////zER
+ERERERERH////x///zH//////zD/////////MREREREREf////8x//8x//////8w
+////////////ERERER///////x//Mf//////MP//////////////ERH///////8x
+/zH//////zD//////////////xEf/////////x8x//////8w//////////////8R
+//////////8xMf//////MP//////////////H////////////xH//////zD/////
+/////////xERERERERERERER//////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MAQAAAAHAQEACAAAACYGDwAGAP////8BAAUAAAAJAgAA
+AAAFAAAAAQL///8ABwAAAPwCAAD///8AAAAEAAAALQEBAAQAAAAnAf//AwAAAAAA
+EQAAAAwAAAAIAAAACwAAABAAAAA3AAAAKgAAAAkAAAAQAAAANwAAACoAAAAJAAAA
+EAAAADcAAAAqAAAAIQAAAAgAAAAKAAAAEAAAAPECAABUAAAACQAAABAAAAA3AAAA
+KgAAADEAAABgAAAAAQAAAAADFAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAA
+wMDAAMDcwACmyvAA//vwAKCgpACAgIAA/wAAAAD/AAD//wAAAAD/AP8A/wAA//8A
+////ADAAAAAMAAAAAQAAABUAAAAMAAAABAAAAFEAAADUAgAAAAAAAAAAAAA2AAAA
+KQAAAPECAABUAAAAAAAAAAAAAAA3AAAAKgAAAFAAAAA0AQAAhAEAAFABAAAAAAAA
+hgDuADcAAAAqAAAAKAAAADcAAAAqAAAAAQABAAAAAABQAQAAxA4AAMQOAAACAAAA
+AgAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAP/wAAAAAAAPAA8AAAAAAHAAAOAAAAAB4AAAEAAAAAPA///8AAA
+AB4CAAA4AAAAPgMAAFQAAAA/A4AAlAAAAH/DwAESAAAAf//gAhIAAAB///AEEgAA
+AD//+IgUAAAAP//9UBQAAAAf//4gGAAAAA///BAQAAAAB//4CBAAAAAB//AEEAAA
+AAA/4AIQAAAAAAPAARAAAAAAA4AAkAAAAAADAABQAAAAAAIAADAAAAAAA///8AAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAAVAYAAAAAAAAAAAAA
+NgAAACkAAADxAgAAVAAAAAAAAAAAAAAANwAAACoAAABQAAAAbAEAALwBAACYBAAA
+AAAAAMYAiAA3AAAAKgAAACgAAAA3AAAAKgAAAAEABAAAAAAA6AUAAMQOAADEDgAA
+EAAAAAQAAAAAAAAAZGQEAOTkpAD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////
+//////////////////////////////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD//////////////xEREREREf////////////8w////////////ERH/
+//////8REf//////////MP////////8xEf////////////8RH////////zD/////
+//8xER///////////////zH///////8w////////ERH///8REREREREREREREf//
+////MP//////MREf////H////////////xEf/////zD//////xERH////xH/////
+/////zExMf////8w//////8RERH///8RH/////////8fMTH/////MP////8xERER
+Ef//ERH///////8x/zH/H////zD/////MRERERERERERH///////H/8x/x////8w
+/////zERERERERERERH/////Mf//Mf8f////MP//////ERERERERERERH/8f/x//
+/zEx/////zD//////xERERERERERERExMTH///8xMf////8w//////8xERERERER
+ERERH/8f////MR//////MP///////xEREREREREREf//Mf///zH//////zD/////
+//8xERERERERER////8f//8x//////8w/////////zERERERERH/////Mf//Mf//
+////MP///////////xEREREf//////8f/zH//////zD//////////////xER////
+////Mf8x//////8w//////////////8RH/////////8fMf//////MP//////////
+////Ef//////////MTH//////zD//////////////x////////////8R//////8w
+//////////////8REREREREREREREf//////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MP///////////////////////////////////zD/////
+//////////////////////////////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zAVAAAADAAAAAEAAAAlAAAADAAAAAAAAIAiAAAA
+DAAAAP////9LAAAAEAAAAAAAAAAFAAAAKAAAAAwAAAABAAAADgAAAGQAAAAUAAAA
+EAAAAAAAAACAAAAAAIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AA
+oKCkAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AZAAAAA==</picture>
+	</picture>
+	<picture>
+		<index>2</index>
+		<picture t="false">AQAAAFgAAAAAAAAAAAAAADYAAAApAAAAAAAAAAAAAACvBQAAVwQAACBFTUYAAAEA
+GBMAABQAAAACAAAAAAAAAAAAAAAUAAAAgAQAAGADAAAwAQAA5AAAAEYAAAAYCAAA
+DAgAAEdESUMBAACAAAMAAAa+N+AAAAAA9AcAAAEACQAAA/oDAAACAI4CAAAAAAUA
+AAAJAgAAAAAFAAAAAQL///8ABAAAAAQBDQAEAAAAAgECAAUAAAAMAioANwADAAAA
+HgAFAAAACwJUALMCBQAAAAwCKgA3AAQAAAAEAQ0ALQAAAPcAAAMUAAAAAACAAAAA
+AIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AAoKCkAICAgAD/AAAA
+AP8AAP//AAAAAP8A/wD/AAD//wD///8ABAAAADQCAAAQAAAAJgYPABYA/////wAA
+sgIAAFMAAADrAgAAfwAAAAQAAAAHAQQAzgAAAEMPhgDuAAAAKgA3AAAAAAAqADcA
+VACzAigAAAA3AAAAKgAAAAEAAQAAAAAAUAEAAMQOAADEDgAAAgAAAAIAAAAAAAAA
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf8AAAAAAAA+APgAAAAAAfgA
+BwAAAAAH4AAAwAAAAA/AAAAgAAAAH4AAABAAAAA/AAAACAAAAH8H///oAAAAfwQA
+AGQAAAD/BgAApAAAAP+HAAEkAAAA/+eAAigAAAB//8AEKAAAAH//4AgwAAAAP//w
+ECAAAAAf//ggIAAAAA///+AgAAAAA//wECAAAAAA/+AIIAAAAAAPzAQgAAAAAAeM
+AiAAAAAABwABIAAAAAAGgQCgAAAAAARA/EAAAAAAAiAOIAAAAAABEAYQAAAAAACI
+YggAAAAAAERkEAAAAAAAIjggAAAAAAARAEAAAAAAAAiAgAAAAAAABEEAAAAAAAAC
+ogAAAAAAAAEUAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAI4CAABDD8YAiAAAACoANwAAAAAAKgA3AFQAswIoAAAANwAAACoAAAABAAQA
+AAAAAOgFAADEDgAAxA4AABAAAAAEAAAAAAAAAGRkBADk5KQA////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////MRERERH/////
+/////////zD///////////8RER//////EREf//////////8w/////////zERER//
+////////MRH/////////MP///////zERER//////////////Ef///////zD/////
+//8RERH///////////////8f//////8w//////8xEREf////////////////Mf//
+////MP//////ERER//////////////////8f/////zD/////MREREf//MRERERER
+EREREREfH/////8w/////zERERH//zH///////////8xHzH/////MP////8RERER
+//8xH///////////Hx8x/////zD/////ERERER//MRH/////////Mf8fMf////8w
+/////xERERERHzERH////////x//Hx//////MP////8xERERERERERH//////zH/
+/x8f/////zD/////MRERERERERERH/////8f//8R//////8w//////8RERERERER
+ERH///8x////H///////MP//////MRERERERERERH///H////x///////zD/////
+//8RERERERERERERER////8f//////8w/////////xERERERERH///8x////H///
+////MP//////////EREREREf/////x///x///////zD/////////////ERER/xH/
+//8x//8f//////8w/////////////zERH/8R/////x//H///////MP//////////
+//8xEf////////8x/x///////zD/////////////MR8f//8x/////x8f//////8w
+/////////////zH/Mf///xEREf8x////////MP//////////////H/8f/////xEf
+/x///////zD//////////////zH/Mf////8xH/8x//////8w////////////////
+H/8f/zEf/x///x//////MP///////////////zH/Mf8xHzH//zH//////zD/////
+////////////H/8f/xEf//8f//////8w/////////////////zH/Mf////8x////
+////MP//////////////////H/8f////H////////zD//////////////////zH/
+Mf//Mf////////8w////////////////////Hx8f/x//////////MP//////////
+/////////zH/MTH//////////zD///////////////////////8f//////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MAQAAAAHAQEACAAAACYGDwAGAP////8BAAUAAAAJAgAA
+AAAFAAAAAQL///8ABwAAAPwCAAD///8AAAAEAAAALQEBAAQAAAAnAf//AwAAAAAA
+EQAAAAwAAAAIAAAACwAAABAAAAA3AAAAKgAAAAkAAAAQAAAANwAAACoAAAAJAAAA
+EAAAADcAAAAqAAAAIQAAAAgAAAAKAAAAEAAAALMCAABUAAAACQAAABAAAAA3AAAA
+KgAAADEAAABgAAAAAQAAAAADFAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAA
+wMDAAMDcwACmyvAA//vwAKCgpACAgIAA/wAAAAD/AAD//wAAAAD/AP8A/wAA//8A
+////ADAAAAAMAAAAAQAAABUAAAAMAAAABAAAAFEAAADUAgAAAAAAAAAAAAA2AAAA
+KQAAALMCAABUAAAAAAAAAAAAAAA3AAAAKgAAAFAAAAA0AQAAhAEAAFABAAAAAAAA
+hgDuADcAAAAqAAAAKAAAADcAAAAqAAAAAQABAAAAAABQAQAAxA4AAMQOAAACAAAA
+AgAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAH/AAAAAAAAPgD4AAAAAAH4AAcAAAAAB+AAAMAAAAAPwAAAIAAA
+AB+AAAAQAAAAPwAAAAgAAAB/B///6AAAAH8EAABkAAAA/wYAAKQAAAD/hwABJAAA
+AP/ngAIoAAAAf//ABCgAAAB//+AIMAAAAD//8BAgAAAAH//4ICAAAAAP///gIAAA
+AAP/8BAgAAAAAP/gCCAAAAAAD8wEIAAAAAAHjAIgAAAAAAcAASAAAAAABoEAoAAA
+AAAEQPxAAAAAAAIgDiAAAAAAARAGEAAAAAAAiGIIAAAAAABEZBAAAAAAACI4IAAA
+AAAAEQBAAAAAAAAIgIAAAAAAAARBAAAAAAAAAqIAAAAAAAABFAAAAAAAAAAIAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAAVAYAAAAAAAAAAAAA
+NgAAACkAAACzAgAAVAAAAAAAAAAAAAAANwAAACoAAABQAAAAbAEAALwBAACYBAAA
+AAAAAMYAiAA3AAAAKgAAACgAAAA3AAAAKgAAAAEABAAAAAAA6AUAAMQOAADEDgAA
+EAAAAAQAAAAAAAAAZGQEAOTkpAD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////
+//////////////////////////////8w////////////////////////////////
+////MP///////////////////////////////////zD//////////////zERERER
+//////////////8w////////////EREf/////xERH///////////MP////////8x
+EREf/////////zER/////////zD///////8xEREf/////////////xH///////8w
+////////ERER////////////////H///////MP//////MRERH///////////////
+/zH//////zD//////xEREf//////////////////H/////8w/////zERERH//zER
+ERERERERERERHx//////MP////8xERER//8x////////////MR8x/////zD/////
+EREREf//MR///////////x8fMf////8w/////xEREREf/zER/////////zH/HzH/
+////MP////8RERERER8xER////////8f/x8f/////zD/////MRERERERERER////
+//8x//8fH/////8w/////zERERERERERER//////H///Ef//////MP//////ERER
+ERERERER////Mf///x///////zD//////zERERERERERER///x////8f//////8w
+////////EREREREREREREREf////H///////MP////////8RERERERER////Mf//
+/x///////zD//////////xERERERH/////8f//8f//////8w/////////////xER
+Ef8R////Mf//H///////MP////////////8xER//Ef////8f/x///////zD/////
+////////MRH/////////Mf8f//////8w/////////////zEfH///Mf////8fH///
+////MP////////////8x/zH///8RERH/Mf///////zD//////////////x//H///
+//8RH/8f//////8w//////////////8x/zH/////MR//Mf//////MP//////////
+/////x//H/8xH/8f//8f/////zD///////////////8x/zH/MR8x//8x//////8w
+/////////////////x//H/8RH///H///////MP////////////////8x/zH/////
+Mf///////zD//////////////////x//H////x////////8w////////////////
+//8x/zH//zH/////////MP///////////////////x8fH/8f/////////zD/////
+//////////////8x/zEx//////////8w////////////////////////H///////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zAVAAAADAAAAAEAAAAlAAAADAAAAAAAAIAiAAAA
+DAAAAP////9LAAAAEAAAAAAAAAAFAAAAKAAAAAwAAAABAAAADgAAAGQAAAAUAAAA
+EAAAAAAAAACAAAAAAIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AA
+oKCkAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AZAAAAA==</picture>
+	</picture>
+	<picture>
+		<index>3</index>
+		<picture t="false">AQAAAFgAAAAAAAAAAAAAADYAAAApAAAAAAAAAAAAAACvBQAAVwQAACBFTUYAAAEA
+GBMAABQAAAACAAAAAAAAAAAAAAAUAAAAgAQAAGADAAAwAQAA5AAAAEYAAAAYCAAA
+DAgAAEdESUMBAACAAAMAAMbM3VgAAAAA9AcAAAEACQAAA/oDAAACAI4CAAAAAAUA
+AAAJAgAAAAAFAAAAAQL///8ABAAAAAQBDQAEAAAAAgECAAUAAAAMAioANwADAAAA
+HgAFAAAACwJUAC8DBQAAAAwCKgA3AAQAAAAEAQ0ALQAAAPcAAAMUAAAAAACAAAAA
+AIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AAoKCkAICAgAD/AAAA
+AP8AAP//AAAAAP8A/wD/AAD//wD///8ABAAAADQCAAAQAAAAJgYPABYA/////wAA
+LgMAAFMAAABnAwAAfwAAAAQAAAAHAQQAzgAAAEMPhgDuAAAAKgA3AAAAAAAqADcA
+VAAvAygAAAA3AAAAKgAAAAEAAQAAAAAAUAEAAMQOAADEDgAAAgAAAAIAAAAAAAAA
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/+AAAAAAAB4AHgAAAAAA4AA
+BwAAAAAEAAADwAAAAB///4HgAAAAOAAAgPAAAABUAAGA+AAAAFIAA4H4AAAAkQAH
+h/wAAACQgA///AAAAJBAH//8AAAAUCI///gAAABQFX//+AAAADAI///wAAAAEBB/
+/+AAAAAQID//wAAAABBAH/8AAAAAEIAP+AAAAAARAAeAAAAAABIAA4AAAAAAFAAB
+gAAAAAAYAACAAAAAAB///4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAI4CAABDD8YAiAAAACoANwAAAAAAKgA3AFQALwMoAAAANwAAACoAAAABAAQA
+AAAAAOgFAADEDgAAxA4AABAAAAAEAAAAAAAAAGRkBADk5KQA////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MP///////////////////////////////////zD/////
+//////////////////////////////8w////////////////////////////////
+////MP////////////8xEREREREf/////////////zD//////////zERH///////
+MREf//////////8w/////////xEf////////////MRH/////////MP///////zH/
+//////////////8REf///////zD//////zERERERERERERERH///MREf//////8w
+//////8RH////////////x////8REf//////MP////8xMTH//////////zEf////
+EREf/////zD/////MTH/H/////////8RH///MRERH/////8w/////x8x/zH/////
+//8xER//MRERERH/////MP////8fMf//H///////ERERERERERER/////zD/////
+HzH//zH/////MREREREREREREf////8w/////zEx////H/8f/xERERERERERER//
+////MP////8xMf///zExMTEREREREREREREf/////zD//////xH/////H/8RERER
+ERERERER//////8w//////8x////Mf//MRERERERERERH///////MP//////Mf//
+/x////8REREREREREf///////zD//////zH//zH/////MREREREREf////////8w
+//////8x//8f//////8RERERH///////////MP//////Mf8x////////MREf////
+/////////zD//////zH/H/////////8RH/////////////8w//////8xMf//////
+////MR//////////////MP//////MR////////////8f/////////////zD/////
+/zERERERERERERERH/////////////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MAQAAAAHAQEACAAAACYGDwAGAP////8BAAUAAAAJAgAA
+AAAFAAAAAQL///8ABwAAAPwCAAD///8AAAAEAAAALQEBAAQAAAAnAf//AwAAAAAA
+EQAAAAwAAAAIAAAACwAAABAAAAA3AAAAKgAAAAkAAAAQAAAANwAAACoAAAAJAAAA
+EAAAADcAAAAqAAAAIQAAAAgAAAAKAAAAEAAAAC8DAABUAAAACQAAABAAAAA3AAAA
+KgAAADEAAABgAAAAAQAAAAADFAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAA
+wMDAAMDcwACmyvAA//vwAKCgpACAgIAA/wAAAAD/AAD//wAAAAD/AP8A/wAA//8A
+////ADAAAAAMAAAAAQAAABUAAAAMAAAABAAAAFEAAADUAgAAAAAAAAAAAAA2AAAA
+KQAAAC8DAABUAAAAAAAAAAAAAAA3AAAAKgAAAFAAAAA0AQAAhAEAAFABAAAAAAAA
+hgDuADcAAAAqAAAAKAAAADcAAAAqAAAAAQABAAAAAABQAQAAxA4AAMQOAAACAAAA
+AgAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAf/gAAAAAAAeAB4AAAAAAOAAAcAAAAABAAAA8AAAAAf//+B4AAA
+ADgAAIDwAAAAVAABgPgAAABSAAOB+AAAAJEAB4f8AAAAkIAP//wAAACQQB///AAA
+AFAiP//4AAAAUBV///gAAAAwCP//8AAAABAQf//gAAAAECA//8AAAAAQQB//AAAA
+ABCAD/gAAAAAEQAHgAAAAAASAAOAAAAAABQAAYAAAAAAGAAAgAAAAAAf//+AAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAAVAYAAAAAAAAAAAAA
+NgAAACkAAAAvAwAAVAAAAAAAAAAAAAAANwAAACoAAABQAAAAbAEAALwBAACYBAAA
+AAAAAMYAiAA3AAAAKgAAACgAAAA3AAAAKgAAAAEABAAAAAAA6AUAAMQOAADEDgAA
+EAAAAAQAAAAAAAAAZGQEAOTkpAD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////
+//////////////////////////////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD/////////////MRERERERH/////////////8w//////////8xER//
+/////zERH///////////MP////////8RH////////////zER/////////zD/////
+//8x////////////////ERH///////8w//////8xERERERERERERER///zERH///
+////MP//////ER////////////8f////ERH//////zD/////MTEx//////////8x
+H////xERH/////8w/////zEx/x//////////ER///zERER//////MP////8fMf8x
+////////MREf/zERERER/////zD/////HzH//x///////xEREREREREREf////8w
+/////x8x//8x/////zERERERERERERH/////MP////8xMf///x//H/8RERERERER
+EREf/////zD/////MTH///8xMTExERERERERERERH/////8w//////8R/////x//
+EREREREREREREf//////MP//////Mf///zH//zERERERERERER///////zD/////
+/zH///8f////ERERERERERH///////8w//////8x//8x/////zERERERERH/////
+////MP//////Mf//H///////ERERER///////////zD//////zH/Mf///////zER
+H/////////////8w//////8x/x//////////ER//////////////MP//////MTH/
+/////////zEf/////////////zD//////zEf////////////H/////////////8w
+//////8xERERERERERERER//////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MP///////////////////////////////////zD/////
+//////////////////////////////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zAVAAAADAAAAAEAAAAlAAAADAAAAAAAAIAiAAAA
+DAAAAP////9LAAAAEAAAAAAAAAAFAAAAKAAAAAwAAAABAAAADgAAAGQAAAAUAAAA
+EAAAAAAAAACAAAAAAIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AA
+oKCkAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AZAAAAA==</picture>
+	</picture>
+	<picture>
+		<index>4</index>
+		<picture t="false">AQAAAFgAAAAAAAAAAAAAADYAAAApAAAAAAAAAAAAAACvBQAAVwQAACBFTUYAAAEA
+GBMAABQAAAACAAAAAAAAAAAAAAAUAAAAgAQAAGADAAAwAQAA5AAAAEYAAAAYCAAA
+DAgAAEdESUMBAACAAAMAAOoRnCoAAAAA9AcAAAEACQAAA/oDAAACAI4CAAAAAAUA
+AAAJAgAAAAAFAAAAAQL///8ABAAAAAQBDQAEAAAAAgECAAUAAAAMAioANwADAAAA
+HgAFAAAACwJUAHkCBQAAAAwCKgA3AAQAAAAEAQ0ALQAAAPcAAAMUAAAAAACAAAAA
+AIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AAoKCkAICAgAD/AAAA
+AP8AAP//AAAAAP8A/wD/AAD//wD///8ABAAAADQCAAAQAAAAJgYPABYA/////wAA
+eAIAAFMAAACxAgAAfwAAAAQAAAAHAQQAzgAAAEMPhgDuAAAAKgA3AAAAAAAqADcA
+VAB5AigAAAA3AAAAKgAAAAEAAQAAAAAAUAEAAMQOAADEDgAAAgAAAAIAAAAAAAAA
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/
+wAAAAAAAP//8AAAAAAHH//+AAAAABgf/wGAAAAAIB/8AEAAAABAH/gAIAAAAIAf8
+AAQAAAAgB/gABAAAAEAH+AACAAAAQAfwAAIAAABAB/AAAgAAAEAEFKcCAAAAIAQU
+qIQAAAAgBBSohAAAABAEFKiIAAAADAQXNxAAAAADBBAgYAAAAADkEBuAAAAAABwQ
+PAAAAAAABB/AAAAAAAAEEAAAAAAAAAQQAAAAAAAABBAAAAAAAAAEEAAAAAAAAAQQ
+AAAAAAAABdAAAAAAAAACIAAAAAAAAAQQAAAAAAAABBAAAAAAAAAEEAAAAAAAAAIg
+AAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAI4CAABDD8YAiAAAACoANwAAAAAAKgA3AFQAeQIoAAAANwAAACoAAAABAAQA
+AAAAAOgFAADEDgAAxA4AABAAAAAEAAAAAAAAAGRkBADk5KQA////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//////////
+/////////////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w//////////////8x
+ERERERH/////////////MP///////////xERERERERERERH//////////zD/////
+////MRH/MRERERERERERER////////8w////////MR///zERERERERH///8xH///
+////MP///////x////8xERERERH//////zH//////zD//////zH/////MREREREf
+////////H/////8w//////8f/////zERERER/////////zH/////MP//////H///
+//8xERERH/////////8x/////zD/////Mf//////MRERER///////////x////8w
+/////zH//////zERERH///////////8f////MP////8x//////8xERER////////
+////H////zD/////Mf//////Mf//MTH/Hx8xEf///x////8w//////8f/////zH/
+/zEx/x8fH/8f/zH/////MP//////H/////8x//8xMf8fHx//H/8x/////zD/////
+/zH/////Mf//MTH/Hx8f/x//H/////8w////////Ef///zH//zExEf8RMRH/Mf//
+////MP////////8R//8x//8x////H///MR///////zD//////////xEfMf//Mf//
+/zEfER////////8w////////////MRH//zH///8REf//////////MP//////////
+//8x//8xERER/////////////zD/////////////Mf//Mf////////////////8w
+/////////////zH//zH/////////////////MP////////////8x//8x////////
+/////////zD/////////////Mf//Mf////////////////8w/////////////zH/
+/zH/////////////////MP////////////8xMREx/////////////////zD/////
+/////////x//H/////////////////8w/////////////zH//zH/////////////
+////MP////////////8x//8x/////////////////zD/////////////Mf//Mf//
+//////////////8w//////////////8f/x//////////////////MP//////////
+////MRH//////////////////zD///////////////////////////////////8w
+////////////////////////////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MAQAAAAHAQEACAAAACYGDwAGAP////8BAAUAAAAJAgAA
+AAAFAAAAAQL///8ABwAAAPwCAAD///8AAAAEAAAALQEBAAQAAAAnAf//AwAAAAAA
+EQAAAAwAAAAIAAAACwAAABAAAAA3AAAAKgAAAAkAAAAQAAAANwAAACoAAAAJAAAA
+EAAAADcAAAAqAAAAIQAAAAgAAAAKAAAAEAAAAHkCAABUAAAACQAAABAAAAA3AAAA
+KgAAADEAAABgAAAAAQAAAAADFAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAA
+wMDAAMDcwACmyvAA//vwAKCgpACAgIAA/wAAAAD/AAD//wAAAAD/AP8A/wAA//8A
+////ADAAAAAMAAAAAQAAABUAAAAMAAAABAAAAFEAAADUAgAAAAAAAAAAAAA2AAAA
+KQAAAHkCAABUAAAAAAAAAAAAAAA3AAAAKgAAAFAAAAA0AQAAhAEAAFABAAAAAAAA
+hgDuADcAAAAqAAAAKAAAADcAAAAqAAAAAQABAAAAAABQAQAAxA4AAMQOAAACAAAA
+AgAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/8AAAAAAAD///AAAAAABx///gAAA
+AAYH/8BgAAAACAf/ABAAAAAQB/4ACAAAACAH/AAEAAAAIAf4AAQAAABAB/gAAgAA
+AEAH8AACAAAAQAfwAAIAAABABBSnAgAAACAEFKiEAAAAIAQUqIQAAAAQBBSoiAAA
+AAwEFzcQAAAAAwQQIGAAAAAA5BAbgAAAAAAcEDwAAAAAAAQfwAAAAAAABBAAAAAA
+AAAEEAAAAAAAAAQQAAAAAAAABBAAAAAAAAAEEAAAAAAAAAXQAAAAAAAAAiAAAAAA
+AAAEEAAAAAAAAAQQAAAAAAAABBAAAAAAAAACIAAAAAAAAAHAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAAVAYAAAAAAAAAAAAA
+NgAAACkAAAB5AgAAVAAAAAAAAAAAAAAANwAAACoAAABQAAAAbAEAALwBAACYBAAA
+AAAAAMYAiAA3AAAAKgAAACgAAAA3AAAAKgAAAAEABAAAAAAA6AUAAMQOAADEDgAA
+EAAAAAQAAAAAAAAAZGQEAOTkpAD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////
+//////////////////////////////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+////MRERERER/////////////zD///////////8RERERERERERER//////////8w
+/////////zER/zEREREREREREREf////////MP///////zEf//8xERERERER////
+MR///////zD///////8f////MRERERER//////8x//////8w//////8x/////zER
+ERERH////////x//////MP//////H/////8xEREREf////////8x/////zD/////
+/x//////MRERER//////////Mf////8w/////zH//////zEREREf//////////8f
+////MP////8x//////8xERER////////////H////zD/////Mf//////MREREf//
+/////////x////8w/////zH//////zH//zEx/x8fMRH///8f////MP//////H///
+//8x//8xMf8fHx//H/8x/////zD//////x//////Mf//MTH/Hx8f/x//Mf////8w
+//////8x/////zH//zEx/x8fH/8f/x//////MP///////xH///8x//8xMRH/ETER
+/zH//////zD/////////Ef//Mf//Mf///x///zEf//////8w//////////8RHzH/
+/zH///8xHxEf////////MP///////////zER//8x////ERH//////////zD/////
+////////Mf//MREREf////////////8w/////////////zH//zH/////////////
+////MP////////////8x//8x/////////////////zD/////////////Mf//Mf//
+//////////////8w/////////////zH//zH/////////////////MP//////////
+//8x//8x/////////////////zD/////////////MTERMf////////////////8w
+//////////////8f/x//////////////////MP////////////8x//8x////////
+/////////zD/////////////Mf//Mf////////////////8w/////////////zH/
+/zH/////////////////MP//////////////H/8f/////////////////zD/////
+/////////zER//////////////////8w////////////////////////////////
+////MP///////////////////////////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zAVAAAADAAAAAEAAAAlAAAADAAAAAAAAIAiAAAA
+DAAAAP////9LAAAAEAAAAAAAAAAFAAAAKAAAAAwAAAABAAAADgAAAGQAAAAUAAAA
+EAAAAAAAAACAAAAAAIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AA
+oKCkAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AZAAAAA==</picture>
+	</picture>
+	<picture>
+		<index>5</index>
+		<picture t="false">AQAAAFgAAAAAAAAAAAAAADYAAAApAAAAAAAAAAAAAACvBQAAVwQAACBFTUYAAAEA
+GBMAABQAAAACAAAAAAAAAAAAAAAUAAAAgAQAAGADAAAwAQAA5AAAAEYAAAAYCAAA
+DAgAAEdESUMBAACAAAMAAA3kXhQAAAAA9AcAAAEACQAAA/oDAAACAI4CAAAAAAUA
+AAAJAgAAAAAFAAAAAQL///8ABAAAAAQBDQAEAAAAAgECAAUAAAAMAioANwADAAAA
+HgAFAAAACwIiADADBQAAAAwCKgA3AAQAAAAEAQ0ALQAAAPcAAAMUAAAAAACAAAAA
+AIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AAoKCkAICAgAD/AAAA
+AP8AAP//AAAAAP8A/wD/AAD//wD///8ABAAAADQCAAAQAAAAJgYPABYA/////wAA
+LwMAACEAAABoAwAATQAAAAQAAAAHAQQAzgAAAEMPhgDuAAAAKgA3AAAAAAAqADcA
+IgAwAygAAAA3AAAAKgAAAAEAAQAAAAAAUAEAAMQOAADEDgAAAgAAAAIAAAAAAAAA
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAABgAAAAAAAAf+AAAAAAAA+B
++AAAAAAAcAP/AAAAAAGAB//AAAAAAgAP//AAAAAEAB//+AAAAAgAP//8AAAA/8Af
+//4AAACAYA///gAAAIBf////AAAAgFAL//8AAACAUAnh/wAAAIBQCOB+AAAAgFAI
+YD4AAACAUAggPAAAAIBQCCB4AAAAgFAIIOAAAAD/0AghgAAAAEAwCD4AAAAAP//4
+IAAAAAAgGAQgAAAAACAUAiAAAAAAIBP/IAAAAAAgEgEgAAAAACASASAAAAAAIBIB
+IAAAAAAgEgEgAAAAACASASAAAAAAP/IBIAAAAAAQCgEgAAAAAAgGASAAAAAABAP/
+IAAAAAACAACgAAAAAAEAAGAAAAAAAP//4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAI4CAABDD8YAiAAAACoANwAAAAAAKgA3ACIAMAMoAAAANwAAACoAAAABAAQA
+AAAAAOgFAADEDgAAxA4AABAAAAAEAAAAAAAAAGRkBADk5KQA////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//////////
+/////////////////////////zD///////////////////////////////////8w
+//////////////////////8f////////////MP////////////////////8xH///
+/////////zD///////////////8xERERER////////////8w/////////////xER
+H///MRERH///////////MP//////////MRH//////xERERER/////////zD/////
+////MR///////zERERERERH///////8w/////////x////////8REREREREREf//
+////MP///////zH///////8xEREREREREREf/////zD///////8f////////ERER
+EREREREREf////8w/////xERERER/////zEREREREREREREf////MP////8f////
+MR//////ERERERERERERH////zD/////H////zExERERERERERERERERERH///8w
+/////x////8xMf////8fERERERERERER////MP////8f////MTH/////HzERH/8x
+EREREf///zD/////H////zEx/////x//ER///zERER////8w/////x////8xMf//
+//8f/zEf////EREf////MP////8f////MTH/////H///H////xER/////zD/////
+H////zEx/////x///x///zERH/////8w/////x////8xMf////8f//8f//8RH///
+////MP////8RERERETH/////H///H/8xH////////zD/////Mf////8R/////x//
+/xERH/////////8w//////8REREREREREREf//8f////////////MP//////H///
+/zEf////Mf//H////////////zD//////x////8xMf////8f/x////////////8w
+//////8f////Mf8REREREf8f////////////MP//////H////zH/H////zH/H///
+/////////zD//////x////8x/x////8x/x////////////8w//////8f////Mf8f
+////Mf8f////////////MP//////H////zH/H////zH/H////////////zD/////
+/x////8x/x////8x/x////////////8w//////8REREREf8f////Mf8f////////
+////MP//////Mf////8fH////zH/H////////////zD///////8f////MR////8x
+/x////////////8w////////Mf////8REREREf8f////////////MP////////8f
+//////////8fH////////////zD/////////Mf//////////MR////////////8w
+//////////8REREREREREREf////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MAQAAAAHAQEACAAAACYGDwAGAP////8BAAUAAAAJAgAA
+AAAFAAAAAQL///8ABwAAAPwCAAD///8AAAAEAAAALQEBAAQAAAAnAf//AwAAAAAA
+EQAAAAwAAAAIAAAACwAAABAAAAA3AAAAKgAAAAkAAAAQAAAANwAAACoAAAAJAAAA
+EAAAADcAAAAqAAAAIQAAAAgAAAAKAAAAEAAAADADAAAiAAAACQAAABAAAAA3AAAA
+KgAAADEAAABgAAAAAQAAAAADFAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAA
+wMDAAMDcwACmyvAA//vwAKCgpACAgIAA/wAAAAD/AAD//wAAAAD/AP8A/wAA//8A
+////ADAAAAAMAAAAAQAAABUAAAAMAAAABAAAAFEAAADUAgAAAAAAAAAAAAA2AAAA
+KQAAADADAAAiAAAAAAAAAAAAAAA3AAAAKgAAAFAAAAA0AQAAhAEAAFABAAAAAAAA
+hgDuADcAAAAqAAAAKAAAADcAAAAqAAAAAQABAAAAAABQAQAAxA4AAMQOAAACAAAA
+AgAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAACAAAAAAAAAAYAAAAAAAAH/gAAAAAAAPgfgAAAAAAHAD/wAAAAABgAf/wAAA
+AAIAD//wAAAABAAf//gAAAAIAD///AAAAP/AH//+AAAAgGAP//4AAACAX////wAA
+AIBQC///AAAAgFAJ4f8AAACAUAjgfgAAAIBQCGA+AAAAgFAIIDwAAACAUAggeAAA
+AIBQCCDgAAAA/9AIIYAAAABAMAg+AAAAAD//+CAAAAAAIBgEIAAAAAAgFAIgAAAA
+ACAT/yAAAAAAIBIBIAAAAAAgEgEgAAAAACASASAAAAAAIBIBIAAAAAAgEgEgAAAA
+AD/yASAAAAAAEAoBIAAAAAAIBgEgAAAAAAQD/yAAAAAAAgAAoAAAAAABAABgAAAA
+AAD//+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAAVAYAAAAAAAAAAAAA
+NgAAACkAAAAwAwAAIgAAAAAAAAAAAAAANwAAACoAAABQAAAAbAEAALwBAACYBAAA
+AAAAAMYAiAA3AAAAKgAAACgAAAA3AAAAKgAAAAEABAAAAAAA6AUAAMQOAADEDgAA
+EAAAAAQAAAAAAAAAZGQEAOTkpAD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////
+//////////////////////////////8w////////////////////////////////
+////MP//////////////////////H////////////zD/////////////////////
+MR////////////8w////////////////MREREREf////////////MP//////////
+//8RER///zERER///////////zD//////////zER//////8REREREf////////8w
+/////////zEf//////8xERERERER////////MP////////8f////////ERERERER
+ERH//////zD///////8x////////MRERERERERERH/////8w////////H///////
+/xERERERERERERH/////MP////8REREREf////8xERERERERERERH////zD/////
+H////zEf/////xERERERERERER////8w/////x////8xMRERERERERERERERERER
+////MP////8f////MTH/////HxEREREREREREf///zD/////H////zEx/////x8x
+ER//MRERERH///8w/////x////8xMf////8f/xEf//8xEREf////MP////8f////
+MTH/////H/8xH////xERH////zD/////H////zEx/////x///x////8REf////8w
+/////x////8xMf////8f//8f//8xER//////MP////8f////MTH/////H///H///
+ER///////zD/////EREREREx/////x///x//MR////////8w/////zH/////Ef//
+//8f//8RER//////////MP//////ERERERERERERH///H////////////zD/////
+/x////8xH////zH//x////////////8w//////8f////MTH/////H/8f////////
+////MP//////H////zH/ERERERH/H////////////zD//////x////8x/x////8x
+/x////////////8w//////8f////Mf8f////Mf8f////////////MP//////H///
+/zH/H////zH/H////////////zD//////x////8x/x////8x/x////////////8w
+//////8f////Mf8f////Mf8f////////////MP//////ERERERH/H////zH/H///
+/////////zD//////zH/////Hx////8x/x////////////8w////////H////zEf
+////Mf8f////////////MP///////zH/////ERERERH/H////////////zD/////
+////H///////////Hx////////////8w/////////zH//////////zEf////////
+////MP//////////ERERERERERERH////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zAVAAAADAAAAAEAAAAlAAAADAAAAAAAAIAiAAAA
+DAAAAP////9LAAAAEAAAAAAAAAAFAAAAKAAAAAwAAAABAAAADgAAAGQAAAAUAAAA
+EAAAAAAAAACAAAAAAIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AA
+oKCkAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AZAAAAA==</picture>
+	</picture>
+	<picture>
+		<index>6</index>
+		<picture t="false">AQAAAFgAAAAAAAAAAAAAADYAAAApAAAAAAAAAAAAAACvBQAAVwQAACBFTUYAAAEA
+GBMAABQAAAACAAAAAAAAAAAAAAAUAAAAgAQAAGADAAAwAQAA5AAAAEYAAAAYCAAA
+DAgAAEdESUMBAACAAAMAAA3kXhQAAAAA9AcAAAEACQAAA/oDAAACAI4CAAAAAAUA
+AAAJAgAAAAAFAAAAAQL///8ABAAAAAQBDQAEAAAAAgECAAUAAAAMAioANwADAAAA
+HgAFAAAACwIiADADBQAAAAwCKgA3AAQAAAAEAQ0ALQAAAPcAAAMUAAAAAACAAAAA
+AIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AAoKCkAICAgAD/AAAA
+AP8AAP//AAAAAP8A/wD/AAD//wD///8ABAAAADQCAAAQAAAAJgYPABYA/////wAA
+LwMAACEAAABoAwAATQAAAAQAAAAHAQQAzgAAAEMPhgDuAAAAKgA3AAAAAAAqADcA
+IgAwAygAAAA3AAAAKgAAAAEAAQAAAAAAUAEAAMQOAADEDgAAAgAAAAIAAAAAAAAA
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAABgAAAAAAAAf+AAAAAAAA+B
++AAAAAAAcAP/AAAAAAGAB//AAAAAAgAP//AAAAAEAB//+AAAAAgAP//8AAAA/8Af
+//4AAACAYA///gAAAIBf////AAAAgFAL//8AAACAUAnh/wAAAIBQCOB+AAAAgFAI
+YD4AAACAUAggPAAAAIBQCCB4AAAAgFAIIOAAAAD/0AghgAAAAEAwCD4AAAAAP//4
+IAAAAAAgGAQgAAAAACAUAiAAAAAAIBP/IAAAAAAgEgEgAAAAACASASAAAAAAIBIB
+IAAAAAAgEgEgAAAAACASASAAAAAAP/IBIAAAAAAQCgEgAAAAAAgGASAAAAAABAP/
+IAAAAAACAACgAAAAAAEAAGAAAAAAAP//4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAI4CAABDD8YAiAAAACoANwAAAAAAKgA3ACIAMAMoAAAANwAAACoAAAABAAQA
+AAAAAOgFAADEDgAAxA4AABAAAAAEAAAAAAAAAGRkBADk5KQA////AP///wD///8A
+////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//////////
+/////////////////////////zD///////////////////////////////////8w
+//////////////////////8f////////////MP////////////////////8xH///
+/////////zD///////////////8xERERER////////////8w/////////////xER
+H///MRERH///////////MP//////////MRH//////xERERER/////////zD/////
+////MR///////zERERERERH///////8w/////////x////////8REREREREREf//
+////MP///////zH///////8xEREREREREREf/////zD///////8f////////ERER
+EREREREREf////8w/////xERERER/////zEREREREREREREf////MP////8f////
+MR//////ERERERERERERH////zD/////H////zExERERERERERERERERERH///8w
+/////x////8xMf////8fERERERERERER////MP////8f////MTH/////HzERH/8x
+EREREf///zD/////H////zEx/////x//ER///zERER////8w/////x////8xMf//
+//8f/zEf////EREf////MP////8f////MTH/////H///H////xER/////zD/////
+H////zEx/////x///x///zERH/////8w/////x////8xMf////8f//8f//8RH///
+////MP////8RERERETH/////H///H/8xH////////zD/////Mf////8R/////x//
+/xERH/////////8w//////8REREREREREREf//8f////////////MP//////H///
+/zEf////Mf//H////////////zD//////x////8xMf////8f/x////////////8w
+//////8f////Mf8REREREf8f////////////MP//////H////zH/H////zH/H///
+/////////zD//////x////8x/x////8x/x////////////8w//////8f////Mf8f
+////Mf8f////////////MP//////H////zH/H////zH/H////////////zD/////
+/x////8x/x////8x/x////////////8w//////8REREREf8f////Mf8f////////
+////MP//////Mf////8fH////zH/H////////////zD///////8f////MR////8x
+/x////////////8w////////Mf////8REREREf8f////////////MP////////8f
+//////////8fH////////////zD/////////Mf//////////MR////////////8w
+//////////8REREREREREREf////////////MP//////////////////////////
+/////////zD///////////////////////////////////8w////////////////
+////////////////////MAQAAAAHAQEACAAAACYGDwAGAP////8BAAUAAAAJAgAA
+AAAFAAAAAQL///8ABwAAAPwCAAD///8AAAAEAAAALQEBAAQAAAAnAf//AwAAAAAA
+EQAAAAwAAAAIAAAACwAAABAAAAA3AAAAKgAAAAkAAAAQAAAANwAAACoAAAAJAAAA
+EAAAADcAAAAqAAAAIQAAAAgAAAAKAAAAEAAAADADAAAiAAAACQAAABAAAAA3AAAA
+KgAAADEAAABgAAAAAQAAAAADFAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAA
+wMDAAMDcwACmyvAA//vwAKCgpACAgIAA/wAAAAD/AAD//wAAAAD/AP8A/wAA//8A
+////ADAAAAAMAAAAAQAAABUAAAAMAAAABAAAAFEAAADUAgAAAAAAAAAAAAA2AAAA
+KQAAADADAAAiAAAAAAAAAAAAAAA3AAAAKgAAAFAAAAA0AQAAhAEAAFABAAAAAAAA
+hgDuADcAAAAqAAAAKAAAADcAAAAqAAAAAQABAAAAAABQAQAAxA4AAMQOAAACAAAA
+AgAAAAAAAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAACAAAAAAAAAAYAAAAAAAAH/gAAAAAAAPgfgAAAAAAHAD/wAAAAABgAf/wAAA
+AAIAD//wAAAABAAf//gAAAAIAD///AAAAP/AH//+AAAAgGAP//4AAACAX////wAA
+AIBQC///AAAAgFAJ4f8AAACAUAjgfgAAAIBQCGA+AAAAgFAIIDwAAACAUAggeAAA
+AIBQCCDgAAAA/9AIIYAAAABAMAg+AAAAAD//+CAAAAAAIBgEIAAAAAAgFAIgAAAA
+ACAT/yAAAAAAIBIBIAAAAAAgEgEgAAAAACASASAAAAAAIBIBIAAAAAAgEgEgAAAA
+AD/yASAAAAAAEAoBIAAAAAAIBgEgAAAAAAQD/yAAAAAAAgAAoAAAAAABAABgAAAA
+AAD//+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAAVAYAAAAAAAAAAAAA
+NgAAACkAAAAwAwAAIgAAAAAAAAAAAAAANwAAACoAAABQAAAAbAEAALwBAACYBAAA
+AAAAAMYAiAA3AAAAKgAAACgAAAA3AAAAKgAAAAEABAAAAAAA6AUAAMQOAADEDgAA
+EAAAAAQAAAAAAAAAZGQEAOTkpAD///8A////AP///wD///8A////AP///wD///8A
+////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////
+//////////////////////////////8w////////////////////////////////
+////MP//////////////////////H////////////zD/////////////////////
+MR////////////8w////////////////MREREREf////////////MP//////////
+//8RER///zERER///////////zD//////////zER//////8REREREf////////8w
+/////////zEf//////8xERERERER////////MP////////8f////////ERERERER
+ERH//////zD///////8x////////MRERERERERERH/////8w////////H///////
+/xERERERERERERH/////MP////8REREREf////8xERERERERERERH////zD/////
+H////zEf/////xERERERERERER////8w/////x////8xMRERERERERERERERERER
+////MP////8f////MTH/////HxEREREREREREf///zD/////H////zEx/////x8x
+ER//MRERERH///8w/////x////8xMf////8f/xEf//8xEREf////MP////8f////
+MTH/////H/8xH////xERH////zD/////H////zEx/////x///x////8REf////8w
+/////x////8xMf////8f//8f//8xER//////MP////8f////MTH/////H///H///
+ER///////zD/////EREREREx/////x///x//MR////////8w/////zH/////Ef//
+//8f//8RER//////////MP//////ERERERERERERH///H////////////zD/////
+/x////8xH////zH//x////////////8w//////8f////MTH/////H/8f////////
+////MP//////H////zH/ERERERH/H////////////zD//////x////8x/x////8x
+/x////////////8w//////8f////Mf8f////Mf8f////////////MP//////H///
+/zH/H////zH/H////////////zD//////x////8x/x////8x/x////////////8w
+//////8f////Mf8f////Mf8f////////////MP//////ERERERH/H////zH/H///
+/////////zD//////zH/////Hx////8x/x////////////8w////////H////zEf
+////Mf8f////////////MP///////zH/////ERERERH/H////////////zD/////
+////H///////////Hx////////////8w/////////zH//////////zEf////////
+////MP//////////ERERERERERERH////////////zD/////////////////////
+//////////////8w////////////////////////////////////MP//////////
+/////////////////////////zAVAAAADAAAAAEAAAAlAAAADAAAAAAAAIAiAAAA
+DAAAAP////9LAAAAEAAAAAAAAAAFAAAAKAAAAAwAAAABAAAADgAAAGQAAAAUAAAA
+EAAAAAAAAACAAAAAAIAAAICAAAAAAIAAgACAAACAgADAwMAAwNzAAKbK8AD/+/AA
+oKCkAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AZAAAAA==</picture>
+	</picture>
+</document>

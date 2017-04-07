@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="dcd6c7af-a35c-4822-adad-0f743bee2d35">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.МетодыРасчетаСебестоимости" category="Ref">
+				<xr:TypeId>bb6b34e0-7516-4b16-b92a-875514d12016</xr:TypeId>
+				<xr:ValueId>7c373ce7-ecf1-4183-a7c7-a54d8ade36af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.МетодыРасчетаСебестоимости" category="Manager">
+				<xr:TypeId>6020400d-a12f-4afb-9c6b-1b1d16ddb3d2</xr:TypeId>
+				<xr:ValueId>b400d55b-eb67-40a5-8f67-d7eb6a808dd3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.МетодыРасчетаСебестоимости" category="List">
+				<xr:TypeId>a3164102-9af7-4184-a11e-a0a5f363156c</xr:TypeId>
+				<xr:ValueId>8b547d94-745c-4d94-b6cd-d0b7a83efec9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>МетодыРасчетаСебестоимости</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Методы расчета себестоимости</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="de283c7e-8b13-4074-95ee-1dc4046f96a7">
+				<Properties>
+					<Name>ПоСреднему</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>По среднему</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>по средневзвешенной себестоимости</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e3f8936a-a4e9-461e-9740-b8b58a11377c">
+				<Properties>
+					<Name>FIFO</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>FIFO</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>по себестоимости первых по времени закупок</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="89832065-cd9a-4c3a-8741-4fc51f4f873d">
+				<Properties>
+					<Name>LIFO</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>LIFO</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>по себестоимости последних по времени закупок</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Enum uuid="ee450756-9ecf-4c6e-b292-8dffaa1f9117">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыДолга" category="Ref">
+				<xr:TypeId>0d807ff7-7a64-4eec-b6ea-1c37c7d43234</xr:TypeId>
+				<xr:ValueId>a65c6714-8f4a-4870-86e4-5dd247254aa8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыДолга" category="Manager">
+				<xr:TypeId>b3659e5f-bf6b-4122-b803-2701b09036f8</xr:TypeId>
+				<xr:ValueId>f0e393b9-abba-4c20-b4e3-8fc88df524b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыДолга" category="List">
+				<xr:TypeId>2ee0633f-d07a-4ff3-9a3d-086f2a874d4e</xr:TypeId>
+				<xr:ValueId>ed6243e3-d38e-4f61-a070-5035b9626397</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыДолга</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Виды долга</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>Виды долга по регистрам взаиморасчетов</Comment>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="510b7513-4153-4d55-8838-1efa1ae8a0c4">
+				<Properties>
+					<Name>Аванс</Name>
+					<Synonym/>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="cd28548d-3a3d-4ae0-8676-a1a85812bbb7">
+				<Properties>
+					<Name>АвансВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Аванс вал.</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="646342b4-3b0c-4053-993d-373e15019a1b">
+				<Properties>
+					<Name>ДолгВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг поставщику - нерезиденту</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2372ccba-f0e0-4325-9973-7245dbd810f0">
+				<Properties>
+					<Name>ДолгЗаМатериалы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за материалы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fddfaefe-8d73-4549-9b55-249545d511e0">
+				<Properties>
+					<Name>ДолгЗаНМА</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за НМА</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1fc71e5a-969f-4441-9358-1b9361c8fbd2">
+				<Properties>
+					<Name>ДолгЗаОС</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за ОС</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a63fa1a4-cb7c-43da-ad5c-7697e79581d4">
+				<Properties>
+					<Name>ДолгЗаПродукцию</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за продукцию</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="43b633a3-9bde-4fbf-a76f-be5afce760f1">
+				<Properties>
+					<Name>ДолгЗаПолуфабрикаты</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за полуфабрикаты</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8761d21c-7cdb-4cce-8656-ffb7a6069b89">
+				<Properties>
+					<Name>ДолгЗаТовары</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за товары</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="0d8fbd99-2a4a-4125-8381-fd69a08b07a4">
+				<Properties>
+					<Name>ДолгЗаТоварыВРознице</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за товары в рознице</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Долг за товары в рознице</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="a72277a9-be5b-4d79-b746-018691909773">
+				<Properties>
+					<Name>ДолгЗаТоварыВРозницеЕНВД</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за товары в рознице (ЕНВД)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Долг за товары в рознице (ЕНВД)</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="6300f9af-cc16-42d0-b9cb-6455c0e93073">
+				<Properties>
+					<Name>ДолгЗаТоварыПринятые</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за товары принятые</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="c793df6b-2442-451c-b799-8a704bd28626">
+				<Properties>
+					<Name>ДолгЗаУслуги</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за услуги</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="73ab59a9-bec2-430d-9655-2baa83c8d42f">
+				<Properties>
+					<Name>ДолгЗаРаботы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за работы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="c6d9b2b7-82a7-48b2-ac8c-3821e86c3529">
+				<Properties>
+					<Name>Прочее</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг по прочим операциям</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="26b04435-41fc-4acd-926f-d8c1fb1c23e9">
+				<Properties>
+					<Name>ПрочееВал</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг по прочим операциям (в валюте)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f4d0c79e-41dd-4030-8275-fb3c91638002">
+				<Properties>
+					<Name>РозничнаяВыручка</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Розничная выручка</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Розничная выручка</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="c158c436-db33-48ba-a872-27239dca0c2a">
+				<Properties>
+					<Name>РозничнаяВыручкаЕНВД</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Розничная выручка (ЕНВД)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Розничная выручка (ЕНВД)</Comment>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="52b3ef03-1dba-496c-8b39-9394a025518e">
+				<Properties>
+					<Name>ДолгЗаПродукциюВРознице</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за продукцию (в рознице)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="34f119e9-ac33-4185-9ef1-72db80a385a7">
+				<Properties>
+					<Name>ДолгЗаПолуфабрикатыВРознице</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за полуфабрикаты (в рознице)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="428e8aa4-a1a2-4200-addc-1e50f2767942">
+				<Properties>
+					<Name>ДолгЗаТоварыПринятыеВРознице</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за товары принятые (в рознице)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="ab9e0c9f-f6a8-414f-8967-9178a17b4fb7">
+				<Properties>
+					<Name>ДолгЗаУслугиВРознице</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за услуги (в рознице)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fdd20728-453f-4e37-80d1-67ca093575e6">
+				<Properties>
+					<Name>ДолгЗаРаботыВРознице</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Долг за работы (в рознице)</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

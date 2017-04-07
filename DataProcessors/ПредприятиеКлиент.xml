@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<DataProcessor uuid="0c5595a7-8ef2-4f4a-b07c-36f1091cd2b3">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.ПредприятиеКлиент" category="Object">
+				<xr:TypeId>3dbc06fe-bbf5-4d64-8f9e-7a0e51467f82</xr:TypeId>
+				<xr:ValueId>f2f962d6-a528-44e0-a9db-00cac86140dc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.ПредприятиеКлиент" category="Manager">
+				<xr:TypeId>ac54c6b2-abf5-46c4-9434-73a07a341679</xr:TypeId>
+				<xr:ValueId>b2d82c42-b63d-447b-83a6-7b0cc965eeb4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПредприятиеКлиент</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>1С:Предприятие - Клиент банка</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>Обмен данными с клиент-банковскими системами</Comment>
+			<UseStandardCommands>false</UseStandardCommands>
+			<DefaultForm>DataProcessor.ПредприятиеКлиент.Form.Форма1</DefaultForm>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Form>Форма1</Form>
+			<Template>Форма1_Отчет</Template>
+			<Template>Форма1_ВидыДокументов</Template>
+			<Template>Форма1_ПолучитьВыписки</Template>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

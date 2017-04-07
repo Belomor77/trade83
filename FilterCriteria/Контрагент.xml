@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<FilterCriterion uuid="c2dda4e1-31de-462d-b8ad-6b60cc35c618">
+		<InternalInfo>
+			<xr:GeneratedType name="FilterCriterionManager.Контрагент" category="Manager">
+				<xr:TypeId>1880c667-b344-4fb8-89d9-cdcf62e4b655</xr:TypeId>
+				<xr:ValueId>8867bdc2-b806-471c-a344-91638b3bc8eb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="FilterCriterionList.Контрагент" category="List">
+				<xr:TypeId>545c067f-a4cb-4f22-ae1a-388863a77f80</xr:TypeId>
+				<xr:ValueId>545a8bef-013a-4fd7-ab24-c12cbf43e368</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Контрагент</Name>
+			<Synonym/>
+			<Comment/>
+			<Type>
+				<v8:Type>cfg:CatalogRef.Контрагенты</v8:Type>
+			</Type>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦ.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Реализация.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратОтПокупателя.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПлатежноеПоручение.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратПоставщику.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтчетКомиссионера.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеПрочее.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураВыданный.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеДопРасходы.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаявкаПокупателя.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СчетФактураПолученный.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаказПоставщику.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтчетКомитенту.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиПриход.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаВыпискиРасход.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦИмпорт.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПКО.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РКО.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияПрочее.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.Доверенность.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВводОстатковПоставщика.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВводОстатковПокупателя.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВводОстатковТМЦ.Attribute.Поставщик</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВводОстатковТМЦ.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировкаДолга.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦИмпорт.Attribute.Таможня</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПокупок.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаписьКнигиПродаж.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ИнвентаризацияКомиссионера.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПереоценкаУКомиссионера.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияРозница.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.КорректировкаОтгрузки.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтчетККМ.Attribute.Контрагент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеТМЦРозница.Attribute.Контрагент</xr:Item>
+			</Content>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects/>
+	</FilterCriterion>
+</MetaDataObject>

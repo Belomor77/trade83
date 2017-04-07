@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<FilterCriterion uuid="6131a73e-5f3f-48a7-a363-8ce37d871516">
+		<InternalInfo>
+			<xr:GeneratedType name="FilterCriterionManager.ФизЛицо" category="Manager">
+				<xr:TypeId>35f7945b-4484-4a92-ab7e-4383396b144c</xr:TypeId>
+				<xr:ValueId>7912e887-e2f0-4283-a154-53fe697906d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="FilterCriterionList.ФизЛицо" category="List">
+				<xr:TypeId>f6f3f196-13a5-4001-8ece-5f8fa3e9d38b</xr:TypeId>
+				<xr:ValueId>ee97876c-3afd-4a4d-8479-ed01f000a5cf</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ФизЛицо</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Физическое лицо</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<Type>
+				<v8:Type>cfg:CatalogRef.ФизЛица</v8:Type>
+			</Type>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаАвансОтчетаТМЦ.Attribute.ФизЛицо</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаАвансОтчетаОплата.Attribute.ФизЛицо</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СтрокаАвансОтчетаПрочее.Attribute.ФизЛицо</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПКО.Attribute.ФизЛицо</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РКО.Attribute.ФизЛицо</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВводОстатковКассаБанкПодотчетник.TabularSection.ТабличнаяЧасть1.Attribute.Объект</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.АвансовыйОтчет.Attribute.ФизЛицо</xr:Item>
+			</Content>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects/>
+	</FilterCriterion>
+</MetaDataObject>
